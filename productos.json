@@ -477,23 +477,23 @@
   },
   {
     "marca": "postobon",
-    "nombre": "breta�a vidrio 350ml x30u",
+    "nombre": "bretaña vidrio 350ml x30u",
     "precio": "55000",
-    "imagen": "img/postobon/breta�a350.jpg",
+    "imagen": "img/postobon/bretaña350.jpg",
     "permitemitad": "true"
   },
   {
     "marca": "postobon",
-    "nombre": "breta�a vidrio sixpack 330ml",
+    "nombre": "bretaña vidrio sixpack 330ml",
     "precio": "13000",
-    "imagen": "img/postobon/breta�a300.jpg",
+    "imagen": "img/postobon/bretaña300.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "postobon",
-    "nombre": "breta�a 1.5 x12u",
+    "nombre": "bretaña 1.5 x12u",
     "precio": "43000",
-    "imagen": "img/postobon/breta�a1.5.jpg",
+    "imagen": "img/postobon/bretaña1.5.jpg",
     "permitemitad": "true"
   },
   {
@@ -988,7 +988,7 @@
   },
   {
     "marca": "postobon",
-    "nombre": "hit vidrio naranja pi�a 237ml x30u",
+    "nombre": "hit vidrio naranja piña 237ml x30u",
     "precio": "36000",
     "imagen": "img/postobon/vidriohitp.jpg",
     "permitemitad": "true"
@@ -1023,7 +1023,7 @@
   },
   {
     "marca": "postobon",
-    "nombre": "hit vidrio naranja pi�a 350ml x30u",
+    "nombre": "hit vidrio naranja piña 350ml x30u",
     "precio": "55000",
     "imagen": "img/postobon/hit350p.jpg",
     "permitemitad": "true"
@@ -1072,7 +1072,7 @@
   },
   {
     "marca": "postobon",
-    "nombre": "hit pet naranja pi�a 300ml x12u",
+    "nombre": "hit pet naranja piña 300ml x12u",
     "precio": "19000",
     "imagen": "img/postobon/hit300pi.jpg",
     "permitemitad": "true"
@@ -1107,14 +1107,14 @@
   },
   {
     "marca": "postobon",
-    "nombre": "hit pet naranja pi�a 500ml x12u",
+    "nombre": "hit pet naranja piña 500ml x12u",
     "precio": "29000",
     "imagen": "img/postobon/hit500p.jpg",
     "permitemitad": "true"
   },
   {
     "marca": "postobon",
-    "nombre": "hit caja naranja pi�a 1ltrs x12u",
+    "nombre": "hit caja naranja piña 1ltrs x12u",
     "precio": "44000",
     "imagen": "img/postobon/hitcajalitrop.jpg",
     "permitemitad": "true"
@@ -1149,9 +1149,9 @@
   },
   {
     "marca": "postobon",
-    "nombre": "hit pet naranja pi�a 1ltrs x6u",
+    "nombre": "hit pet naranja piña 1ltrs x6u",
     "precio": "38000",
-    "imagen": "img/postobon/hitpetlitropi�a.jpg",
+    "imagen": "img/postobon/hitpetlitropiña.jpg",
     "permitemitad": "true"
   },
   {
@@ -1191,7 +1191,7 @@
   },
   {
     "marca": "postobon",
-    "nombre": "hit pet naranja pi�a 1.5ltrs x6u",
+    "nombre": "hit pet naranja piña 1.5ltrs x6u",
     "precio": "24000",
     "imagen": "img/postobon/hit1.5p.jpg",
     "permitemitad": "false"
@@ -1359,37 +1359,37 @@
   },
   {
     "marca": "beer",
-    "nombre": "coste�a bacana vidrio 320cm x30u",
+    "nombre": "costeña bacana vidrio 320cm x30u",
     "precio": "53000",
-    "imagen": "img/beer/coste�abot.jpg",
+    "imagen": "img/beer/costeñabot.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "beer",
-    "nombre": "coste�a banaca lata 330cm x24u",
+    "nombre": "costeña banaca lata 330cm x24u",
     "precio": "56000",
-    "imagen": "img/beer/coste�averdel.jpg",
+    "imagen": "img/beer/costeñaverdel.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "beer",
-    "nombre": "coste�a gris vidrio 750ml x16u",
+    "nombre": "costeña gris vidrio 750ml x16u",
     "precio": "47000",
-    "imagen": "img/beer/coste�a750.jpg",
+    "imagen": "img/beer/costeña750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "beer",
-    "nombre": "coste�a gris vidrio 330cm x30u",
+    "nombre": "costeña gris vidrio 330cm x30u",
     "precio": "48000",
-    "imagen": "img/beer/coste�a330bot.jpg",
+    "imagen": "img/beer/costeña330bot.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "beer",
-    "nombre": "coste�a original lata 330cm x24u",
+    "nombre": "costeña original lata 330cm x24u",
     "precio": "46000",
-    "imagen": "img/beer/coste�agrislata.jpg",
+    "imagen": "img/beer/costeñagrislata.jpg",
     "permitemitad": "false"
   },
   {
@@ -1492,9 +1492,9 @@
   },
   {
     "marca": "bigcola",
-    "nombre": "big cola pet pi�a 400ml x12u",
+    "nombre": "big cola pet piña 400ml x12u",
     "precio": "14500",
-    "imagen": "img/bigcola/big400pi�a.jpg",
+    "imagen": "img/bigcola/big400piña.jpg",
     "permitemitad": "true"
   },
   {
@@ -2335,7 +2335,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 4 a�os 250ml",
+    "nombre": "ron santafe 4 años 250ml",
     "precio": "14500",
     "imagen": "img/licores/nectar/ronsan250.jpg",
     "permitemitad": "false"
@@ -2343,7 +2343,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 4 a�os 375ml",
+    "nombre": "ron santafe 4 años 375ml",
     "precio": "24000",
     "imagen": "img/licores/nectar/ronsan4375.jpg",
     "permitemitad": "false"
@@ -2351,7 +2351,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 4 a�os 750ml",
+    "nombre": "ron santafe 4 años 750ml",
     "precio": "42500",
     "imagen": "img/licores/nectar/ronsan4750.jpg",
     "permitemitad": "false"
@@ -2359,7 +2359,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 4 a�os caja 1 ltrs",
+    "nombre": "ron santafe 4 años caja 1 ltrs",
     "precio": "52000",
     "imagen": "img/licores/nectar/ronsan41l.jpg",
     "permitemitad": "false"
@@ -2367,7 +2367,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 6 a�os 750ml",
+    "nombre": "ron santafe 6 años 750ml",
     "precio": "54000",
     "imagen": "img/licores/nectar/ronsant6.jpg",
     "permitemitad": "false"
@@ -2375,7 +2375,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 8 a�os 750ml",
+    "nombre": "ron santafe 8 años 750ml",
     "precio": "62000",
     "imagen": "img/licores/nectar/ronsant8.jpg",
     "permitemitad": "false"
@@ -2447,7 +2447,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron viejo de caldas 5 a�os juan de la cruz 375ml",
+    "nombre": "ron viejo de caldas 5 años juan de la cruz 375ml",
     "precio": "29500",
     "imagen": "img/licores/nectar/juanron375.jpg",
     "permitemitad": "false"
@@ -2455,7 +2455,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron viejo de caldas 5 a�os juan de la cruz 750ml",
+    "nombre": "ron viejo de caldas 5 años juan de la cruz 750ml",
     "precio": "55000",
     "imagen": "img/licores/nectar/juancr750.jpg",
     "permitemitad": "false"
@@ -2463,7 +2463,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron viejo de caldas 8 a�os carta de oro 375ml",
+    "nombre": "ron viejo de caldas 8 años carta de oro 375ml",
     "precio": "46500",
     "imagen": "img/licores/nectar/juancron375.jpg",
     "permitemitad": "false"
@@ -2471,7 +2471,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron viejo de caldas 8 a�os carta de oro 750ml",
+    "nombre": "ron viejo de caldas 8 años carta de oro 750ml",
     "precio": "92000",
     "imagen": "img/licores/nectar/roncarta750.jpg",
     "permitemitad": "false"
@@ -2574,154 +2574,154 @@
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o verde 250ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño verde 250ml",
     "precio": "13500",
-    "imagen": "img/licores/antioque�o/cuartover.jpg",
+    "imagen": "img/licores/antioqueño/cuartover.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o verde 375ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño verde 375ml",
     "precio": "24000",
-    "imagen": "img/licores/antioque�o/antio375.jpg",
+    "imagen": "img/licores/antioqueño/antio375.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o verde 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño verde 750ml",
     "precio": "46500",
-    "imagen": "img/licores/antioque�o/antver750.jpg",
+    "imagen": "img/licores/antioqueño/antver750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o verde caja 1050 ltrs",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño verde caja 1050 ltrs",
     "precio": "56000",
-    "imagen": "img/licores/antioque�o/antver105.jpg",
+    "imagen": "img/licores/antioqueño/antver105.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o rojo 250ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño rojo 250ml",
     "precio": "18000",
-    "imagen": "img/licores/antioque�o/cuarroj250.jpg",
+    "imagen": "img/licores/antioqueño/cuarroj250.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o rojo 375ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño rojo 375ml",
     "precio": "27500",
-    "imagen": "img/licores/antioque�o/anti375rojo.jpg",
+    "imagen": "img/licores/antioqueño/anti375rojo.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o rojo 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño rojo 750ml",
     "precio": "51000",
-    "imagen": "img/licores/antioque�o/antiorp750.jpg",
+    "imagen": "img/licores/antioqueño/antiorp750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o rojo caja 1050 ltrs",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño rojo caja 1050 ltrs",
     "precio": "61000",
-    "imagen": "img/licores/antioque�o/antioro105.jpg",
+    "imagen": "img/licores/antioqueño/antioro105.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o azul 250ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño azul 250ml",
     "precio": "19000",
-    "imagen": "img/licores/antioque�o/cuaraz260.jpg",
+    "imagen": "img/licores/antioqueño/cuaraz260.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o azul 375ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño azul 375ml",
     "precio": "28500",
-    "imagen": "img/licores/antioque�o/antioaz375.jpg",
+    "imagen": "img/licores/antioqueño/antioaz375.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o azul 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño azul 750ml",
     "precio": "52000",
-    "imagen": "img/licores/antioque�o/antaz750.jpg",
+    "imagen": "img/licores/antioqueño/antaz750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o azul caja 1050 ltrs",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño azul caja 1050 ltrs",
     "precio": "65000",
-    "imagen": "img/licores/antioque�o/antioazul105.jpg",
+    "imagen": "img/licores/antioqueño/antioazul105.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o real 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño real 750ml",
     "precio": "77500",
-    "imagen": "img/licores/antioque�o/real750.jpg",
+    "imagen": "img/licores/antioqueño/real750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "antioque�o real amarillo 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño real amarillo 750ml",
     "precio": "48500",
-    "imagen": "img/licores/antioque�o/realan750.jpg",
+    "imagen": "img/licores/antioqueño/realan750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
+    "subcategoria": "antioqueño",
     "nombre": "ron medellin dorado 375ml",
     "precio": "27000",
-    "imagen": "img/licores/antioque�o/rondo375.jpg",
+    "imagen": "img/licores/antioqueño/rondo375.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
+    "subcategoria": "antioqueño",
     "nombre": "ron medellin dorado 750ml",
     "precio": "51000",
-    "imagen": "img/licores/antioque�o/ronmedor750.jpg",
+    "imagen": "img/licores/antioqueño/ronmedor750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "ron medellin 3 a�os a�ejo 375ml",
+    "subcategoria": "antioqueño",
+    "nombre": "ron medellin 3 años añejo 375ml",
     "precio": "30000",
-    "imagen": "img/licores/antioque�o/rona�375.jpg",
+    "imagen": "img/licores/antioqueño/ronañ375.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "ron medellin 3 a�os a�ejo 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "ron medellin 3 años añejo 750ml",
     "precio": "54000",
-    "imagen": "img/licores/antioque�o/med3aa750.jpg",
+    "imagen": "img/licores/antioqueño/med3aa750.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
-    "subcategoria": "antioque�o",
-    "nombre": "ron medellin 8 a�os a�ejo 750ml",
+    "subcategoria": "antioqueño",
+    "nombre": "ron medellin 8 años añejo 750ml",
     "precio": "79000",
-    "imagen": "img/licores/antioque�o/rona8a750.jpg",
+    "imagen": "img/licores/antioqueño/rona8a750.jpg",
     "permitemitad": "false"
   },
   {
@@ -2775,7 +2775,7 @@
   {
     "marca": "licores",
     "subcategoria": "whisky",
-    "nombre": "buchanans 12 a�os 375ml",
+    "nombre": "buchanans 12 años 375ml",
     "precio": "89500",
     "imagen": "img/licores/whisky/bucha12a375.jpg",
     "permitemitad": "false"
@@ -2783,7 +2783,7 @@
   {
     "marca": "licores",
     "subcategoria": "whisky",
-    "nombre": "buchanans 12 a�os 750ml",
+    "nombre": "buchanans 12 años 750ml",
     "precio": "151000",
     "imagen": "img/licores/whisky/bucha12a750.jpg",
     "permitemitad": "false"
@@ -2791,7 +2791,7 @@
   {
     "marca": "licores",
     "subcategoria": "whisky",
-    "nombre": "buchanans 12 a�os 1ltrs",
+    "nombre": "buchanans 12 años 1ltrs",
     "precio": "191000",
     "imagen": "img/licores/whisky/bucha12a1000.jpg",
     "permitemitad": "false"
@@ -2823,7 +2823,7 @@
   {
     "marca": "licores",
     "subcategoria": "whisky",
-    "nombre": "chivas 12 a�os botella 700ml",
+    "nombre": "chivas 12 años botella 700ml",
     "precio": "130000",
     "imagen": "img/licores/whisky/chivas12700.jpg",
     "permitemitad": "false"
@@ -2831,7 +2831,7 @@
   {
     "marca": "licores",
     "subcategoria": "whisky",
-    "nombre": "chivas 13 a�os botella 700ml",
+    "nombre": "chivas 13 años botella 700ml",
     "precio": "148000",
     "imagen": "img/licores/whisky/chivas13700.jpg",
     "permitemitad": "false"
@@ -2879,7 +2879,7 @@
   {
     "marca": "licores",
     "subcategoria": "whisky",
-    "nombre": "old pard 12 a�os 750ml",
+    "nombre": "old pard 12 años 750ml",
     "precio": "133000",
     "imagen": "img/licores/whisky/oldpa750.jpg",
     "permitemitad": "false"
@@ -3063,23 +3063,23 @@
   {
     "marca": "licores",
     "subcategoria": "vinos",
-    "nombre": "vino cari�oso manzana 750ml",
+    "nombre": "vino cariñoso manzana 750ml",
     "precio": "17000",
-    "imagen": "img/licores/vinos/cari�manza.jpg",
+    "imagen": "img/licores/vinos/cariñmanza.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
     "subcategoria": "vinos",
-    "nombre": "vino cari�oso durazno 750ml",
+    "nombre": "vino cariñoso durazno 750ml",
     "precio": "17000",
-    "imagen": "img/licores/vinos/cari�duras.jpg",
+    "imagen": "img/licores/vinos/cariñduras.jpg",
     "permitemitad": "false"
   },
   {
     "marca": "licores",
     "subcategoria": "vinos",
-    "nombre": "champa�a candiota blanca 750ml",
+    "nombre": "champaña candiota blanca 750ml",
     "precio": "12500",
     "imagen": "img/licores/vinos/candcha.jpg",
     "permitemitad": "false"
@@ -3503,9 +3503,9 @@
   {
     "marca": "dulces",
     "subcategoria": "super",
-    "nombre": "loki�o bolsa x100u",
+    "nombre": "lokiño bolsa x100u",
     "precio": "8300",
-    "imagen": "img/dulces/super/loki�o.jpg",
+    "imagen": "img/dulces/super/lokiño.jpg",
     "permitemitad": "false"
   },
   {

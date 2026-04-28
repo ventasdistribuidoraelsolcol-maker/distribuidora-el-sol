@@ -1,0 +1,204 @@
+/* RESET GENERAL: Quita espacios automáticos del navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    overflow-x: hidden; /* Evita que la página baile de lado a lado */
+}
+
+/* HEADER */
+.header-principal {
+    background-color: rgb(7, 4, 4);
+    color: white;
+    padding: 15px 20px;
+}
+
+.logo-contacto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Busca esto en tu style.css */
+.logo img {
+        height: 90px !important; /* Logo más discreto en celular */
+    }
+
+.info-contacto p {
+    font-size: 14px;
+    margin: 3px 0;
+}
+
+/* MENU */
+.menu {
+    background-color: #be1111;
+    display: flex;
+    justify-content: center;
+    border-bottom: 3px solid #F2B705;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.menu a:hover {
+    background-color: #900d0d;
+    color: #F2B705;
+}
+
+/* BANNER */
+.banner {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* MARCAS */
+/* Busca o agrega esto en tu style.css */
+.contenedor-marcas {
+    background-color: #ffffff; /* Esto pone el fondo totalmente blanco */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px 20px; /* Le damos más espacio para que se vea elegante */
+    width: 100%;
+}
+
+.marca img {
+    max-width: 110px;
+    height: auto;
+    /* Opcional: añade esto para un efecto profesional */
+    transition: transform 0.3s ease;
+}
+
+.marca img:hover {
+    transform: scale(1.1); /* El logo crece un poquito cuando pasas el ratón */
+}
+
+/* --- MODO CELULAR (MEDIA QUERY) --- */
+@media (max-width: 600px) {
+    .logo-contacto {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .menu {
+        flex-direction: column;
+    }
+
+    .menu a {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        padding: 12px;
+    }
+
+    .info-contacto p {
+        font-size: 12px;
+    }
+}
+/* Esto arregla el contenedor de los productos */
+.productos-grid {
+    display: flex;
+    flex-wrap: wrap; /* Permite que se pongan uno al lado del otro */
+    justify-content: center; /* Los centra en la pantalla */
+    gap: 10px; /* Espacio entre cada producto */
+    padding: 10px;
+}
+
+/* Esto hace que cada producto sea pequeño y elegante */
+.producto-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 160px; /* Tamaño fijo para que no se vea gigante */
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.producto-card img {
+    width: 100px; /* Controlamos el tamaño de la botella */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Estilo para el botón de añadir */
+.btn-añadir {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+    width: 100%;
+}
+/* FUERZA EL DISEÑO DE 2 PRODUCTOS POR FILA */
+#contenedor-productos, 
+.contenedor-productos, 
+[class*="productos"] {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 10px !important;
+    padding: 10px !important;
+}
+
+/* AJUSTA EL TAMAÑO DE LAS TARJETAS */
+.producto-item, 
+.producto-card, 
+[class*="item"] {
+    width: 45% !important; /* Aquí obligamos a que entren dos */
+    min-width: 150px !important;
+    max-width: 180px !important;
+    background: white !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    box-sizing: border-box !important;
+}
+
+/* AJUSTA LA IMAGEN PARA QUE NO SE ESTIRE */
+.producto-item img, 
+[class*="item"] img {
+    height: 100px !important;
+    width: auto !important;
+    display: block !important;
+    margin: 0 auto 10px auto !important;
+}
+/* Ajuste para que la ventana de "Tu Pedido" no sea gigante */
+.modal-carrito, #carrito-modal {
+    width: 90% !important;   /* Que no ocupe todo el ancho */
+    max-width: 350px !important; 
+    max-height: 70vh !important; /* Que no tape toda la pantalla hacia abajo */
+    overflow-y: auto !important; /* Si hay muchos productos, permite bajar con el dedo */
+    border-radius: 15px !important;
+    padding: 15px !important;
+}
+
+/* Letra más pequeña dentro del carrito */
+.item-carrito {
+    font-size: 14px !important;
+    border-bottom: 1px solid #eee;
+    padding: 8px 0;
+}
+
+/* El botón de WhatsApp más compacto */
+.btn-confirmar {
+    padding: 10px !important;
+    font-size: 15px !important;
+    border-radius: 25px !important;
+}

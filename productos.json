@@ -1,0 +1,4391 @@
+[
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola vidrio 237ml x30u",
+    "precio": "35000",
+    "imagen": "img/coca-cola/coca237ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola vidrio 350ml x30u",
+    "precio": "60000",
+    "imagen": "img/coca-cola/coca350ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola lata 330ml x12u",
+    "precio": "37000",
+    "imagen": "img/coca-cola/cocalata330.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 250ml x12u",
+    "precio": "19000",
+    "imagen": "img/coca-cola/cocaminipet.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 400ml x12u",
+    "precio": "30000",
+    "imagen": "img/coca-cola/coca400ml.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 600ml x15u",
+    "precio": "48000",
+    "imagen": "img/coca-cola/coca600ml.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 1ltr x12u",
+    "precio": "44000",
+    "imagen": "img/coca-cola/cocalitropet.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola vidrio 1ltr x12u",
+    "precio": "36000",
+    "imagen": "img/coca-cola/cocalitrovidrio.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 1.5ltr x12u",
+    "precio": "62000",
+    "imagen": "img/coca-cola/coca1.5litros.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 2.5ltr x8u",
+    "precio": "52000",
+    "imagen": "img/coca-cola/coca2.5litros.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet retornable 2ltr x9u",
+    "precio": "46500",
+    "imagen": "img/coca-cola/cocaretornable2litros.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola pet 3ltr x6u",
+    "precio": "54000",
+    "imagen": "img/coca-cola/coca3litros.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola sin azucar vidrio 237ml x30u",
+    "precio": "35000",
+    "imagen": "img/coca-cola/coca237mlzero.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola sin azucar vidrio 350ml x30u",
+    "precio": "60000",
+    "imagen": "img/coca-cola/coca350mlzero.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola sin azucar pet 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/coca-cola/cocaminipetzero.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola sin azucar pet 400ml x12u",
+    "precio": "28000",
+    "imagen": "img/coca-cola/coca400mlzero.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "coca cola sin azucar pet 1.365ltr x12u",
+    "precio": "49000",
+    "imagen": "img/coca-cola/coca1.365litroszero.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "schweppes soda pet 400ml x12u",
+    "precio": "24000",
+    "imagen": "img/coca-cola/soda400ml.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "schweppes soda pet 1.5ltrs x12u",
+    "precio": "38000",
+    "imagen": "img/coca-cola/soda1.5.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "schweppes ginger pet 400ml x12u",
+    "precio": "24000",
+    "imagen": "img/coca-cola/ginger400ml.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "schweppes ginger pet 1.5ltrs x12u",
+    "precio": "49000",
+    "imagen": "img/coca-cola/ginger1.5.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro vidrio 237ml x30u",
+    "precio": "35000",
+    "imagen": "img/coca-cola/quatro237ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro vidrio 350ml x30u",
+    "precio": "60000",
+    "imagen": "img/coca-cola/quatro350ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro pet 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/coca-cola/quatrominipet.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro pet 400ml x12u",
+    "precio": "24000",
+    "imagen": "img/coca-cola/quatro400ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro pet 1.5lts x12u",
+    "precio": "43000",
+    "imagen": "img/coca-cola/quatro1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro 2.5ltrs x8u",
+    "precio": "40000",
+    "imagen": "img/coca-cola/quatro2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro pet retornable 2ltrs x9u",
+    "precio": "34000",
+    "imagen": "img/coca-cola/quatro2ltr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "quatro pet 3lts x6u",
+    "precio": "39000",
+    "imagen": "img/coca-cola/quatro3ltr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "sprite vidrio 237ml x30u",
+    "precio": "35000",
+    "imagen": "img/coca-cola/sprite237ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "sprite vidrio 350ml x30u",
+    "precio": "60000",
+    "imagen": "img/coca-cola/sprite350ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "sprite pet 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/coca-cola/sprite250ml.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "sprite pet 400ml x12u",
+    "precio": "24000",
+    "imagen": "img/coca-cola/sprite400ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "sprite pet 1.5lts x12u",
+    "precio": "43000",
+    "imagen": "img/coca-cola/sprite1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "sprite pet 3lts x6u",
+    "precio": "39000",
+    "imagen": "img/coca-cola/sprite3ltr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "kola roman pet 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/coca-cola/kola250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "kola roman pet 400ml x12u",
+    "precio": "24000",
+    "imagen": "img/coca-cola/kola400.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "kola roman pet 1.5ltrs x12u",
+    "precio": "44000",
+    "imagen": "img/coca-cola/kola1.5ltr.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa pet limon 280ml x24u",
+    "precio": "27000",
+    "imagen": "img/coca-cola/brisalimon280.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa pet manzana 280ml x24u",
+    "precio": "27000",
+    "imagen": "img/coca-cola/brisamanzana280.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa pet maracuya 280ml x24u",
+    "precio": "27000",
+    "imagen": "img/coca-cola/brisamaracuya280.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa gas pet 600 mlx24u",
+    "precio": "31000",
+    "imagen": "img/coca-cola/brisagas600.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa natural pet 600 mlx24u",
+    "precio": "30000",
+    "imagen": "img/coca-cola/brisanatural600.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa pet limon 600ml x6u",
+    "precio": "12000",
+    "imagen": "img/coca-cola/brisalimon600.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa pet manzana 600ml x6u",
+    "precio": "12000",
+    "imagen": "img/coca-cola/brisamanzana600.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa pet maracuya 600ml x6u",
+    "precio": "12000",
+    "imagen": "img/coca-cola/brisamaracuya600.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa natural litro x6u",
+    "precio": "12000",
+    "imagen": "img/coca-cola/brisanatural1ltr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa manzana pet 1.5ltrs x12u",
+    "precio": "38000",
+    "imagen": "img/coca-cola/brisamanzana1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "agua brisa maracuya pet 1.5ltrs x12u",
+    "precio": "38000",
+    "imagen": "img/coca-cola/brisamaracuya1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle fresh caja 188ml x24u",
+    "precio": "23000",
+    "imagen": "img/coca-cola/vallefresh188.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle fresh pet 400ml x12u",
+    "precio": "19000",
+    "imagen": "img/coca-cola/vallefresh400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle fresh pet 1.5lts x12u",
+    "precio": "43000",
+    "imagen": "img/coca-cola/vallenaran1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle mandarina pet 1.5lts x12u",
+    "precio": "43000",
+    "imagen": "img/coca-cola/vallemand1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle fresh pet 2.5lts x6u",
+    "precio": "40000",
+    "imagen": "img/coca-cola/valle2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle frutal caja surtido 188ml x24u",
+    "precio": "28000",
+    "imagen": "img/coca-cola/vallefrutal188.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle frutal pet mora 500ml x6u",
+    "precio": "14500",
+    "imagen": "img/coca-cola/frutalmora500.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "valle frutal pet mango 500ml x6u",
+    "precio": "14500",
+    "imagen": "img/coca-cola/frutalmango500.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "monster lata mangoloco 473ml x1u",
+    "precio": "7600",
+    "imagen": "img/coca-cola/monsterloco.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "monster lata green 473ml x1u",
+    "precio": "7600",
+    "imagen": "img/coca-cola/monstergreen.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "monster lata blue 473ml x1u",
+    "precio": "7600",
+    "imagen": "img/coca-cola/monsterblue.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "monster lata ultra 473ml x1u",
+    "precio": "7600",
+    "imagen": "img/coca-cola/monsterultra.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "monster lata violet 473ml x1u",
+    "precio": "7600",
+    "imagen": "img/coca-cola/monsterviolet.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "powerade azul pet 500ml x6u",
+    "precio": "18000",
+    "imagen": "img/coca-cola/powerazul.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "powerade rojo pet 500ml x6u",
+    "precio": "18000",
+    "imagen": "img/coca-cola/powerrojo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "fuzte durazno pet 400ml x6u",
+    "precio": "16500",
+    "imagen": "img/coca-cola/fuztedurazno.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "fuzte limon pet 400ml x6u",
+    "precio": "16500",
+    "imagen": "img/coca-cola/fuztelimon.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "fuzte mango pet 400ml x6u",
+    "precio": "16500",
+    "imagen": "img/coca-cola/fuztemango.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "coca-cola",
+    "nombre": "fuzte manzana pet 400ml x6u",
+    "precio": "16500",
+    "imagen": "img/coca-cola/fuztemanzana.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "breta�a vidrio 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/breta�a350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "breta�a vidrio sixpack 330ml",
+    "precio": "13000",
+    "imagen": "img/postobon/breta�a300.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "breta�a 1.5 x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/breta�a1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio surtida 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/minibotellagsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio manzana 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/vidriomanzana250.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio colombiana 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/vidriocolombiana250.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio pepsi 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/vidriopepsi250.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio zup 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/vidriozup250,jpg.png",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio uva 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/vidriouva250.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio naranja 250ml x30u",
+    "precio": "29000",
+    "imagen": "img/postobon/vidrionaranja250.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio surtida 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/vidriosurtida350.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio manzana 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/vidriomanzana350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio colombiana 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/vidriocolom350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio pepsi 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/pepsi350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio zup 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/zup350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio naranja 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/naranja350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gsa vidrio uva 350ml x30u",
+    "precio": "50000",
+    "imagen": "img/postobon/vidriouva350.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet manzana 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/postobon/minipetmanza.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet colombiana 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/postobon/minipetcolom.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet uva 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/postobon/minipetuva.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet naranja 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/postobon/minipetnaranja.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet colombiana zero 250ml x12u",
+    "precio": "10000",
+    "imagen": "img/postobon/minipetcolomzero.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet manzana zero 250ml x12u",
+    "precio": "10000",
+    "imagen": "img/postobon/minipetmanzzero.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet pepsi zero 250ml x12u",
+    "precio": "10000",
+    "imagen": "img/postobon/minipetpepsizero.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet surtida 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/postb400sur.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet manzana 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/fleximanzana400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet colombiana 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/colom400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet uva 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/flexiuva400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet zup 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/zup400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet naranja 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/naranja400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet pepsi 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/pepsi400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet canadry 400ml x15u",
+    "precio": "29000",
+    "imagen": "img/postobon/canadry400.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "econolitro pet uva x12u",
+    "precio": "34000",
+    "imagen": "img/postobon/econouva.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "econolitro pet manzana x12u",
+    "precio": "34000",
+    "imagen": "img/postobon/economanza.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "econolitro pet colombiana x12u",
+    "precio": "34000",
+    "imagen": "img/postobon/econocolom.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "econolitro pet naranja x12u",
+    "precio": "34000",
+    "imagen": "img/postobon/econonaranja.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "econolitro pet zup x12u",
+    "precio": "34000",
+    "imagen": "img/postobon/econozup.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "econolitro pet pepsi x12u",
+    "precio": "34000",
+    "imagen": "img/postobon/econopepsi.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet pepsi 1.5ltrs x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/pepsi1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet manzana 1.5ltrs x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/manzana1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet colombiana 1.5ltrs x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/colombiana1.5 (2).jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet uva 1.5ltrs x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/uva1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet naranja 1.5ltrs x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/naranja1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet zup 1.5ltrs x12u",
+    "precio": "43000",
+    "imagen": "img/postobon/zup1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet canada dry 1.5ltrs x12u",
+    "precio": "49000",
+    "imagen": "img/postobon/canadry1.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet colombiana 2.5 ltrs x8u",
+    "precio": "38000",
+    "imagen": "img/postobon/colombiana2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet manzana 2.5 ltrs x8u",
+    "precio": "38000",
+    "imagen": "img/postobon/manzana2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet pepsi 2.5 ltrs x8u",
+    "precio": "38000",
+    "imagen": "img/postobon/pepsi2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet uva 2.5 ltrs x8u",
+    "precio": "38000",
+    "imagen": "img/postobon/uva2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet zup 2.5 ltrs x8u",
+    "precio": "38000",
+    "imagen": "img/postobon/zup2.5.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet manzana 3ltrs x6u",
+    "precio": "34000",
+    "imagen": "img/postobon/manzana3ltr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "pet colombiana 3ltrs x6u",
+    "precio": "34000",
+    "imagen": "img/postobon/colombiana3ltr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "h2o surtida pet 600ml x15u",
+    "precio": "32500",
+    "imagen": "img/postobon/h2o600sur.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "h2o pet lima-limon 600ml x15u",
+    "precio": "32500",
+    "imagen": "img/postobon/h2o600l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "h2o pet limonata 600ml x15u",
+    "precio": "32500",
+    "imagen": "img/postobon/h2o600lm.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "h2o pet maracuya 600ml x15u",
+    "precio": "32500",
+    "imagen": "img/postobon/h2o600m.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "h2o pet lima-limon 1.5ltrs x12u",
+    "precio": "40000",
+    "imagen": "img/postobon/h201.5l.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "h2o pet limonata 1.5ltrs x12u",
+    "precio": "40000",
+    "imagen": "img/postobon/h201.5ma.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "mr tee limon 500ml x12u",
+    "precio": "27000",
+    "imagen": "img/postobon/mrteelimon500.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "mr tee durazno 500ml x12u",
+    "precio": "27000",
+    "imagen": "img/postobon/mrteedurazno500.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal pet 300ml x24u",
+    "precio": "14000",
+    "imagen": "img/postobon/cristal300.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal gas pet 250ml x12u",
+    "precio": "9000",
+    "imagen": "img/postobon/cristalgas250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal pet 600ml x24u",
+    "precio": "30000",
+    "imagen": "img/postobon/cristal600.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal gas pet 600ml x24u",
+    "precio": "34000",
+    "imagen": "img/postobon/cristalgas600.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal chupo pet 1ltrs x12u",
+    "precio": "23000",
+    "imagen": "img/postobon/cristalchupo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal 1ltrs x12u",
+    "precio": "20000",
+    "imagen": "img/postobon/cristallitro.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "agua cristal bolsa 6ltrs x4u",
+    "precio": "16000",
+    "imagen": "img/postobon/bolsaaguacristal.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "botellon de agua cristal 5gl x1u",
+    "precio": "15500",
+    "imagen": "img/postobon/botelloncristal5g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio surtido 237ml x30u",
+    "precio": "36000",
+    "imagen": "img/postobon/hit250sur.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio mango 237ml x30u",
+    "precio": "36000",
+    "imagen": "img/postobon/vidriohit250m.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio mora 237ml x30u",
+    "precio": "36000",
+    "imagen": "img/postobon/hit250moravidrio.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio lulo 237ml x30u",
+    "precio": "36000",
+    "imagen": "img/postobon/vidriohit250lulo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio tropical 237ml x30u",
+    "precio": "36000",
+    "imagen": "img/postobon/hit250tropi.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio naranja pi�a 237ml x30u",
+    "precio": "36000",
+    "imagen": "img/postobon/vidriohitp.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio surtido 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/350hitsur.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio mango 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/hit350m.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio tropical 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/hit350t.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio lulo 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/hit350l.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio naranja pi�a 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/hit350p.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit vidrio mora 350ml x30u",
+    "precio": "55000",
+    "imagen": "img/postobon/hit350mora.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit lonchera caja surtido 200ml x24u",
+    "precio": "26000",
+    "imagen": "img/postobon/hitlonchera.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mango 300ml x12u",
+    "precio": "19000",
+    "imagen": "img/postobon/hit300m.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet tropical 300ml x12u",
+    "precio": "19000",
+    "imagen": "img/postobon/hit300t.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet lulo 300ml x12u",
+    "precio": "19000",
+    "imagen": "img/postobon/hit300l.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mora 300ml x12u",
+    "precio": "19000",
+    "imagen": "img/postobon/hit300mora.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet naranja pi�a 300ml x12u",
+    "precio": "19000",
+    "imagen": "img/postobon/hit300pi.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mango 500ml x12u",
+    "precio": "29000",
+    "imagen": "img/postobon/hitmango500.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mora 500ml x12u",
+    "precio": "29000",
+    "imagen": "img/postobon/hit500mora.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet lulo 500ml x12u",
+    "precio": "29000",
+    "imagen": "img/postobon/hit500lulo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet tropical 500ml x12u",
+    "precio": "29000",
+    "imagen": "img/postobon/hit500t.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet naranja pi�a 500ml x12u",
+    "precio": "29000",
+    "imagen": "img/postobon/hit500p.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit caja naranja pi�a 1ltrs x12u",
+    "precio": "44000",
+    "imagen": "img/postobon/hitcajalitrop.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit caja mora 1ltrs x12u",
+    "precio": "44000",
+    "imagen": "img/postobon/hitcajalitromo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit caja lulo 1ltrs x12u",
+    "precio": "44000",
+    "imagen": "img/postobon/hitcajalitrol.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit caja tropical 1ltrs x12u",
+    "precio": "44000",
+    "imagen": "img/postobon/hitcajalitrot.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit caja mango 1ltrs x12u",
+    "precio": "44000",
+    "imagen": "img/postobon/hitcajalitrom.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet naranja pi�a 1ltrs x6u",
+    "precio": "38000",
+    "imagen": "img/postobon/hitpetlitropi�a.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mora 1ltrs x6u",
+    "precio": "38000",
+    "imagen": "img/postobon/hitpetlitrom.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet lulo 1ltrs x6u",
+    "precio": "38000",
+    "imagen": "img/postobon/hitpetlitrolu.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet tropical 1ltrs x6u",
+    "precio": "38000",
+    "imagen": "img/postobon/hitpetlitrotro.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mango 1ltrs x6u",
+    "precio": "38000",
+    "imagen": "img/postobon/hitpetlitromang.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet surtido 1.5ltrs x6u",
+    "precio": "24000",
+    "imagen": "img/postobon/hitsurtido1.5.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet naranja pi�a 1.5ltrs x6u",
+    "precio": "24000",
+    "imagen": "img/postobon/hit1.5p.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mora 1.5ltrs x6u",
+    "precio": "24000",
+    "imagen": "img/postobon/hit1.5mora.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet mango 1.5ltrs x6u",
+    "precio": "24000",
+    "imagen": "img/postobon/hit1.5man.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "hit pet tropical 1.5ltrs x6u",
+    "precio": "24000",
+    "imagen": "img/postobon/hit1.5tropi.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gatorade pet tropical 500ml x12u",
+    "precio": "38000",
+    "imagen": "img/postobon/gatorojo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gatorade pet maracuya 500ml x12u",
+    "precio": "38000",
+    "imagen": "img/postobon/gatorademara.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gatorade pet manzarina 500ml x12u",
+    "precio": "38000",
+    "imagen": "img/postobon/gatomand.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "gatorade pet blu 500ml x12u",
+    "precio": "38000",
+    "imagen": "img/postobon/gatoazul.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "speed pet 250ml x12u",
+    "precio": "15000",
+    "imagen": "img/postobon/speedbot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "postobon",
+    "nombre": "speed lata 310ml x24u",
+    "precio": "38000",
+    "imagen": "img/postobon/speedlata.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "beer",
+    "nombre": "andina vidrio 330cm x30u",
+    "precio": "60000",
+    "imagen": "img/beer/andinacer.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "andina light vidrio 330cm x30u",
+    "precio": "60000",
+    "imagen": "img/beer/andinalight.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "andina light lata 310cm x24u",
+    "precio": "46000",
+    "imagen": "img/beer/andinalightlata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "andina latota 473ml x12u",
+    "precio": "30000",
+    "imagen": "img/beer/andina473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "andina lata 310cm x24u",
+    "precio": "47000",
+    "imagen": "img/beer/andina310lata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "heineken lata 310ml x24u",
+    "precio": "57000",
+    "imagen": "img/beer/heinekenl.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "heineken botella 250ml x24u pet",
+    "precio": "57000",
+    "imagen": "img/beer/heinekenbot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "poker vidrio 330cm x30u",
+    "precio": "66000",
+    "imagen": "img/beer/pokerbot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "aguila vidrio 330cm x30u",
+    "precio": "69000",
+    "imagen": "img/beer/aguilabot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "poker vidrio 1 ltrs x13u",
+    "precio": "63000",
+    "imagen": "img/beer/pokerlitro.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "aguila lata 330cm x24u",
+    "precio": "66000",
+    "imagen": "img/beer/aguilal.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "poker lata 330cm x24u",
+    "precio": "65000",
+    "imagen": "img/beer/pokerl.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "aguila light vidrio 330cm x30u",
+    "precio": "70000",
+    "imagen": "img/beer/lightcerv.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "aguila light lata 330cm x24u",
+    "precio": "67000",
+    "imagen": "img/beer/lightcerlata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coste�a bacana vidrio 320cm x30u",
+    "precio": "53000",
+    "imagen": "img/beer/coste�abot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coste�a banaca lata 330cm x24u",
+    "precio": "56000",
+    "imagen": "img/beer/coste�averdel.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coste�a gris vidrio 750ml x16u",
+    "precio": "47000",
+    "imagen": "img/beer/coste�a750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coste�a gris vidrio 330cm x30u",
+    "precio": "48000",
+    "imagen": "img/beer/coste�a330bot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coste�a original lata 330cm x24u",
+    "precio": "46000",
+    "imagen": "img/beer/coste�agrislata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "club colombia dorada vidrio 330cm x30u",
+    "precio": "90000",
+    "imagen": "img/beer/clubdorabot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "club colombia roja vidrio 330cm x30u",
+    "precio": "90000",
+    "imagen": "img/beer/clubroja.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "club colombia negra vidrio 330cm x30u",
+    "precio": "90000",
+    "imagen": "img/beer/clubnegra.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "club colombia dorada lata 330cm x24u",
+    "precio": "67000",
+    "imagen": "img/beer/clubdoralata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "club colombia negra lata 330cm x24u",
+    "precio": "67000",
+    "imagen": "img/beer/clubnegralata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "club colombia roja lata 330cm x24u",
+    "precio": "67000",
+    "imagen": "img/beer/clubrojalata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "budweiser caja botella no retor 250cm x24u",
+    "precio": "54000",
+    "imagen": "img/beer/budwebot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "budweiser lata 269cm x24u",
+    "precio": "54000",
+    "imagen": "img/beer/budweiserl.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coronita bot no retornable 210cm x24u",
+    "precio": "70000",
+    "imagen": "img/beer/coronita.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "coronita lata 269cm x24u",
+    "precio": "63000",
+    "imagen": "img/beer/coronitalata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "corona bot no retornable 330cm x24u",
+    "precio": "84000",
+    "imagen": "img/beer/corona.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "stella artois bot no retornable 330cm x24u",
+    "precio": "85000",
+    "imagen": "img/beer/stellabot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "beer",
+    "nombre": "redds lata 269 x24u",
+    "precio": "66000",
+    "imagen": "img/beer/redslata.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet negra 400ml x12u",
+    "precio": "14500",
+    "imagen": "img/bigcola/big400negra.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet pi�a 400ml x12u",
+    "precio": "14500",
+    "imagen": "img/bigcola/big400pi�a.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet manzana 400ml x12u",
+    "precio": "14500",
+    "imagen": "img/bigcola/big400manz.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet festival 400ml x12u",
+    "precio": "14500",
+    "imagen": "img/bigcola/big400festival.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet limon 400ml x12u",
+    "precio": "14500",
+    "imagen": "img/bigcola/biglimon400.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet naranja 400ml x12u",
+    "precio": "14500",
+    "imagen": "img/bigcola/bignaran400.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "big cola pet negra 1.75 ltrs x8u",
+    "precio": "23800",
+    "imagen": "img/bigcola/bignegra1.75.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet granadilla 250ml x15u",
+    "precio": "12000",
+    "imagen": "img/bigcola/cifrutgran250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet naranja 250ml x15u",
+    "precio": "12000",
+    "imagen": "img/bigcola/cifrutna250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet mora 250ml x15u",
+    "precio": "12000",
+    "imagen": "img/bigcola/cifrutmora250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet granadilla 400ml x12u",
+    "precio": "13500",
+    "imagen": "img/bigcola/cifrut400fran.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet naranja 400ml x12u",
+    "precio": "13500",
+    "imagen": "img/bigcola/cifrut400nar.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet mora 400ml x12u",
+    "precio": "13500",
+    "imagen": "img/bigcola/cifrut400mora.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet mora 1.75 ltrs x8u",
+    "precio": "23800",
+    "imagen": "img/bigcola/cifrut1.7.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut petgranadilla 1.75 ltrs x8u",
+    "precio": "23800",
+    "imagen": "img/bigcola/cifrutgran1.7.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "cifrut pet naranja 1.75 ltrs x8u",
+    "precio": "23800",
+    "imagen": "img/bigcola/cifrutnara1.7.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "sporade pet blue 500ml x12u",
+    "precio": "25000",
+    "imagen": "img/bigcola/sporadeazul.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "sporade pet mandarina 500ml x12u",
+    "precio": "25000",
+    "imagen": "img/bigcola/sporademand.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "sporade pet maracuya 500ml x12u",
+    "precio": "25000",
+    "imagen": "img/bigcola/sporademarac.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "sporade pet tropical 500ml x12u",
+    "precio": "25000",
+    "imagen": "img/bigcola/sporaderojo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "agua cielo natural pet 600ml x24u",
+    "precio": "23000",
+    "imagen": "img/bigcola/cielo600ml.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "bigcola",
+    "nombre": "agua cielo natural pet chupo 1 ltrs x12u",
+    "precio": "20000",
+    "imagen": "img/bigcola/cielochupo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "pony malta vidrio 330cm x30u",
+    "precio": "60000",
+    "imagen": "img/ponymalta/ponybote.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "pony malta pet 200cm x30u",
+    "precio": "44000",
+    "imagen": "img/ponymalta/ponylonc.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "pony malta pet 330cm x24u",
+    "precio": "53000",
+    "imagen": "img/ponymalta/pony330.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "pony malta pet 1ltrs x15u",
+    "precio": "53000",
+    "imagen": "img/ponymalta/ponylitro.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "pony malta pet 1.5ltrs x6u",
+    "precio": "33000",
+    "imagen": "img/ponymalta/pony1.5.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "cola y pola vidrio 330cm x30u",
+    "precio": "53000",
+    "imagen": "img/ponymalta/colabot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "cola y pola lata 330cm x24u",
+    "precio": "46000",
+    "imagen": "img/ponymalta/colalata.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "ponymalta",
+    "nombre": "cola pola 1.5ltrs x6u",
+    "precio": "28000",
+    "imagen": "img/ponymalta/cola1.5.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "rothmans azul x10",
+    "precio": "127000",
+    "imagen": "img/cigarrillos/rothmans-azul.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "rothmans blanco x10",
+    "precio": "100000",
+    "imagen": "img/cigarrillos/rothmansblanco.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "rothmans gris x10",
+    "precio": "127000",
+    "imagen": "img/cigarrillos/rothmans-gris.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "lucky rojo x10",
+    "precio": "146000",
+    "imagen": "img/cigarrillos/luckyrojo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "lucky strike blanco x10",
+    "precio": "146000",
+    "imagen": "img/cigarrillos/luckyblanco.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "lucky alaska x10",
+    "precio": "146000",
+    "imagen": "img/cigarrillos/luckyalaska.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "malboro rojo x10",
+    "precio": "132000",
+    "imagen": "img/cigarrillos/malbororojo.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "malboro gold x10",
+    "precio": "132000",
+    "imagen": "img/cigarrillos/malborogold.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "malboro fusion x10",
+    "precio": "140000",
+    "imagen": "img/cigarrillos/malborofusion.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "malboro sandia x10",
+    "precio": "140000",
+    "imagen": "img/cigarrillos/malborosandia.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "malboro verde azul x10",
+    "precio": "108000",
+    "imagen": "img/cigarrillos/malbveraz.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "malboro rosado x10",
+    "precio": "108000",
+    "imagen": "img/cigarrillos/malbrosa.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "l & m azul selection x10",
+    "precio": "82000",
+    "imagen": "img/cigarrillos/lymselec.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "l & m blanco x10",
+    "precio": "92000",
+    "imagen": "img/cigarrillos/lymblanco.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "l & m purple evo x10",
+    "precio": "92000",
+    "imagen": "img/cigarrillos/lymmora.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "cigarillos",
+    "nombre": "l & m sandia x10",
+    "precio": "92000",
+    "imagen": "img/cigarrillos/lymsandia.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 sixpack 210ml",
+    "precio": "8000",
+    "imagen": "img/quala/vive100210.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 sixpack 240ml",
+    "precio": "11000",
+    "imagen": "img/quala/vive100240.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 verde sixpack 380ml",
+    "precio": "13000",
+    "imagen": "img/quala/vive100380verde.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 rojo sixpack 380ml",
+    "precio": "13000",
+    "imagen": "img/quala/vive100rojo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 blue sixpack 380ml",
+    "precio": "13000",
+    "imagen": "img/quala/vive100azul.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 blanco sixpack 380ml",
+    "precio": "13000",
+    "imagen": "img/quala/vive100blanco.380.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "spartalata dorado 310ml x6u",
+    "precio": "10500",
+    "imagen": "img/quala/spartalador.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "spartalata blue 310ml x6u",
+    "precio": "10500",
+    "imagen": "img/quala/spartalataazul.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "vive 100 ultra lata 310ml sixpack",
+    "precio": "10500",
+    "imagen": "img/quala/vive100310azul.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "saviloe sixpack 320ml",
+    "precio": "13000",
+    "imagen": "img/quala/saviloe320.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "saviloe sixpack 420ml",
+    "precio": "15500",
+    "imagen": "img/quala/saviloe420.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "amper mango x6",
+    "precio": "16000",
+    "imagen": "img/quala/ampermangp.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "amper blue x6u",
+    "precio": "16000",
+    "imagen": "img/quala/amperblue.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "amper blanco x6u",
+    "precio": "16000",
+    "imagen": "img/quala/amperblanco.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "amper negro x6u",
+    "precio": "16000",
+    "imagen": "img/quala/ampernegro.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "hidralyte maracuya",
+    "precio": "3500",
+    "imagen": "img/quala/hidramara.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "hidralyte blue",
+    "precio": "3500",
+    "imagen": "img/quala/hidrablue.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "quala",
+    "nombre": "hidralyte kiwi",
+    "precio": "3500",
+    "imagen": "img/quala/hidrakiwi.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "papas super ricas pollo 30g x12u",
+    "precio": "22800",
+    "imagen": "img/superricas/polsu30g.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "papas super ricas natural 30g x12u",
+    "precio": "22800",
+    "imagen": "img/superricas/suprnat30g.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "papas super ricas picante 30g x12u",
+    "precio": "22800",
+    "imagen": "img/superricas/supepic30g.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "papas super ricas limon 30g x12u",
+    "precio": "22800",
+    "imagen": "img/superricas/suplimonpa30g.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "papas super ricas bbq 30g x12u",
+    "precio": "22800",
+    "imagen": "img/superricas/supbbq30g.jpg",
+    "permitemitad": "true"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "papas super ricas pollo 105g",
+    "precio": "5900",
+    "imagen": "img/superricas/suppoll105.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "todo rico bbq 45g x8u",
+    "precio": "18700",
+    "imagen": "img/superricas/todobbq45g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "todo rico natural 45g x8u",
+    "precio": "18700",
+    "imagen": "img/superricas/todonar45g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "todo rico criollo-aji 45g x8u",
+    "precio": "18700",
+    "imagen": "img/superricas/crioaji45g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "todo rico criollo 45g x8u",
+    "precio": "18700",
+    "imagen": "img/superricas/crioto45g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "todo rico bbq 150g",
+    "precio": "6500",
+    "imagen": "img/superricas/todonat150g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "todo rico natural 150g",
+    "precio": "6500",
+    "imagen": "img/superricas/todorbbq150g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "chirricos picantes 45g x6u",
+    "precio": "9600",
+    "imagen": "img/superricas/chirrpic.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "chirricos naturales 45g x6u",
+    "precio": "9600",
+    "imagen": "img/superricas/chirnat45.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "platanos maduros 38g x6u",
+    "precio": "10800",
+    "imagen": "img/superricas/taja38g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "platanos verdes 38g x6u",
+    "precio": "10800",
+    "imagen": "img/superricas/tajaver38g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "fosforitos 35g x6u",
+    "precio": "10200",
+    "imagen": "img/superricas/fosfo35g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "fosforitos 160g",
+    "precio": "6500",
+    "imagen": "img/superricas/fosfor160gr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "chicharron crujiente bbq 10g x6u",
+    "precio": "8400",
+    "imagen": "img/superricas/chichbbq.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "chicharron crujiente natural 10g x6u",
+    "precio": "8400",
+    "imagen": "img/superricas/chichan10g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "chicharron crujiente bbq 50g x1u",
+    "precio": "4700",
+    "imagen": "img/superricas/chicha50gbbq.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "chicharron crujiente natural 50g x1u",
+    "precio": "4700",
+    "imagen": "img/superricas/chicna50g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "superricas",
+    "nombre": "riquillas x12u",
+    "precio": "19200",
+    "imagen": "img/superricas/rosquillas-jpg.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "los cuates mango 269ml",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/cuatesmango1.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "los cuates limon 269ml",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/cuateslimon269.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "los cuates fresa 269ml",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/cuatesfresa269.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "los cuates mango 473ml",
+    "precio": "7000",
+    "imagen": "img/licores/cuateandlike/cuates473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "like mango 300ml x6u",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/likemango.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "like manzana 300ml x6u",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/likemanzana.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "like limon 300ml x6u",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/likelimon.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "cuatesandlike",
+    "nombre": "like blue 300ml x6u",
+    "precio": "4500",
+    "imagen": "img/licores/cuateandlike/likeblue.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde 250ml",
+    "precio": "13000",
+    "imagen": "img/licores/nectar/nectarv250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde 375ml",
+    "precio": "21500",
+    "imagen": "img/licores/nectar/nectarv375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde 500ml",
+    "precio": "26500",
+    "imagen": "img/licores/nectar/nectarv500.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde 750ml",
+    "precio": "40500",
+    "imagen": "img/licores/nectar/nectarv750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde 1ltrs",
+    "precio": "50500",
+    "imagen": "img/licores/nectar/nectarv1l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde caja 1500 ltrs",
+    "precio": "70000",
+    "imagen": "img/licores/nectar/nectarv1500.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar verde garrafa 2000ltrs",
+    "precio": "100000",
+    "imagen": "img/licores/nectar/nectarv20.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar rojo 250ml",
+    "precio": "13000",
+    "imagen": "img/licores/nectar/nectarr250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar rojo 375ml",
+    "precio": "21500",
+    "imagen": "img/licores/nectar/nectarr375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar rojo 750ml",
+    "precio": "40500",
+    "imagen": "img/licores/nectar/nectarr750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar rojo caja 1 ltrs",
+    "precio": "50500",
+    "imagen": "img/licores/nectar/netarr1l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar rojo garrafa 2000ltrs",
+    "precio": "100000",
+    "imagen": "img/licores/nectar/nectarr20.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar azul 250ml",
+    "precio": "15500",
+    "imagen": "img/licores/nectar/nectaraz250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar azul 375ml",
+    "precio": "24500",
+    "imagen": "img/licores/nectar/nectaraz375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar azul 750ml",
+    "precio": "44500",
+    "imagen": "img/licores/nectar/nectarazu750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar azul caja 1 ltrs",
+    "precio": "56000",
+    "imagen": "img/licores/nectar/nectaraz1l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar sugar 375ml",
+    "precio": "23000",
+    "imagen": "img/licores/nectar/nectarsugar375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar sugar 750ml",
+    "precio": "44000",
+    "imagen": "img/licores/nectar/nectarsugar750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar sugar caja 1ltrs",
+    "precio": "55000",
+    "imagen": "img/licores/nectar/nectarsugar1l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar premiun 750ml",
+    "precio": "72500",
+    "imagen": "img/licores/nectar/nectarpre750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar dorado 375ml",
+    "precio": "25000",
+    "imagen": "img/licores/nectar/nectarama375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "nectar dorado 750ml",
+    "precio": "48000",
+    "imagen": "img/licores/nectar/nectarama750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron santafe 4 a�os 250ml",
+    "precio": "14500",
+    "imagen": "img/licores/nectar/ronsan250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron santafe 4 a�os 375ml",
+    "precio": "24000",
+    "imagen": "img/licores/nectar/ronsan4375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron santafe 4 a�os 750ml",
+    "precio": "42500",
+    "imagen": "img/licores/nectar/ronsan4750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron santafe 4 a�os caja 1 ltrs",
+    "precio": "52000",
+    "imagen": "img/licores/nectar/ronsan41l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron santafe 6 a�os 750ml",
+    "precio": "54000",
+    "imagen": "img/licores/nectar/ronsant6.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron santafe 8 a�os 750ml",
+    "precio": "62000",
+    "imagen": "img/licores/nectar/ronsant8.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron licor viejo de caldas 375ml",
+    "precio": "21000",
+    "imagen": "img/licores/nectar/ronli375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron licor viejo de caldas 750ml",
+    "precio": "39000",
+    "imagen": "img/licores/nectar/ronlv750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas roble blanco 750ml",
+    "precio": "40000",
+    "imagen": "img/licores/nectar/roble750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas tradicional 250ml",
+    "precio": "16000",
+    "imagen": "img/licores/nectar/ronvi250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas tradicional 375ml",
+    "precio": "26500",
+    "imagen": "img/licores/nectar/ronvie375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas tradicional 750ml",
+    "precio": "51500",
+    "imagen": "img/licores/nectar/rontra750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas oscuro 750ml",
+    "precio": "49000",
+    "imagen": "img/licores/nectar/ronoscu750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas tradicional caja 1 ltrs",
+    "precio": "55500",
+    "imagen": "img/licores/nectar/ronv1l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas 5 a�os juan de la cruz 375ml",
+    "precio": "29500",
+    "imagen": "img/licores/nectar/juanron375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas 5 a�os juan de la cruz 750ml",
+    "precio": "55000",
+    "imagen": "img/licores/nectar/juancr750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas 8 a�os carta de oro 375ml",
+    "precio": "46500",
+    "imagen": "img/licores/nectar/juancron375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "ron viejo de caldas 8 a�os carta de oro 750ml",
+    "precio": "92000",
+    "imagen": "img/licores/nectar/roncarta750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "cheers crema de ron viejo de caldas 700ml",
+    "precio": "60000",
+    "imagen": "img/licores/nectar/cheer750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino chileno leyenda merlot 750ml",
+    "precio": "26000",
+    "imagen": "img/licores/nectar/merlot750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino chileno leyenda carmenere 750ml",
+    "precio": "26000",
+    "imagen": "img/licores/nectar/cerleye750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino chileno leyenda carmenere sauvignon 750ml",
+    "precio": "26000",
+    "imagen": "img/licores/nectar/caberley750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino chileno leyenda sauvignon blanc 750ml",
+    "precio": "28500",
+    "imagen": "img/licores/nectar/vinoleyeblanc750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino canan moscatel manzana 750ml",
+    "precio": "14500",
+    "imagen": "img/licores/nectar/cananman750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino canan moscatel durazno 750ml",
+    "precio": "14500",
+    "imagen": "img/licores/nectar/canandura.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "vino canan moscatel uva 750ml",
+    "precio": "14500",
+    "imagen": "img/licores/nectar/cananuva.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "aguardiente amarillo 375ml",
+    "precio": "30000",
+    "imagen": "img/licores/nectar/amar375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "aguardiente amarillo 750ml",
+    "precio": "50000",
+    "imagen": "img/licores/nectar/amarillo750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "aguardiente amarillo botella 1ltrs",
+    "precio": "61000",
+    "imagen": "img/licores/nectar/amarlitrbot.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "nectar",
+    "nombre": "aguardiente amarillo caja 1ltrs",
+    "precio": "61000",
+    "imagen": "img/licores/nectar/amarillolicaja..jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o verde 250ml",
+    "precio": "13500",
+    "imagen": "img/licores/antioque�o/cuartover.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o verde 375ml",
+    "precio": "24000",
+    "imagen": "img/licores/antioque�o/antio375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o verde 750ml",
+    "precio": "46500",
+    "imagen": "img/licores/antioque�o/antver750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o verde caja 1050 ltrs",
+    "precio": "56000",
+    "imagen": "img/licores/antioque�o/antver105.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o rojo 250ml",
+    "precio": "18000",
+    "imagen": "img/licores/antioque�o/cuarroj250.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o rojo 375ml",
+    "precio": "27500",
+    "imagen": "img/licores/antioque�o/anti375rojo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o rojo 750ml",
+    "precio": "51000",
+    "imagen": "img/licores/antioque�o/antiorp750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o rojo caja 1050 ltrs",
+    "precio": "61000",
+    "imagen": "img/licores/antioque�o/antioro105.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o azul 250ml",
+    "precio": "19000",
+    "imagen": "img/licores/antioque�o/cuaraz260.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o azul 375ml",
+    "precio": "28500",
+    "imagen": "img/licores/antioque�o/antioaz375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o azul 750ml",
+    "precio": "52000",
+    "imagen": "img/licores/antioque�o/antaz750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o azul caja 1050 ltrs",
+    "precio": "65000",
+    "imagen": "img/licores/antioque�o/antioazul105.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o real 750ml",
+    "precio": "77500",
+    "imagen": "img/licores/antioque�o/real750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "antioque�o real amarillo 750ml",
+    "precio": "48500",
+    "imagen": "img/licores/antioque�o/realan750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "ron medellin dorado 375ml",
+    "precio": "27000",
+    "imagen": "img/licores/antioque�o/rondo375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "ron medellin dorado 750ml",
+    "precio": "51000",
+    "imagen": "img/licores/antioque�o/ronmedor750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "ron medellin 3 a�os a�ejo 375ml",
+    "precio": "30000",
+    "imagen": "img/licores/antioque�o/rona�375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "ron medellin 3 a�os a�ejo 750ml",
+    "precio": "54000",
+    "imagen": "img/licores/antioque�o/med3aa750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioque�o",
+    "nombre": "ron medellin 8 a�os a�ejo 750ml",
+    "precio": "79000",
+    "imagen": "img/licores/antioque�o/rona8a750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "crema de whisky baileys 375ml",
+    "precio": "53000",
+    "imagen": "img/licores/whisky/cremawba375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "crema de whisky baileys 700ml",
+    "precio": "79000",
+    "imagen": "img/licores/whisky/cremawba750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "crema de whisky baileys 1000ml",
+    "precio": "101000",
+    "imagen": "img/licores/whisky/cremawba1000.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "black and white 375ml",
+    "precio": "29000",
+    "imagen": "img/licores/whisky/black375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "black and white 700ml",
+    "precio": "52500",
+    "imagen": "img/licores/whisky/black700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "black and white 1ltrs",
+    "precio": "70500",
+    "imagen": "img/licores/whisky/black1000.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "buchanans 12 a�os 375ml",
+    "precio": "89500",
+    "imagen": "img/licores/whisky/bucha12a375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "buchanans 12 a�os 750ml",
+    "precio": "151000",
+    "imagen": "img/licores/whisky/bucha12a750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "buchanans 12 a�os 1ltrs",
+    "precio": "191000",
+    "imagen": "img/licores/whisky/bucha12a1000.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "buchanans master 750ml",
+    "precio": "177000",
+    "imagen": "img/licores/whisky/buchamas750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "buchanans master 1000ml",
+    "precio": "215000",
+    "imagen": "img/licores/whisky/buchamas1000.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "buchanans two soul 750ml",
+    "precio": "184000",
+    "imagen": "img/licores/whisky/buctwo750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "chivas 12 a�os botella 700ml",
+    "precio": "130000",
+    "imagen": "img/licores/whisky/chivas12700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "chivas 13 a�os botella 700ml",
+    "precio": "148000",
+    "imagen": "img/licores/whisky/chivas13700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "johnnie walker red label botella 375ml",
+    "precio": "43500",
+    "imagen": "img/licores/whisky/redla375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "johnnie walker red label botella 700ml",
+    "precio": "66000",
+    "imagen": "img/licores/whisky/redla700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "something special 350ml",
+    "precio": "44000",
+    "imagen": "img/licores/whisky/someth350.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "something special 750ml",
+    "precio": "67000",
+    "imagen": "img/licores/whisky/someth750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "something special 1000ml",
+    "precio": "86000",
+    "imagen": "img/licores/whisky/someth1000.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "old pard 12 a�os 750ml",
+    "precio": "133000",
+    "imagen": "img/licores/whisky/oldpa750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "whisky grant s 700ml",
+    "precio": "58000",
+    "imagen": "img/licores/whisky/grans760.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "whisky grant s 1000ml",
+    "precio": "79000",
+    "imagen": "img/licores/whisky/grans1l.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jack daniel jennnessee 375ml",
+    "precio": "63000",
+    "imagen": "img/licores/whisky/jackdajen375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jack daniel jennnessee 700ml",
+    "precio": "115000",
+    "imagen": "img/licores/whisky/jackjenn700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jack daniel fire 700ml",
+    "precio": "115000",
+    "imagen": "img/licores/whisky/jackfire700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jack daniel honey 375ml",
+    "precio": "63000",
+    "imagen": "img/licores/whisky/jackda375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jack daniel honey 700ml",
+    "precio": "115000",
+    "imagen": "img/licores/whisky/jackmiel700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jack daniel apple 700ml",
+    "precio": "115000",
+    "imagen": "img/licores/whisky/jackaple700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jagermeister 350ml",
+    "precio": "64000",
+    "imagen": "img/licores/whisky/jager375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jagermeister 700ml",
+    "precio": "103000",
+    "imagen": "img/licores/whisky/jager700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jose cuervo 375ml",
+    "precio": "53000",
+    "imagen": "img/licores/whisky/tequilajocu375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "whisky",
+    "nombre": "jose cuervo 750ml",
+    "precio": "82000",
+    "imagen": "img/licores/whisky/josecu750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "smirnoff lulo 375ml",
+    "precio": "25000",
+    "imagen": "img/licores/vodka/smirnlul375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "smirnoff tamarindo 375ml",
+    "precio": "25000",
+    "imagen": "img/licores/vodka/smirtam375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "smirnoff lulo 700ml",
+    "precio": "44500",
+    "imagen": "img/licores/vodka/smirnlul750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "smirnoff tamarindo 700ml",
+    "precio": "44500",
+    "imagen": "img/licores/vodka/smirta750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "smirnoff manzana 275ml",
+    "precio": "8000",
+    "imagen": "img/licores/vodka/smirman275.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "smirnoff ice 275ml",
+    "precio": "8000",
+    "imagen": "img/licores/vodka/smiic275.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "bacardi limon 375ml",
+    "precio": "31000",
+    "imagen": "img/licores/vodka/baracli700.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "bacardi limon 700ml",
+    "precio": "48000",
+    "imagen": "img/licores/vodka/bacarli375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vodka",
+    "nombre": "bacardi mojito 700ml",
+    "precio": "48000",
+    "imagen": "img/licores/vodka/bacarmoj375.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vinos",
+    "nombre": "vino sanson 750ml",
+    "precio": "25500",
+    "imagen": "img/licores/vinos/vinosa750.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vinos",
+    "nombre": "vino cari�oso manzana 750ml",
+    "precio": "17000",
+    "imagen": "img/licores/vinos/cari�manza.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vinos",
+    "nombre": "vino cari�oso durazno 750ml",
+    "precio": "17000",
+    "imagen": "img/licores/vinos/cari�duras.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "vinos",
+    "nombre": "champa�a candiota blanca 750ml",
+    "precio": "12500",
+    "imagen": "img/licores/vinos/candcha.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko blue 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/fourblue473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko gold 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/fourgold473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko ponche 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/fourponche473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko sandia 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/foursandia473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko green 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/fourfreen473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko lulo 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/fourlulo473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "four loko",
+    "nombre": "four loko mora 473ml",
+    "precio": "14900",
+    "imagen": "img/licores/fourloko/fourmora473.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "frunas masticable bolsa x26u",
+    "precio": "9900",
+    "imagen": "img/dulces/aldor/frunasmas.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "frunas rellenas masticables x26u",
+    "precio": "8000",
+    "imagen": "img/dulces/aldor/frunasmast.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galletas glacitas toffe x6u",
+    "precio": "5800",
+    "imagen": "img/dulces/aldor/glactoffe.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galletas glacitas chocolate x6u",
+    "precio": "5800",
+    "imagen": "img/dulces/aldor/glacichoco.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galletas glacitas fresa x6u",
+    "precio": "5800",
+    "imagen": "img/dulces/aldor/glacifresa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galletas glacitas limon x6u",
+    "precio": "5800",
+    "imagen": "img/dulces/aldor/glaclimon.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galletas glacitas choconieve x6u",
+    "precio": "5800",
+    "imagen": "img/dulces/aldor/glacichoconieve.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galleta miniglacita toffe 49gr x12u",
+    "precio": "23200",
+    "imagen": "img/dulces/aldor/miniglatoffe.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galleta miniglacita chocolate 49gr x12u",
+    "precio": "23200",
+    "imagen": "img/dulces/aldor/miniglachoco.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "galleta muu leche x18u",
+    "precio": "5400",
+    "imagen": "img/dulces/aldor/muuleche.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "almendra italo 135gr x1u",
+    "precio": "7300",
+    "imagen": "img/dulces/aldor/almen235g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "almendra italo 50gr x1u",
+    "precio": "2900",
+    "imagen": "img/dulces/aldor/almeita50.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "brownie mama mia arequipe 70gr x1u",
+    "precio": "2700",
+    "imagen": "img/dulces/aldor/mamamia.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "mechas locas x6u",
+    "precio": "19800",
+    "imagen": "img/dulces/aldor/mechaslocas.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "moritas bolsa x100u",
+    "precio": "6500",
+    "imagen": "img/dulces/aldor/moritasbol.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "pin pop bolsa surtida x24u",
+    "precio": "8000",
+    "imagen": "img/dulces/aldor/pinpop.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "pin pop polvo acido x12u",
+    "precio": "8600",
+    "imagen": "img/dulces/aldor/pinpopolvoac.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "pin pop polvo acido fresa x12u",
+    "precio": "8600",
+    "imagen": "img/dulces/aldor/pinpopolvoafre.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "sonetto chocolate x5ou",
+    "precio": "10500",
+    "imagen": "img/dulces/aldor/sonetoazu.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "sonetto chocolate blanco x5ou",
+    "precio": "10500",
+    "imagen": "img/dulces/aldor/sonetoblan.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo limon 117gr x1u",
+    "precio": "3200",
+    "imagen": "img/dulces/aldor/wafe117limon.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo chocolate 117gr x1u",
+    "precio": "3200",
+    "imagen": "img/dulces/aldor/wafer117grcho.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo mora 117gr x1u",
+    "precio": "3200",
+    "imagen": "img/dulces/aldor/wafer117mor.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo vainilla 117gr x1u",
+    "precio": "3200",
+    "imagen": "img/dulces/aldor/wafe117vaini.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo fresa 117gr x1u",
+    "precio": "3200",
+    "imagen": "img/dulces/aldor/wafer117fre.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo limon 70gr x1u",
+    "precio": "2300",
+    "imagen": "img/dulces/aldor/wafital70glim.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo chocolate 70gr x1u",
+    "precio": "2300",
+    "imagen": "img/dulces/aldor/waferi70grchoco.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo vainilla 70gr x1u",
+    "precio": "2300",
+    "imagen": "img/dulces/aldor/waferi70gvai.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo mora 70gr x1u",
+    "precio": "2300",
+    "imagen": "img/dulces/aldor/waferit70gmora.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "aldor",
+    "nombre": "wafers italo fresa 70gr x1u",
+    "precio": "2300",
+    "imagen": "img/dulces/aldor/wafit70gfresa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu caja maxi nanos x12u",
+    "precio": "30000",
+    "imagen": "img/dulces/super/nanoscaja.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu caja maxi nanos surtida x12u",
+    "precio": "30000",
+    "imagen": "img/dulces/super/nanossurt.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu caja 70gr x24u",
+    "precio": "41000",
+    "imagen": "img/dulces/super/cajatrululux24.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu chocopostre 54gr x12u",
+    "precio": "30000",
+    "imagen": "img/dulces/super/chocopostregomas.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu masmelos 54gr x12u",
+    "precio": "24000",
+    "imagen": "img/dulces/super/trululumasm.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu chococolores x18u",
+    "precio": "30700",
+    "imagen": "img/dulces/super/chococolores.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trululu sabores x12u",
+    "precio": "11000",
+    "imagen": "img/dulces/super/trululusabo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trolli xl 70gr x20u",
+    "precio": "34400",
+    "imagen": "img/dulces/super/trolli70g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "trolli 35gr x24u",
+    "precio": "30000",
+    "imagen": "img/dulces/super/trolli35gr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "barrilete x40u",
+    "precio": "9800",
+    "imagen": "img/dulces/super/bolsabarrilete.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "bianchi chocolate blanco x100u",
+    "precio": "14100",
+    "imagen": "img/dulces/super/bianchib.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "bianchi chocolate negro x100u",
+    "precio": "14100",
+    "imagen": "img/dulces/super/bianchia.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "chao fresa dulce bolsa x100u",
+    "precio": "8300",
+    "imagen": "img/dulces/super/chaofresap.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "chao menta dulce bolsa x100u",
+    "precio": "8300",
+    "imagen": "img/dulces/super/chaomentap.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "chao pastillas cereza x16u",
+    "precio": "13200",
+    "imagen": "img/dulces/super/chaopastilla.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "loki�o bolsa x100u",
+    "precio": "8300",
+    "imagen": "img/dulces/super/loki�o.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "mist halls bolsa x100u",
+    "precio": "10000",
+    "imagen": "img/dulces/super/mistbol.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "revolcon x50u",
+    "precio": "7400",
+    "imagen": "img/dulces/super/revolconbolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "super",
+    "nombre": "super coco x50u",
+    "precio": "16500",
+    "imagen": "img/dulces/super/supercocobolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "bon bon bum barra masticable x40u",
+    "precio": "10200",
+    "imagen": "img/dulces/colombina/barritabon.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "bon bon bum rojo x24u",
+    "precio": "10800",
+    "imagen": "img/dulces/colombina/bombun.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "bon bon bum surtido x24u",
+    "precio": "10800",
+    "imagen": "img/dulces/colombina/bombunsur.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "bon bon bum tajin x12u",
+    "precio": "18200",
+    "imagen": "img/dulces/colombina/bomtajin.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "caramelo blando nucita x100u",
+    "precio": "13000",
+    "imagen": "img/dulces/colombina/nucitacarmelob.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "coffe delight caramelo blando bolsa x100u",
+    "precio": "13000",
+    "imagen": "img/dulces/colombina/coffblando.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "coffe delight caramelo duro bolsa x100u",
+    "precio": "10000",
+    "imagen": "img/dulces/colombina/coffeduro.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "coffe delight caramelo relleno bolsa x100u",
+    "precio": "13000",
+    "imagen": "img/dulces/colombina/cofferelle.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "choco disk candy caja x18u",
+    "precio": "18000",
+    "imagen": "img/dulces/colombina/chocdiskcan.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "choco disk cubierto de chocolate con mani x12u",
+    "precio": "14800",
+    "imagen": "img/dulces/colombina/chocodiskmani.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chocolatina muu x24u",
+    "precio": "23800",
+    "imagen": "img/dulces/colombina/chocodiskmani.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "crema muu x12u",
+    "precio": "6000",
+    "imagen": "img/dulces/colombina/muuderret.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chocobreak frutal x30u",
+    "precio": "9700",
+    "imagen": "img/dulces/colombina/chocobrealf30.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chocobreak frutal x50u",
+    "precio": "15600",
+    "imagen": "img/dulces/colombina/chocobrx50.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chocobreak cookies x30u",
+    "precio": "10000",
+    "imagen": "img/dulces/colombina/chocbrecookiex30.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chocoball x50u",
+    "precio": "8200",
+    "imagen": "img/dulces/colombina/chocoballbolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chupeta tipitin x40u",
+    "precio": "9000",
+    "imagen": "img/dulces/colombina/colombtipitin.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "chupeta pirulito x12u",
+    "precio": "8400",
+    "imagen": "img/dulces/colombina/pirulitobolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "fruticas de relleno bolsa x100u",
+    "precio": "11500",
+    "imagen": "img/dulces/colombina/frutibolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge chocolate x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/bridgechocolate.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge naranja x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/bridgenara.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge vainilla x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/bridgevain.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge fresa x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/bridgefresa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge arequipe x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/bridgareq.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge ron con pasas x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/bridgeronpa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "galleta wafer bridge limon x10u",
+    "precio": "7400",
+    "imagen": "img/dulces/colombina/caprilimon9.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "gomas grissly splash x100u",
+    "precio": "17600",
+    "imagen": "img/dulces/colombina/cajagoma100g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "gomas bon bon bum 45gr x1u",
+    "precio": "1400",
+    "imagen": "img/dulces/colombina/bonbongc.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "gomitas bon bon bum x80u",
+    "precio": "14100",
+    "imagen": "img/dulces/colombina/bonbongc.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "nucita crema x18u",
+    "precio": "11900",
+    "imagen": "img/dulces/colombina/nucitacrispy.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "nucita nuges x20u",
+    "precio": "16500",
+    "imagen": "img/dulces/colombina/nugesn.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "nucita galleta avellana x8u",
+    "precio": "5400",
+    "imagen": "img/dulces/colombina/galletawafernucitaave.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "nucita avellana con chocolate x8u",
+    "precio": "11600",
+    "imagen": "img/dulces/colombina/galletawafernucitacubchoco.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "masmelo chocmelos snack fresa 32gr x1u",
+    "precio": "2100",
+    "imagen": "img/dulces/colombina/chocmelofresa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "masmelo chocmelos snack vainilla 32gr x1u",
+    "precio": "2100",
+    "imagen": "img/dulces/colombina/chocmevaib.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "masmelo millows bolsa x50u",
+    "precio": "8600",
+    "imagen": "img/dulces/colombina/millows50u.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "max combi bolsa x100u",
+    "precio": "8400",
+    "imagen": "img/dulces/colombina/bolsamaxcombi.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "minibum surtido bolsa x100u",
+    "precio": "11200",
+    "imagen": "img/dulces/colombina/minibumbo.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "menta helada x100u",
+    "precio": "8200",
+    "imagen": "img/dulces/colombina/mentaheladab.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "piazzabarquillo jirafa chocolate x24u",
+    "precio": "11000",
+    "imagen": "img/dulces/colombina/piazzacho.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "piazzabarquillo jirafa chocoleche x24u",
+    "precio": "11000",
+    "imagen": "img/dulces/colombina/piazzablan.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "piazzabarquillo jirafa arequipe x24u",
+    "precio": "11000",
+    "imagen": "img/dulces/colombina/piazzaare.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "piazzabarquillo jirafa fresa salvaje x24u",
+    "precio": "11000",
+    "imagen": "img/dulces/colombina/piazzafresasal.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "piazza barquillo 44gr fresa x1u",
+    "precio": "3400",
+    "imagen": "img/dulces/colombina/piazzafresa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "splot chicle x100u",
+    "precio": "9000",
+    "imagen": "img/dulces/colombina/splotchiclebolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "splot chicle bomba sandia x50u",
+    "precio": "7700",
+    "imagen": "img/dulces/colombina/splotchicleaci.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "splot chicle acido 5 en linea x24u",
+    "precio": "9900",
+    "imagen": "img/dulces/colombina/splotlineaaci.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "splot chicle e tattoo x120u",
+    "precio": "16800",
+    "imagen": "img/dulces/colombina/splottatto.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "snowmint krash x12u",
+    "precio": "9700",
+    "imagen": "img/dulces/colombina/snowmint.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "xtime chicle x100u",
+    "precio": "14400",
+    "imagen": "img/dulces/colombina/chiclex100c.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "xtime halls surtidos x100u",
+    "precio": "8500",
+    "imagen": "img/dulces/colombina/hallsxtimebolsa.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "colombina",
+    "nombre": "xtime chicle x200u bolsa",
+    "precio": "26700",
+    "imagen": "img/dulces/colombina/chicleschixt.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "chocolate corona caja x40u",
+    "precio": "36500",
+    "imagen": "img/dulces/nutresa/chococopasx40.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival vainilla 4x12",
+    "precio": "11700",
+    "imagen": "img/dulces/nutresa/festvaix4.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival limon 4x12",
+    "precio": "11700",
+    "imagen": "img/dulces/nutresa/fesrlimx4.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival fresa 4x12",
+    "precio": "11700",
+    "imagen": "img/dulces/nutresa/festfrex4.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival chocolate 4x12",
+    "precio": "11700",
+    "imagen": "img/dulces/nutresa/feschox4.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival recreo 6x12",
+    "precio": "14800",
+    "imagen": "img/dulces/nutresa/festirecrex6.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival fresa 6x12",
+    "precio": "14800",
+    "imagen": "img/dulces/nutresa/fetivalfresa6.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival chocolate 6x12",
+    "precio": "14800",
+    "imagen": "img/dulces/nutresa/festchox6.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival limon 6x12",
+    "precio": "14800",
+    "imagen": "img/dulces/nutresa/festlx6.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival vainilla 6x12",
+    "precio": "14800",
+    "imagen": "img/dulces/nutresa/festvaix6.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "festival minichips x12u",
+    "precio": "16900",
+    "imagen": "img/dulces/nutresa/minichipg.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "gol mega arequipe 52gr x8u",
+    "precio": "19800",
+    "imagen": "img/dulces/nutresa/megaarequipe.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "gol caramelo mani morado 31gr x15u",
+    "precio": "20000",
+    "imagen": "img/dulces/nutresa/golmorado15.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet mini x24u",
+    "precio": "17200",
+    "imagen": "img/dulces/nutresa/jetmini24.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet chocolatina 11gr caja x50u",
+    "precio": "44800",
+    "imagen": "img/dulces/nutresa/jet11gx50.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet chocolatina 11gr caja x24u",
+    "precio": "21500",
+    "imagen": "img/dulces/nutresa/jet11gx24.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet cookies & cream 21gr x10u",
+    "precio": "34000",
+    "imagen": "img/dulces/nutresa/cooki10g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet cookies & cream 50gr x6u",
+    "precio": "30600",
+    "imagen": "img/dulces/nutresa/cookies50g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet burbuejet cookies & cream 50gr x4u",
+    "precio": "20600",
+    "imagen": "img/dulces/nutresa/burbucookies50gr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jet crujivainilla 50gr 50gr x6u",
+    "precio": "30900",
+    "imagen": "img/dulces/nutresa/crujivainilla50g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jumbo mani 17gr x24u",
+    "precio": "31700",
+    "imagen": "img/dulces/nutresa/jumbomani17g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jumbo mani 35gr x12u",
+    "precio": "41200",
+    "imagen": "img/dulces/nutresa/jumbomani35g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jumbo mani 90gr x6u",
+    "precio": "45500",
+    "imagen": "img/dulces/nutresa/jumbomani90g.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jumbo flow blanca 48gr x12u",
+    "precio": "40200",
+    "imagen": "img/dulces/nutresa/flowb.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jumbo flow ccaramelo 48gr x12u",
+    "precio": "40200",
+    "imagen": "img/dulces/nutresa/flowcafe.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "jumbo mix 60gr x12u",
+    "precio": "54400",
+    "imagen": "img/dulces/nutresa/jumbomix.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "mani la especial kraks 25gr x12u",
+    "precio": "15900",
+    "imagen": "img/dulces/nutresa/manikraf12.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "mani la especial de sal 35gr x12u",
+    "precio": "23300",
+    "imagen": "img/dulces/nutresa/manisal12.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "mani la especial de uvas pasas 35gr x12u",
+    "precio": "23300",
+    "imagen": "img/dulces/nutresa/maniuvapasa12.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "mani la especial limon y pimienta 40gr x12u",
+    "precio": "31700",
+    "imagen": "img/dulces/nutresa/manipimienta12.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "nutresa",
+    "nombre": "mani la especial de arandanos 40gr x12u",
+    "precio": "34900",
+    "imagen": "img/dulces/nutresa/manimixarandanos.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "bolsa de halls negra pepa x100u",
+    "precio": "16300",
+    "imagen": "img/dulces/adams/bolsahallsp.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "bolsa de halls surtido pepa x100u",
+    "precio": "16300",
+    "imagen": "img/dulces/adams/hallsssurpebol.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12u lyptus",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/halssmoraba.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12u yerbabuena",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/halsbver.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12u cherry",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/hallsbache.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12u menta",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/halsbmen.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12unegro",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/halssbnegr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12u miellimon",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/hallsbarrar .jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "halls 9sx12u cereza",
+    "precio": "19600",
+    "imagen": "img/dulces/adams/hallsbarrarr.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 1sx60u sandia",
+    "precio": "14800",
+    "imagen": "img/dulces/adams/traid1ssan.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 1sx60u menta",
+    "precio": "14800",
+    "imagen": "img/dulces/adams/trident1smen.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 1sx60u yerbabuena",
+    "precio": "14800",
+    "imagen": "img/dulces/adams/triden1sver.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 1sx60u mora",
+    "precio": "14800",
+    "imagen": "img/dulces/adams/tri1smora.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 1sx60u herbal",
+    "precio": "14800",
+    "imagen": "img/dulces/adams/triden1sher.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 3sx24u yerbabuena",
+    "precio": "21800",
+    "imagen": "img/dulces/adams/tridenyerb3s.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 3sx24u mora",
+    "precio": "21800",
+    "imagen": "img/dulces/adams/trident3smora.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 3sx24u herbal",
+    "precio": "21800",
+    "imagen": "img/dulces/adams/trident3sherbal.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 3sx24u sandia",
+    "precio": "21800",
+    "imagen": "img/dulces/adams/trid3ssan.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 3sx24u menta",
+    "precio": "21800",
+    "imagen": "img/dulces/adams/trident3smenta.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 5sx18u yerbabuena",
+    "precio": "24800",
+    "imagen": "img/dulces/adams/tridentverde5s.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 5sx18u menta",
+    "precio": "24800",
+    "imagen": "img/dulces/adams/tridentazul5s.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 5sx18u mora",
+    "precio": "24800",
+    "imagen": "img/dulces/adams/tridentmora5s.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 5sx18u herbal",
+    "precio": "24800",
+    "imagen": "img/dulces/adams/herbaltri5s.jpg",
+    "permitemitad": "false"
+  },
+  {
+    "marca": "dulces",
+    "subcategoria": "adams",
+    "nombre": "trident 5sx18u sandia",
+    "precio": "24800",
+    "imagen": "img/dulces/adams/tridentsan5s.jpg",
+    "permitemitad": "false"
+  }
+]

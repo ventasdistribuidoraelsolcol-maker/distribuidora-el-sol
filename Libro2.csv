@@ -1,0 +1,288 @@
+marca;subcategoria;nombre;precio;imagen;permitemitad
+licores;cuatesandlike;los cuates mango 269ml;4500;img/licores/cuateandlike/cuatesmango1.jpg;false
+licores;cuatesandlike;los cuates limon 269ml;4500;img/licores/cuateandlike/cuateslimon269.jpg;false
+licores;cuatesandlike;los cuates fresa 269ml;4500;img/licores/cuateandlike/cuatesfresa269.jpg;false
+licores;cuatesandlike;los cuates mango 473ml;7000;img/licores/cuateandlike/cuates473.jpg;false
+licores;cuatesandlike;like mango 300ml x6u;4500;img/licores/cuateandlike/likemango.jpg;false
+licores;cuatesandlike;like manzana 300ml x6u;4500;img/licores/cuateandlike/likemanzana.jpg;false
+licores;cuatesandlike;like limon 300ml x6u;4500;img/licores/cuateandlike/likelimon.jpg;false
+licores;cuatesandlike;like blue 300ml x6u;4500;img/licores/cuateandlike/likeblue.jpg;false
+licores;nectar;nectar verde 250ml;13000;img/licores/nectar/nectarv250.jpg;false
+licores;nectar;nectar verde 375ml;21500;img/licores/nectar/nectarv375.jpg;false
+licores;nectar;nectar verde 500ml;26500;img/licores/nectar/nectarv500.jpg;false
+licores;nectar;nectar verde 750ml;40500;img/licores/nectar/nectarv750.jpg;false
+licores;nectar;nectar verde 1ltrs;50500;img/licores/nectar/nectarv1l.jpg;false
+licores;nectar;nectar verde caja 1500 ltrs ;70000;img/licores/nectar/nectarv1500.jpg;false
+licores;nectar;nectar verde garrafa 2000ltrs;100000;img/licores/nectar/nectarv20.jpg;false
+licores;nectar;nectar rojo 250ml;13000;img/licores/nectar/nectarr250.jpg;false
+licores;nectar;nectar rojo 375ml;21500;img/licores/nectar/nectarr375.jpg;false
+licores;nectar;nectar rojo 750ml;40500;img/licores/nectar/nectarr750.jpg;false
+licores;nectar;nectar rojo caja 1 ltrs;50500;img/licores/nectar/netarr1l.jpg;false
+licores;nectar;nectar rojo garrafa 2000ltrs;100000;img/licores/nectar/nectarr20.jpg;false
+licores;nectar;nectar azul 250ml;15500;img/licores/nectar/nectaraz250.jpg;false
+licores;nectar;nectar azul 375ml;24500;img/licores/nectar/nectaraz375.jpg;false
+licores;nectar;nectar azul 750ml;44500;img/licores/nectar/nectarazu750.jpg;false
+licores;nectar;nectar azul caja 1 ltrs;56000;img/licores/nectar/nectaraz1l.jpg;false
+licores;nectar;nectar sugar 375ml;23000;img/licores/nectar/nectarsugar375.jpg;false
+licores;nectar;nectar sugar 750ml;44000;img/licores/nectar/nectarsugar750.jpg;false
+licores;nectar;nectar sugar caja 1ltrs;55000;img/licores/nectar/nectarsugar1l.jpg;false
+licores;nectar;nectar premiun 750ml;72500;img/licores/nectar/nectarpre750.jpg;false
+licores;nectar;nectar dorado 375ml;25000;img/licores/nectar/nectarama375.jpg;false
+licores;nectar;nectar dorado 750ml;48000;img/licores/nectar/nectarama750.jpg;false
+licores;nectar;ron santafe 4 años 250ml;14500;img/licores/nectar/ronsan250.jpg;false
+licores;nectar;ron santafe 4 años 375ml;24000;img/licores/nectar/ronsan4375.jpg;false
+licores;nectar;ron santafe 4 años 750ml;42500;img/licores/nectar/ronsan4750.jpg;false
+licores;nectar;ron santafe 4 años caja 1 ltrs;52000;img/licores/nectar/ronsan41l.jpg;false
+licores;nectar;ron santafe 6 años 750ml;54000;img/licores/nectar/ronsant6.jpg;false
+licores;nectar;ron santafe 8 años 750ml;62000;img/licores/nectar/ronsant8.jpg;false
+licores;nectar;ron licor viejo de caldas 375ml;21000;img/licores/nectar/ronli375.jpg;false
+licores;nectar;ron licor viejo de caldas 750ml;39000;img/licores/nectar/ronlv750.jpg;false
+licores;nectar;ron viejo de caldas roble blanco 750ml;40000;img/licores/nectar/roble750.jpg;false
+licores;nectar;ron viejo de caldas tradicional 250ml;16000;img/licores/nectar/ronvi250.jpg;false
+licores;nectar;ron viejo de caldas tradicional 375ml;26500;img/licores/nectar/ronvie375.jpg;false
+licores;nectar;ron viejo de caldas tradicional 750ml;51500;img/licores/nectar/rontra750.jpg;false
+licores;nectar;ron viejo de caldas oscuro 750ml;49000;img/licores/nectar/ronoscu750.jpg;false
+licores;nectar;ron viejo de caldas tradicional caja 1 ltrs;55500;img/licores/nectar/ronv1l.jpg;false
+licores;nectar;ron viejo de caldas 5 años juan de la cruz 375ml;29500;img/licores/nectar/juanron375.jpg;false
+licores;nectar;ron viejo de caldas 5 años juan de la cruz 750ml;55000;img/licores/nectar/juancr750.jpg;false
+licores;nectar;ron viejo de caldas 8 años carta de oro 375ml;46500;img/licores/nectar/juancron375.jpg;false
+licores;nectar;ron viejo de caldas 8 años carta de oro 750ml;92000;img/licores/nectar/roncarta750.jpg;false
+licores;nectar;cheers crema de ron viejo de caldas 700ml;60000;img/licores/nectar/cheer750.jpg;false
+licores;nectar;vino chileno leyenda merlot 750ml;26000;img/licores/nectar/merlot750.jpg;false
+licores;nectar;vino chileno leyenda carmenere 750ml;26000;img/licores/nectar/cerleye750.jpg;false
+licores;nectar;vino chileno leyenda carmenere sauvignon 750ml;26000;img/licores/nectar/caberley750.jpg;false
+licores;nectar;vino chileno leyenda sauvignon blanc 750ml;28500;img/licores/nectar/vinoleyeblanc750.jpg;false
+licores;nectar;vino canan moscatel manzana 750ml;14500;img/licores/nectar/cananman750.jpg;false
+licores;nectar;vino canan moscatel durazno 750ml;14500;img/licores/nectar/canandura.jpg;false
+licores;nectar;vino canan moscatel uva 750ml;14500;img/licores/nectar/cananuva.jpg;false
+licores;nectar;aguardiente amarillo 375ml;30000;img/licores/nectar/amar375.jpg;false
+licores;nectar;aguardiente amarillo 750ml;50000;img/licores/nectar/amarillo750.jpg;false
+licores;nectar;aguardiente amarillo botella 1ltrs;61000;img/licores/nectar/amarlitrbot.jpg;false
+licores;nectar;aguardiente amarillo caja 1ltrs;61000;img/licores/nectar/amarillolicaja..jpg;false
+licores;antioqueño;antioqueño verde 250ml;13500;img/licores/antioqueño/cuartover.jpg;false
+licores;antioqueño;antioqueño verde 375ml;24000;img/licores/antioqueño/antio375.jpg;false
+licores;antioqueño;antioqueño verde 750ml;46500;img/licores/antioqueño/antver750.jpg;false
+licores;antioqueño;antioqueño verde caja 1050 ltrs;56000;img/licores/antioqueño/antver105.jpg;false
+licores;antioqueño;antioqueño rojo 250ml;18000;img/licores/antioqueño/cuarroj250.jpg;false
+licores;antioqueño;antioqueño rojo 375ml;27500;img/licores/antioqueño/anti375rojo.jpg;false
+licores;antioqueño;antioqueño rojo 750ml;51000;img/licores/antioqueño/antiorp750.jpg;false
+licores;antioqueño;antioqueño rojo caja 1050 ltrs;61000;img/licores/antioqueño/antioro105.jpg;false
+licores;antioqueño;antioqueño azul 250ml;19000;img/licores/antioqueño/cuaraz260.jpg;false
+licores;antioqueño;antioqueño azul 375ml;28500;img/licores/antioqueño/antioaz375.jpg;false
+licores;antioqueño;antioqueño azul 750ml;52000;img/licores/antioqueño/antaz750.jpg;false
+licores;antioqueño;antioqueño azul caja 1050 ltrs;65000;img/licores/antioqueño/antioazul105.jpg;false
+licores;antioqueño;antioqueño real 750ml;77500;img/licores/antioqueño/real750.jpg;false
+licores;antioqueño;antioqueño real amarillo 750ml;48500;img/licores/antioqueño/realan750.jpg;false
+licores;antioqueño;ron medellin dorado 375ml;27000;img/licores/antioqueño/rondo375.jpg;false
+licores;antioqueño;ron medellin dorado 750ml;51000;img/licores/antioqueño/ronmedor750.jpg;false
+licores;antioqueño;ron medellin 3 años añejo 375ml;30000;img/licores/antioqueño/ronañ375.jpg;false
+licores;antioqueño;ron medellin 3 años añejo 750ml;54000;img/licores/antioqueño/med3aa750.jpg;false
+licores;antioqueño;ron medellin 8 años añejo 750ml;79000;img/licores/antioqueño/rona8a750.jpg;false
+licores;whisky;crema de whisky baileys 375ml;53000;img/licores/whisky/cremawba375.jpg;false
+licores;whisky;crema de whisky baileys 700ml;79000;img/licores/whisky/cremawba750.jpg;false
+licores;whisky;crema de whisky baileys 1000ml;101000;img/licores/whisky/cremawba1000.jpg;false
+licores;whisky;black and white 375ml;29000;img/licores/whisky/black375.jpg;false
+licores;whisky;black and white 700ml;52500;img/licores/whisky/black700.jpg;false
+licores;whisky;black and white 1ltrs;70500;img/licores/whisky/black1000.jpg;false
+licores;whisky;buchanans 12 años 375ml;89500;img/licores/whisky/bucha12a375.jpg;false
+licores;whisky;buchanans 12 años 750ml;151000;img/licores/whisky/bucha12a750.jpg;false
+licores;whisky;buchanans 12 años 1ltrs;191000;img/licores/whisky/bucha12a1000.jpg;false
+licores;whisky;buchanans master 750ml;177000;img/licores/whisky/buchamas750.jpg;false
+licores;whisky;buchanans master 1000ml;215000;img/licores/whisky/buchamas1000.jpg;false
+licores;whisky;buchanans two soul 750ml;184000;img/licores/whisky/buctwo750.jpg;false
+licores;whisky;chivas 12 años botella 700ml;130000;img/licores/whisky/chivas12700.jpg;false
+licores;whisky;chivas 13 años botella 700ml;148000;img/licores/whisky/chivas13700.jpg;false
+licores;whisky;johnnie walker red label botella 375ml;43500;img/licores/whisky/redla375.jpg;false
+licores;whisky;johnnie walker red label botella 700ml;66000;img/licores/whisky/redla700.jpg;false
+licores;whisky;something special 350ml;44000;img/licores/whisky/someth350.jpg;false
+licores;whisky;something special 750ml;67000;img/licores/whisky/someth750.jpg;false
+licores;whisky;something special 1000ml;86000;img/licores/whisky/someth1000.jpg;false
+licores;whisky;old pard 12 años 750ml;133000;img/licores/whisky/oldpa750.jpg;false
+licores;whisky;whisky grant s 700ml;58000;img/licores/whisky/grans760.jpg;false
+licores;whisky;whisky grant s 1000ml;79000;img/licores/whisky/grans1l.jpg;false
+licores;whisky;jack daniel jennnessee 375ml;63000;img/licores/whisky/jackdajen375.jpg;false
+licores;whisky;jack daniel jennnessee 700ml;115000;img/licores/whisky/jackjenn700.jpg;false
+licores;whisky;jack daniel fire 700ml;115000;img/licores/whisky/jackfire700.jpg;false
+licores;whisky;jack daniel honey 375ml;63000;img/licores/whisky/jackda375.jpg;false
+licores;whisky;jack daniel honey 700ml;115000;img/licores/whisky/jackmiel700.jpg;false
+licores;whisky;jack daniel apple 700ml;115000;img/licores/whisky/jackaple700.jpg;false
+licores;whisky;jagermeister 350ml;64000;img/licores/whisky/jager375.jpg;false
+licores;whisky;jagermeister 700ml;103000;img/licores/whisky/jager700.jpg;false
+licores;whisky;jose cuervo 375ml;53000;img/licores/whisky/tequilajocu375.jpg;false
+licores;whisky;jose cuervo 750ml;82000;img/licores/whisky/josecu750.jpg;false
+licores;vodka;smirnoff lulo 375ml;25000;img/licores/vodka/smirnlul375.jpg;false
+licores;vodka;smirnoff tamarindo 375ml;25000;img/licores/vodka/smirtam375.jpg;false
+licores;vodka;smirnoff lulo 700ml;44500;img/licores/vodka/smirnlul750.jpg;false
+licores;vodka;smirnoff tamarindo 700ml;44500;img/licores/vodka/smirta750.jpg;false
+licores;vodka;smirnoff manzana 275ml;8000;img/licores/vodka/smirman275.jpg;false
+licores;vodka;smirnoff ice 275ml;8000;img/licores/vodka/smiic275.jpg;false
+licores;vodka;bacardi limon 375ml;31000;img/licores/vodka/baracli700.jpg;false
+licores;vodka;bacardi limon 700ml;48000;img/licores/vodka/bacarli375.jpg;false
+licores;vodka;bacardi mojito 700ml;48000;img/licores/vodka/bacarmoj375.jpg;false
+licores;vinos;vino sanson 750ml;25500;img/licores/vinos/vinosa750.jpg;false
+licores;vinos;vino cariñoso manzana 750ml;17000;img/licores/vinos/cariñmanza.jpg;false
+licores;vinos;vino cariñoso durazno 750ml;17000;img/licores/vinos/cariñduras.jpg;false
+licores;vinos;champaña candiota blanca 750ml;12500;img/licores/vinos/candcha.jpg;false
+licores;four loko;four loko blue 473ml;14900;img/licores/fourloko/fourblue473.jpg;false
+licores;four loko;four loko gold 473ml;14900;img/licores/fourloko/fourgold473.jpg;false
+licores;four loko;four loko ponche 473ml;14900;img/licores/fourloko/fourponche473.jpg;false
+licores;four loko;four loko sandia 473ml;14900;img/licores/fourloko/foursandia473.jpg;false
+licores;four loko;four loko green 473ml;14900;img/licores/fourloko/fourfreen473.jpg;false
+licores;four loko;four loko lulo 473ml;14900;img/licores/fourloko/fourlulo473.jpg;false
+licores;four loko;four loko mora 473ml;14900;img/licores/fourloko/fourmora473.jpg;false
+dulces;aldor;frunas masticable bolsa x26u;9900;img/dulces/aldor/frunasmas.jpg;false
+dulces;aldor;frunas rellenas masticables x26u;8000;img/dulces/aldor/frunasmast.jpg;false
+dulces;aldor;galletas glacitas toffe x6u;5800;img/dulces/aldor/glactoffe.jpg;false
+dulces;aldor;galletas glacitas chocolate x6u;5800;img/dulces/aldor/glacichoco.jpg;false
+dulces;aldor;galletas glacitas fresa x6u;5800;img/dulces/aldor/glacifresa.jpg;false
+dulces;aldor;galletas glacitas limon x6u;5800;img/dulces/aldor/glaclimon.jpg;false
+dulces;aldor;galletas glacitas choconieve x6u;5800;img/dulces/aldor/glacichoconieve.jpg;false
+dulces;aldor;galleta miniglacita toffe 49gr x12u;23200;img/dulces/aldor/miniglatoffe.jpg;false
+dulces;aldor;galleta miniglacita chocolate 49gr x12u;23200;img/dulces/aldor/miniglachoco.jpg;false
+dulces;aldor;galleta muu leche x18u;5400;img/dulces/aldor/muuleche.jpg;false
+dulces;aldor;almendra italo 135gr x1u;7300;img/dulces/aldor/almen235g.jpg;false
+dulces;aldor;almendra italo 50gr x1u;2900;img/dulces/aldor/almeita50.jpg;false
+dulces;aldor;brownie mama mia arequipe 70gr x1u;2700;img/dulces/aldor/mamamia.jpg;false
+dulces;aldor;mechas locas x6u;19800;img/dulces/aldor/mechaslocas.jpg;false
+dulces;aldor;moritas bolsa x100u;6500;img/dulces/aldor/moritasbol.jpg;false
+dulces;aldor;pin pop bolsa surtida x24u;8000;img/dulces/aldor/pinpop.jpg;false
+dulces;aldor;pin pop polvo acido x12u;8600;img/dulces/aldor/pinpopolvoac.jpg;false
+dulces;aldor;pin pop polvo acido fresa x12u;8600;img/dulces/aldor/pinpopolvoafre.jpg;false
+dulces;aldor;sonetto chocolate x5ou;10500;img/dulces/aldor/sonetoazu.jpg;false
+dulces;aldor;sonetto chocolate blanco x5ou;10500;img/dulces/aldor/sonetoblan.jpg;false
+dulces;aldor;wafers italo limon 117gr x1u;3200;img/dulces/aldor/wafe117limon.jpg;false
+dulces;aldor;wafers italo chocolate 117gr x1u;3200;img/dulces/aldor/wafer117grcho.jpg;false
+dulces;aldor;wafers italo mora 117gr x1u;3200;img/dulces/aldor/wafer117mor.jpg;false
+dulces;aldor;wafers italo vainilla 117gr x1u;3200;img/dulces/aldor/wafe117vaini.jpg;false
+dulces;aldor;wafers italo fresa 117gr x1u;3200;img/dulces/aldor/wafer117fre.jpg;false
+dulces;aldor;wafers italo limon 70gr x1u;2300;img/dulces/aldor/wafital70glim.jpg;false
+dulces;aldor;wafers italo chocolate 70gr x1u;2300;img/dulces/aldor/waferi70grchoco.jpg;false
+dulces;aldor;wafers italo vainilla 70gr x1u;2300;img/dulces/aldor/waferi70gvai.jpg;false
+dulces;aldor;wafers italo mora 70gr x1u;2300;img/dulces/aldor/waferit70gmora.jpg;false
+dulces;aldor;wafers italo fresa 70gr x1u;2300;img/dulces/aldor/wafit70gfresa.jpg;false
+dulces;super;trululu caja maxi nanos x12u;30000;img/dulces/super/nanoscaja.jpg;false
+dulces;super;trululu caja maxi nanos surtida x12u;30000;img/dulces/super/nanossurt.jpg;false
+dulces;super;trululu caja 70gr x24u;41000;img/dulces/super/cajatrululux24.jpg;false
+dulces;super;trululu chocopostre 54gr x12u;30000;img/dulces/super/chocopostregomas.jpg;false
+dulces;super;trululu masmelos 54gr x12u;24000;img/dulces/super/trululumasm.jpg;false
+dulces;super;trululu chococolores x18u;30700;img/dulces/super/chococolores.jpg;false
+dulces;super;trululu sabores x12u;11000;img/dulces/super/trululusabo.jpg;false
+dulces;super;trolli xl 70gr x20u;34400;img/dulces/super/trolli70g.jpg;false
+dulces;super;trolli 35gr x24u;30000;img/dulces/super/trolli35gr.jpg;false
+dulces;super;barrilete x40u;9800;img/dulces/super/bolsabarrilete.jpg;false
+dulces;super;bianchi chocolate blanco x100u;14100;img/dulces/super/bianchib.jpg;false
+dulces;super;bianchi chocolate negro x100u;14100;img/dulces/super/bianchia.jpg;false
+dulces;super;chao fresa dulce bolsa x100u;8300;img/dulces/super/chaofresap.jpg;false
+dulces;super;chao menta dulce bolsa x100u;8300;img/dulces/super/chaomentap.jpg;false
+dulces;super;chao pastillas cereza x16u;13200;img/dulces/super/chaopastilla.jpg;false
+dulces;super;lokiño bolsa x100u;8300;img/dulces/super/lokiño.jpg;false
+dulces;super;mist halls bolsa x100u;10000;img/dulces/super/mistbol.jpg;false
+dulces;super;revolcon x50u;7400;img/dulces/super/revolconbolsa.jpg;false
+dulces;super;super coco x50u;16500;img/dulces/super/supercocobolsa.jpg;false
+dulces;colombina;bon bon bum barra masticable x40u;10200;img/dulces/colombina/barritabon.jpg;false
+dulces;colombina;bon bon bum rojo x24u;10800;img/dulces/colombina/bombun.jpg;false
+dulces;colombina;bon bon bum surtido x24u;10800;img/dulces/colombina/bombunsur.jpg;false
+dulces;colombina;bon bon bum tajin x12u;18200;img/dulces/colombina/bomtajin.jpg;false
+dulces;colombina;caramelo blando nucita x100u;13000;img/dulces/colombina/nucitacarmelob.jpg;false
+dulces;colombina;coffe delight caramelo blando bolsa x100u;13000;img/dulces/colombina/coffblando.jpg;false
+dulces;colombina;coffe delight caramelo duro bolsa x100u;10000;img/dulces/colombina/coffeduro.jpg;false
+dulces;colombina;coffe delight caramelo relleno bolsa x100u;13000;img/dulces/colombina/cofferelle.jpg;false
+dulces;colombina;choco disk candy caja x18u;18000;img/dulces/colombina/chocdiskcan.jpg;false
+dulces;colombina;choco disk cubierto de chocolate con mani x12u;14800;img/dulces/colombina/chocodiskmani.jpg;false
+dulces;colombina;chocolatina muu x24u;23800;img/dulces/colombina/chocodiskmani.jpg;false
+dulces;colombina;crema muu x12u;6000;img/dulces/colombina/muuderret.jpg;false
+dulces;colombina;chocobreak frutal x30u;9700;img/dulces/colombina/chocobrealf30.jpg;false
+dulces;colombina;chocobreak frutal x50u;15600;img/dulces/colombina/chocobrx50.jpg;false
+dulces;colombina;chocobreak cookies x30u;10000;img/dulces/colombina/chocbrecookiex30.jpg;false
+dulces;colombina;chocoball x50u;8200;img/dulces/colombina/chocoballbolsa.jpg;false
+dulces;colombina;chupeta tipitin x40u;9000;img/dulces/colombina/colombtipitin.jpg;false
+dulces;colombina;chupeta pirulito x12u;8400;img/dulces/colombina/pirulitobolsa.jpg;false
+dulces;colombina;fruticas de relleno bolsa x100u;11500;img/dulces/colombina/frutibolsa.jpg;false
+dulces;colombina;galleta wafer bridge chocolate x10u;7400;img/dulces/colombina/bridgechocolate.jpg;false
+dulces;colombina;galleta wafer bridge naranja x10u;7400;img/dulces/colombina/bridgenara.jpg;false
+dulces;colombina;galleta wafer bridge vainilla x10u;7400;img/dulces/colombina/bridgevain.jpg;false
+dulces;colombina;galleta wafer bridge fresa x10u;7400;img/dulces/colombina/bridgefresa.jpg;false
+dulces;colombina;galleta wafer bridge arequipe x10u;7400;img/dulces/colombina/bridgareq.jpg;false
+dulces;colombina;galleta wafer bridge ron con pasas x10u;7400;img/dulces/colombina/bridgeronpa.jpg;false
+dulces;colombina;galleta wafer bridge limon x10u;7400;img/dulces/colombina/caprilimon9.jpg;false
+dulces;colombina;gomas grissly splash x100u;17600;img/dulces/colombina/cajagoma100g.jpg;false
+dulces;colombina;gomas bon bon bum 45gr x1u;1400;img/dulces/colombina/bonbongc.jpg;false
+dulces;colombina;gomitas bon bon bum x80u;14100;img/dulces/colombina/bonbongc.jpg;false
+dulces;colombina;nucita crema x18u;11900;img/dulces/colombina/nucitacrispy.jpg;false
+dulces;colombina;nucita nuges x20u;16500;img/dulces/colombina/nugesn.jpg;false
+dulces;colombina;nucita galleta avellana x8u;5400;img/dulces/colombina/galletawafernucitaave.jpg;false
+dulces;colombina;nucita avellana con chocolate x8u;11600;img/dulces/colombina/galletawafernucitacubchoco.jpg;false
+dulces;colombina;masmelo chocmelos snack fresa 32gr x1u;2100;img/dulces/colombina/chocmelofresa.jpg;false
+dulces;colombina;masmelo chocmelos snack vainilla 32gr x1u;2100;img/dulces/colombina/chocmevaib.jpg;false
+dulces;colombina;masmelo millows bolsa x50u;8600;img/dulces/colombina/millows50u.jpg;false
+dulces;colombina;max combi bolsa x100u;8400;img/dulces/colombina/bolsamaxcombi.jpg;false
+dulces;colombina;minibum surtido bolsa x100u;11200;img/dulces/colombina/minibumbo.jpg;false
+dulces;colombina;menta helada x100u;8200;img/dulces/colombina/mentaheladab.jpg;false
+dulces;colombina;piazzabarquillo jirafa chocolate x24u;11000;img/dulces/colombina/piazzacho.jpg;false
+dulces;colombina;piazzabarquillo jirafa chocoleche x24u;11000;img/dulces/colombina/piazzablan.jpg;false
+dulces;colombina;piazzabarquillo jirafa arequipe x24u;11000;img/dulces/colombina/piazzaare.jpg;false
+dulces;colombina;piazzabarquillo jirafa fresa salvaje x24u;11000;img/dulces/colombina/piazzafresasal.jpg;false
+dulces;colombina;piazza barquillo 44gr fresa x1u;3400;img/dulces/colombina/piazzafresa.jpg;false
+dulces;colombina;splot chicle x100u;9000;img/dulces/colombina/splotchiclebolsa.jpg;false
+dulces;colombina;splot chicle bomba sandia x50u;7700;img/dulces/colombina/splotchicleaci.jpg;false
+dulces;colombina;splot chicle acido 5 en linea x24u;9900;img/dulces/colombina/splotlineaaci.jpg;false
+dulces;colombina;splot chicle e tattoo x120u;16800;img/dulces/colombina/splottatto.jpg;false
+dulces;colombina;snowmint krash x12u;9700;img/dulces/colombina/snowmint.jpg;false
+dulces;colombina;xtime chicle x100u;14400;img/dulces/colombina/chiclex100c.jpg;false
+dulces;colombina;xtime halls surtidos x100u;8500;img/dulces/colombina/hallsxtimebolsa.jpg;false
+dulces;colombina;xtime chicle x200u bolsa;26700;img/dulces/colombina/chicleschixt.jpg;false
+dulces;nutresa;chocolate corona caja x40u;36500;img/dulces/nutresa/chococopasx40.jpg;false
+dulces;nutresa;festival vainilla 4x12;11700;img/dulces/nutresa/festvaix4.jpg;false
+dulces;nutresa;festival limon 4x12;11700;img/dulces/nutresa/fesrlimx4.jpg;false
+dulces;nutresa;festival fresa 4x12;11700;img/dulces/nutresa/festfrex4.jpg;false
+dulces;nutresa;festival chocolate 4x12;11700;img/dulces/nutresa/feschox4.jpg;false
+dulces;nutresa;festival recreo 6x12;14800;img/dulces/nutresa/festirecrex6.jpg;false
+dulces;nutresa;festival fresa 6x12;14800;img/dulces/nutresa/fetivalfresa6.jpg;false
+dulces;nutresa;festival chocolate 6x12;14800;img/dulces/nutresa/festchox6.jpg;false
+dulces;nutresa;festival limon 6x12;14800;img/dulces/nutresa/festlx6.jpg;false
+dulces;nutresa;festival vainilla 6x12;14800;img/dulces/nutresa/festvaix6.jpg;false
+dulces;nutresa;festival minichips x12u;16900;img/dulces/nutresa/minichipg.jpg;false
+dulces;nutresa;gol mega arequipe 52gr x8u;19800;img/dulces/nutresa/megaarequipe.jpg;false
+dulces;nutresa;gol caramelo mani morado 31gr x15u;20000;img/dulces/nutresa/golmorado15.jpg;false
+dulces;nutresa;jet mini x24u;17200;img/dulces/nutresa/jetmini24.jpg;false
+dulces;nutresa;jet chocolatina 11gr caja x50u;44800;img/dulces/nutresa/jet11gx50.jpg;false
+dulces;nutresa;jet chocolatina 11gr caja x24u;21500;img/dulces/nutresa/jet11gx24.jpg;false
+dulces;nutresa;jet cookies & cream 21gr x10u;34000;img/dulces/nutresa/cooki10g.jpg;false
+dulces;nutresa;jet cookies & cream 50gr x6u;30600;img/dulces/nutresa/cookies50g.jpg;false
+dulces;nutresa;jet burbuejet cookies & cream 50gr x4u;20600;img/dulces/nutresa/burbucookies50gr.jpg;false
+dulces;nutresa;jet crujivainilla 50gr 50gr x6u;30900;img/dulces/nutresa/crujivainilla50g.jpg;false
+dulces;nutresa;jumbo mani 17gr x24u;31700;img/dulces/nutresa/jumbomani17g.jpg;false
+dulces;nutresa;jumbo mani 35gr x12u;41200;img/dulces/nutresa/jumbomani35g.jpg;false
+dulces;nutresa;jumbo mani 90gr x6u;45500;img/dulces/nutresa/jumbomani90g.jpg;false
+dulces;nutresa;jumbo flow blanca 48gr x12u;40200;img/dulces/nutresa/flowb.jpg;false
+dulces;nutresa;jumbo flow ccaramelo 48gr x12u;40200;img/dulces/nutresa/flowcafe.jpg;false
+dulces;nutresa;jumbo mix 60gr x12u;54400;img/dulces/nutresa/jumbomix.jpg;false
+dulces;nutresa;mani la especial kraks 25gr x12u;15900;img/dulces/nutresa/manikraf12.jpg;false
+dulces;nutresa;mani la especial de sal 35gr x12u;23300;img/dulces/nutresa/manisal12.jpg;false
+dulces;nutresa;mani la especial de uvas pasas 35gr x12u;23300;img/dulces/nutresa/maniuvapasa12.jpg;false
+dulces;nutresa;mani la especial limon y pimienta 40gr x12u;31700;img/dulces/nutresa/manipimienta12.jpg;false
+dulces;nutresa;mani la especial de arandanos 40gr x12u;34900;img/dulces/nutresa/manimixarandanos.jpg;false
+dulces;adams;bolsa de halls negra pepa x100u;16300;img/dulces/adams/bolsahallsp.jpg;false
+dulces;adams;bolsa de halls surtido pepa x100u;16300;img/dulces/adams/hallsssurpebol.jpg;false
+dulces;adams;halls 9sx12u lyptus;19600;img/dulces/adams/halssmoraba.jpg;false
+dulces;adams;halls 9sx12u yerbabuena;19600;img/dulces/adams/halsbver.jpg;false
+dulces;adams;halls 9sx12u cherry;19600;img/dulces/adams/hallsbache.jpg;false
+dulces;adams;halls 9sx12u menta;19600;img/dulces/adams/halsbmen.jpg;false
+dulces;adams;halls 9sx12unegro;19600;img/dulces/adams/halssbnegr.jpg;false
+dulces;adams;halls 9sx12u miellimon;19600;img/dulces/adams/hallsbarrar .jpg;false
+dulces;adams;halls 9sx12u cereza;19600;img/dulces/adams/hallsbarrarr.jpg;false
+dulces;adams;trident 1sx60u sandia;14800;img/dulces/adams/traid1ssan.jpg;false
+dulces;adams;trident 1sx60u menta;14800;img/dulces/adams/trident1smen.jpg;false
+dulces;adams;trident 1sx60u yerbabuena;14800;img/dulces/adams/triden1sver.jpg;false
+dulces;adams;trident 1sx60u mora;14800;img/dulces/adams/tri1smora.jpg;false
+dulces;adams;trident 1sx60u herbal;14800;img/dulces/adams/triden1sher.jpg;false
+dulces;adams;trident 3sx24u yerbabuena;21800;img/dulces/adams/tridenyerb3s.jpg;false
+dulces;adams;trident 3sx24u mora;21800;img/dulces/adams/trident3smora.jpg;false
+dulces;adams;trident 3sx24u herbal;21800;img/dulces/adams/trident3sherbal.jpg;false
+dulces;adams;trident 3sx24u sandia;21800;img/dulces/adams/trid3ssan.jpg;false
+dulces;adams;trident 3sx24u menta;21800;img/dulces/adams/trident3smenta.jpg;false
+dulces;adams;trident 5sx18u yerbabuena;24800;img/dulces/adams/tridentverde5s.jpg;false
+dulces;adams;trident 5sx18u menta;24800;img/dulces/adams/tridentazul5s.jpg;false
+dulces;adams;trident 5sx18u mora;24800;img/dulces/adams/tridentmora5s.jpg;false
+dulces;adams;trident 5sx18u herbal;24800;img/dulces/adams/herbaltri5s.jpg;false
+dulces;adams;trident 5sx18u sandia;24800;img/dulces/adams/tridentsan5s.jpg;false

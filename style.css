@@ -1,4 +1,6 @@
-/* RESET GENERAL: Quita espacios automáticos del navegador */
+/* ==========================================================================
+   1. RESET GENERAL Y ESTILOS BASE
+   ========================================================================== */
 * {
     margin: 0;
     padding: 0;
@@ -7,198 +9,1262 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    background-color: #d3d4c9;
     overflow-x: hidden; /* Evita que la página baile de lado a lado */
+    padding-bottom: 80px !important;
 }
 
-/* HEADER */
+/* ==========================================================================
+   2. ENCABEZADO ESCRITORIO (Estilo Postobón)
+   ========================================================================== */
 .header-principal {
-    background-color: rgb(7, 4, 4);
-    color: white;
-    padding: 15px 20px;
+    background-color: #000000;
+    box-shadow: 0 4px px rgba(0, 0, 0, 0.08);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    padding: 12px 0;
 }
 
-.logo-contacto {
+.contenedor-header {
+    max-width: 1400px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
+    padding: 0 20px;
 }
 
-/* Busca esto en tu style.css */
-.logo img {
-        height: 90px !important; /* Logo más discreto en celular */
-    }
+/* Borra lo anterior relacionado con el logo y pega esto: */
 
-.info-contacto p {
+.logo-contacto {
+    display: flex;
+    align-items: center;
+    /* Limitamos el tamaño del contenedor principal del logo */
+    max-width: 120px; 
+}
+
+.logo-postobon-style {
+    /* Esto obliga a la imagen a no ser más grande que su contenedor */
+    max-width: 100%; 
+    height: auto;
+    display: block;
+}
+
+.menu-corporativo {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.lista-menu {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.lista-menu a {
+    text-decoration: none;
+    color: #f3f7fd;
+    font-weight: 700;
     font-size: 14px;
-    margin: 3px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: color 0.3s;
 }
 
-/* MENU */
-.menu {
-    background-color: #be1111;
+.lista-menu a:hover {
+    color: #be123c;
+}
+
+.acciones-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.btn-haz-pedido {
+    background: linear-gradient(135deg, #273275 0%, #4c618f 100%);
+    color: #ffffff !important;
+    text-decoration: none;
+    padding: 10px 22px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 13.5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 4px 10px rgba(190, 18, 60, 0.25);
+    transition: all 0.3s ease;
+}
+
+.btn-haz-pedido:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(190, 18, 60, 0.35);
+}
+
+.link-servicio-cliente {
+    text-decoration: none;
+    color: #e2f576;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.link-servicio-cliente:hover {
+    color: #be123c;
+}
+
+/* Asegura que en móviles se vea de a 2 productos */
+.grid-tarjetas-promocionales {
+    display: grid;
+    /* Esto crea 2 columnas iguales que se ajustan automáticamente */
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px; /* Espacio entre productos */
+    padding: 10px;
+}
+
+/* Opcional: Para pantallas grandes, puedes cambiar a 3 o 4 columnas */
+@media (min-width: 768px) {
+    .grid-tarjetas-promocionales {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+.bloque-afiche-promo {
+    width: 100% !important; /* Ocupa el espacio que le da la columna */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Para que las imágenes no se desborden */
+.bloque-afiche-promo img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ==========================================================================
+   ESTILOS PARA EL BANNER MOVIBLE (CARRUSEL)
+   ========================================================================== */
+
+.contenedor-banner-movible {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;/* Oculta las imágenes que no están activas */
+    background-color: #0b1a30; /* Fondo oscuro premium (matching image) */
+}
+
+.carrusel-deslizable {
+    display: flex;
+    transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.27, 1.55); /* Movimiento suave y elástico */
+    width: 100%;
+}
+
+.slide-item {
+    min-width: 100%;
+    box-sizing: border-box;
+    display: none; /* Por defecto ocultos */
+}
+
+.slide-item.activa {
+    display: block; /* Solo se muestra el activo */
+}
+
+.imagen-banner {
+    width: 100%;
+    height: 600px;
+    display: block;
+    
+}
+
+/* Flechas de Control */
+.flecha-control {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(179, 29, 29, 0.4); /* Rojo corporativo sutil */
+    color: white;
+    border: none;
+    padding: 16px;
+    cursor: pointer;
+    border-radius: 50%;
+    font-size: 18px;
+    transition: background 0.3s;
+    z-index: 10;
+}
+
+.flecha-control:hover {
+    background-color: rgba(179, 29, 29, 0.9); /* Rojo total al hover */
+}
+
+.flecha-control.prev { left: 15px; }
+.flecha-control.next { right: 15px; }
+
+/* Indicadores (Puntos) */
+.indicadores-puntos {
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 8px;
+    z-index: 10;
+}
+
+.punto {
+    width: 12px;
+    height: 12px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.punto.activa {
+    background-color: #ffffff;
+    box-shadow: 0 0 8px rgba(179, 29, 29, 0.8); /* Brillo rojo corporativo */
+}
+
+/* Adaptación Móvil */
+@media (max-width: 768px) {
+    .flecha-control { padding: 10px; font-size: 14px; }
+}
+
+/* ==========================================================================
+   4. SECCIÓN MARCAS TRADICIONALES
+   ========================================================================== */
+
+   .contenedor-marcas {
     display: flex;
     justify-content: center;
-    border-bottom: 3px solid #F2B705;
+    gap: 20px;
+    padding: 30px 20px;
+    flex-wrap: wrap;
+    background-color: #ffffff;
 }
 
-.menu a {
-    color: white;
-    text-decoration: none;
-    padding: 15px 30px;
+.div-marca img {
+    width: 120px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+}
+
+.div-marca img:hover {
+    transform: scale(1.05);
+}
+
+
+/* ==========================================================================
+   NUEVOS ESTILOS OPTIMIZADOS - PÁGINA QUIÉNES SOMOS
+   ========================================================================== */
+
+.contenedor-quienes-pagina {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* CAMBIO CLAVE: Usamos flexbox para que sea responsive automáticamente */
+.seccion-presentacion {
+    display: flex;
+    flex-wrap: wrap; /* Esto permite que los elementos bajen de fila en móviles */
+    gap: 20px;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.bloque-texto-quienes {
+    flex: 1 1 300px; /* Se ajusta solo: mínimo 300px, crece si hay espacio */
+    padding-right: 10px;
+}
+
+.bloque-foto-quienes {
+    flex: 1 1 300px;
+    text-align: center;
+}
+
+/* Foto cuadrada */
+.foto-cuadrada {
+    width: 100%;
+    max-width: 320px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(197, 39, 39, 0.1);
+    border: 1px solid #f13939;
+}
+
+/* Estilos de Textos */
+.bloque-texto-quienes h2 {
+    font-size: 28px;
+    color: #be1111;
+    margin: 0 0 15px 0;
     font-weight: bold;
-    text-transform: uppercase;
+}
+
+.bloque-texto-quienes p {
+    font-size: 15px;
+    color: #333; /* Cambié de blanco a oscuro para que se lea bien en fondo blanco */
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+}
+
+/* Bloque inferior de Misión y Visión */
+.seccion-valores {
+    margin-top: 20px;
+}
+
+.tarjeta-valores {
+    background: #ffffff;
+    border-top: 4px solid #be1111;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(180, 24, 24, 0.05);
+    margin-bottom: 25px;
+}
+
+.tarjeta-valores h3 {
+    font-size: 18px;
+    color: #be1111;
+    margin: 0 0 10px 0;
+    font-weight: bold;
+}
+
+.tarjeta-valores p {
+    font-size: 14.5px;
+    color: #475569;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+}
+
+/* Botón de volver */
+.contenedor-boton-volver {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.btn-volver-inicio {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #be1111;
+    color: #ffffff !important;
+    text-decoration: none;
+    border-radius: 25px;
     font-size: 14px;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(190, 17, 17, 0.25);
+    transition: background 0.3s ease;
 }
 
-.menu a:hover {
+.btn-volver-inicio:hover {
     background-color: #900d0d;
-    color: #F2B705;
 }
 
-/* BANNER */
-.banner {
+/* ==========================================================================
+   DISEÑO PROFESIONAL PÁGINA DE SERVICIOS (ESTILO VOLANTE)
+   ========================================================================== */
+
+.pagina-servicios {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.banner-servicios img {
     width: 100%;
     height: auto;
     display: block;
 }
 
-/* MARCAS */
-/* Busca o agrega esto en tu style.css */
-.contenedor-marcas {
-    background-color: #ffffff; /* Esto pone el fondo totalmente blanco */
+.contenido-blanco {
+    padding: 40px 20px;
+}
+
+.titulo-servicios {
+    color: #333;
+    font-weight: 900;
+    font-size: 24px;
+    margin-bottom: 30px;
+    border-left: 5px solid #f37021;
+    padding-left: 15px;
+}
+
+.grid-servicios-pro {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.item-servicio {
+    text-align: center;
+}
+
+.item-servicio i {
+    font-size: 50px;
+    color: #f37021; /* Naranja */
+    margin-bottom: 15px;
+}
+
+.item-servicio h3 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 10px;
+    height: 40px;
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-servicio p {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.4;
+}
+
+/* Barra de beneficios */
+.barra-beneficios {
+    background-color: #050505;
+    color: rgb(253, 141, 49);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.titulo-beneficios {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    padding-bottom: 5px;
+}
+
+.items-beneficios {
+    display: flex;
+    justify-content: space-around;
     flex-wrap: wrap;
+    gap: 15px;
+}
+
+.items-beneficios span {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Footer Naranja */
+.footer-servicios {
+    background-color: #f37021;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.texto-final {
+    display: flex;
+    align-items: center;
     justify-content: center;
     gap: 20px;
-    padding: 40px 20px; /* Le damos más espacio para que se vea elegante */
-    width: 100%;
 }
 
-.marca img {
-    max-width: 110px;
-    height: auto;
-    /* Opcional: añade esto para un efecto profesional */
-    transition: transform 0.3s ease;
+.texto-final p {
+    font-size: 14px;
+    margin: 0;
 }
 
-.marca img:hover {
-    transform: scale(1.1); /* El logo crece un poquito cuando pasas el ratón */
+.cart-icon {
+    font-size: 40px;
+    opacity: 0.8;
 }
 
-/* --- MODO CELULAR (MEDIA QUERY) --- */
+/* Responsive (Celulares) */
 @media (max-width: 600px) {
-    .logo-contacto {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .menu {
+    .texto-final {
         flex-direction: column;
     }
-
-    .menu a {
-        width: 100%;
-        text-align: center;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-        padding: 12px;
-    }
-
-    .info-contacto p {
-        font-size: 12px;
+    .titulo-servicios {
+        font-size: 20px;
     }
 }
-/* Esto arregla el contenedor de los productos */
-.productos-grid {
+
+/* ==========================================================================
+   DISEÑO COBERTURA DE ENTREGAS (ESTILO INFOGRAFÍA KENNEDY)
+   ========================================================================== */
+
+.contenedor-cobertura-pro {
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 30px 15px;
+    box-sizing: border-box;
+}
+
+.naranja-sol {
+    color: #f37021 !important;
+}
+
+/* Fila de Arriba: Mensaje y foto de los chicos */
+.seccion-hero-cobertura {
     display: flex;
-    flex-wrap: wrap; /* Permite que se pongan uno al lado del otro */
-    justify-content: center; /* Los centra en la pantalla */
-    gap: 10px; /* Espacio entre cada producto */
-    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 30px;
 }
 
-/* Esto hace que cada producto sea pequeño y elegante */
-.producto-card {
-    background: white;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    width: 160px; /* Tamaño fijo para que no se vea gigante */
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+.texto-hero-cobertura {
+    flex: 1;
 }
 
-.producto-card img {
-    width: 100px; /* Controlamos el tamaño de la botella */
+.texto-hero-cobertura h1 {
+    font-size: 42px;
+    font-weight: 900;
+    color: #1a1a1a;
+    line-height: 1.1;
+    margin: 0 0 10px 0;
+}
+
+.linea-decorativa {
+    width: 45px;
+    height: 4px;
+    background-color: #f37021;
+    margin-bottom: 20px;
+}
+
+.texto-hero-cobertura p {
+    font-size: 16px;
+    color: #4a4a4a;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.foto-hero-cobertura {
+    flex: 1;
+    text-align: right;
+}
+
+.foto-hero-cobertura img {
+    max-width: 100%;
     height: auto;
+    border-radius: 10px;
+}
+
+/* Cuadro Blanco de Barrios y Zonas */
+.cuadro-blanco-zonas {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 15px;
+    padding: 30px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.tarjeta-info-cobertura {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+}
+
+.icono-naranja-cob i {
+    font-size: 40px;
+    color: #f37021;
+    margin-bottom: 12px;
+}
+
+.icono-gris-cob i {
+    font-size: 40px;
+    color: #6c757d;
+    margin-bottom: 12px;
+}
+
+.tarjeta-info-cobertura h3 {
+    font-size: 15px;
+    font-weight: 800;
+    color: #111;
+    margin: 0 0 8px 0;
+    line-height: 1.3;
+}
+
+.tarjeta-info-cobertura p {
+    font-size: 13px;
+    color: #555;
+    margin: 0;
+}
+
+.border-left-gris {
+    border-left: 1px solid #dee2e6;
+}
+
+/* Distribución del listado central */
+.tarjeta-barrios-links {
+    flex: 1.5;
+    padding: 0 15px;
+}
+
+.columnas-barrios-grid {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.col-barrio {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.barrio-item {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: #222;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-left: 15px;
+}
+
+.barrio-item::before {
+    content: "•";
+    color: #f37021;
+    font-size: 18px;
+    position: absolute;
+    left: 0;
+    top: -3px;
+}
+
+/* Bloque Negro Inferior de Beneficios */
+.bloque-negro-beneficios {
+    background-color: #0c0c0e;
+    color: white;
+    border-radius: 12px;
+    padding: 25px 30px;
+    margin-bottom: 25px;
+}
+
+.titulo-beneficios-cob {
+    font-size: 13px;
+    color: #f37021;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 0 0 20px 0;
+}
+
+.grid-beneficios-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.item-beneficio-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.icono-b {
+    font-size: 22px;
+    color: #f37021;
+    flex-shrink: 0;
+}
+
+.item-beneficio-row p {
+    font-size: 12.5px;
+    color: #e0e0e0;
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* Caja de Compromiso Final */
+.frase-compromiso-final {
+    background-color: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 12px;
+    padding: 18px 25px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.02);
+}
+
+.caja-compromiso-interior {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.caja-compromiso-interior p {
+    font-size: 14.5px;
+    color: #222;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+    line-height: 1.5;
+}
+
+.check-ok {
+    font-size: 28px;
+    color: #f37021;
+}
+
+.truck-orange {
+    font-size: 32px;
+    color: #f37021;
+}
+
+/* Adaptabilidad Móvil (Responsivo) */
+@media (max-width: 768px) {
+    .seccion-hero-cobertura {
+        flex-direction: column;
+        text-align: center;
+    }
+    .linea-decorativa {
+        margin: 0 auto 20px auto;
+    }
+    .foto-hero-cobertura {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .cuadro-blanco-zonas {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .border-left-gris {
+        border-left: none;
+        border-top: 1px solid #dee2e6;
+        padding-top: 20px;
+        width: 100%;
+    }
+    .columnas-barrios-grid {
+        flex-direction: column;
+        text-align: center;
+        gap: 12px;
+    }
+    .caja-compromiso-interior {
+        flex-direction: column;
+    }
+}
+
+
+/* ==========================================================================
+   DISEÑO PARA LA PESTAÑA DE SERVICIO AL CLIENTE (CONTACTO)
+   ========================================================================== */
+
+/* =========================================================
+   SERVICIO AL CLIENTE
+========================================================= */
+
+.contenedor-contacto-global{
+    max-width:1200px;
+    margin:0 auto;
+    padding:20px;
+}
+
+.bloque-columnas-contacto{
+    display:flex;
+    gap:25px;
+    align-items:stretch;
+}
+
+/* PANEL IZQUIERDO */
+
+.columna-info-empresa{
+    flex:1;
+
+    min-height:850px;
+
+    background-image:
+    linear-gradient(
+        rgba(35,0,50,0.65),
+        rgba(35,0,50,0.65)
+    ),
+    url("asesora-fondo.jpg");
+
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+    border-radius:15px;
+    overflow:hidden;
+
+    box-shadow:0 10px 25px rgba(0,0,0,0.20);
+}
+
+.overlay-contacto{
+    height:100%;
+    padding:40px 30px;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-end;
+
+    color:white;
+}
+
+.overlay-contacto h2{
+    font-size:42px;
+    margin-bottom:15px;
+    color:#ffffff;
+    text-shadow:2px 2px 10px rgba(0,0,0,0.5);
+}
+
+.overlay-contacto p{
+    font-size:18px;
+    line-height:1.7;
+    margin-bottom:30px;
+}
+
+/* DATOS DE CONTACTO */
+
+.datos-contacto{
+    margin-top:15px;
+}
+
+.contacto-item{
+    display:flex;
+    align-items:center;
+    gap:15px;
+    margin-bottom:20px;
+    font-size:18px;
+}
+
+.contacto-item i{
+    width:55px;
+    height:55px;
+
+    border-radius:50%;
+
+    background:#651b80;
+    color:#ffd700;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    font-size:24px;
+
+    box-shadow:0 0 15px rgba(255,215,0,0.25);
+}
+
+/* FORMULARIO */
+
+.contenedor-formulario-google{
+    flex:1;
+
+    background:white;
+    border-radius:15px;
+
+    overflow:hidden;
+
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+/* BOTON VOLVER */
+
+.btn-volver-inicio{
+    display:inline-block;
+    text-decoration:none;
+
+    background:#c91d1d;
+    color:white;
+
+    padding:12px 25px;
+
+    border-radius:6px;
+    font-weight:bold;
+
+    transition:0.3s;
+}
+
+.btn-volver-inicio:hover{
+    background:#a81414;
+}
+
+/* RESPONSIVE */
+
+@media (max-width:768px){
+
+    .bloque-columnas-contacto{
+        flex-direction:column;
+    }
+
+    .columna-info-empresa{
+        min-height:600px;
+    }
+
+    .overlay-contacto{
+        padding:25px;
+    }
+
+    .overlay-contacto h2{
+        font-size:30px;
+    }
+
+    .overlay-contacto p{
+        font-size:16px;
+    }
+
+    .contacto-item{
+        font-size:16px;
+    }
+
+    .contacto-item i{
+        width:50px;
+        height:50px;
+        font-size:20px;
+    }
+}
+
+/* ==========================================================================
+   ESTILOS PREMIUM PARA LA SELECCIÓN DE MARCAS EN CUADRÍCULA
+   ========================================================================== */
+
+.banner-promos-mini {
+    background-color: #b31d1d;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 8px 10px;
+    letter-spacing: 0.5px;
+}
+
+
+/* CUADRÍCULA DE LOGOS (GRID) */
+.cuadricula-marcas-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas en PC */
+    gap: 25px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* CADA CASILLA DE MARCA */
+.tarjeta-marca-item {
+    background-color: #ffffff;
+    border: 1px solid #e6e6e6;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.03);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.tarjeta-marca-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    border-color: #b31d1d;
+}
+
+.imagen-marca-wrap {
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.imagen-marca-wrap img {
+    max-width: 90%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.tarjeta-marca-item span {
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    color: #222222;
+}
+
+/* ENCABEZADO CUANDO YA SE FILTRÓ UNA MARCA */
+.encabezado-filtro-activo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eaeaea;
+    padding-bottom: 15px;
+}
+
+.btn-regresar-marcas {
+    background-color: #f4f4f4;
+    color: #333333;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.btn-regresar-marcas:hover {
+    background-color: #b31d1d;
+    color: white;
+    border-color: #b31d1d;
+}
+
+#nombre-marca-titulo {
+    font-size: 22px;
+    color: #333;
+    margin: 0;
+}
+
+.no-products {
+    text-align: center;
+    grid-column: 1 / -1;
+    color: #777;
+    padding: 40px 0;
+    font-size: 16px;
+}
+
+/* ==========================================================================
+   ADAPTACIÓN PARA CELULARES (MUESTRA DOS LOGOS POR FILA)
+   ========================================================================== */
+@media (max-width: 768px) {
+    .cuadricula-marcas-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 por fila exactos en móvil */
+        gap: 15px;
+    }
+    
+    .tarjeta-marca-item {
+        padding: 15px 10px;
+    }
+
+    .imagen-marca-wrap {
+        height: 70px;
+    }
+
+    .tarjeta-marca-item span {
+        font-size: 13px;
+    }
+
+    .encabezado-filtro-activo {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+}
+
+/* Contenedor principal de la tarjeta */
+.bloque-afiche-promo {
+    background: #fff;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bloque-afiche-promo:hover { transform: translateY(-5px); }
+
+/* Ajuste de imágenes para que no se deformen */
+.bloque-afiche-promo img {
+    width: 100px; /* Tamaño fijo */
+    height: 120px;
+    object-fit: contain;
     margin-bottom: 10px;
 }
 
-/* Estilo para el botón de añadir */
-.btn-añadir {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 8px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 12px;
-    width: 100%;
-}
-/* FUERZA EL DISEÑO DE 2 PRODUCTOS POR FILA */
-#contenedor-productos, 
-.contenedor-productos, 
-[class*="productos"] {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    justify-content: center !important;
-    gap: 10px !important;
-    padding: 10px !important;
+/* Tipografía */
+.bloque-afiche-promo h3 { font-size: 14px; margin: 5px 0; color: #333; height: 35px; }
+.precio-unitario { font-weight: bold; color: #d32f2f; font-size: 16px; margin: 5px 0; }
+
+/* Botones de control */
+.control-cantidad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+    background: #f4f4f4;
+    padding: 5px 10px;
+    border-radius: 20px;
 }
 
-/* AJUSTA EL TAMAÑO DE LAS TARJETAS */
-.producto-item, 
-.producto-card, 
-[class*="item"] {
-    width: 45% !important; /* Aquí obligamos a que entren dos */
-    min-width: 150px !important;
-    max-width: 180px !important;
-    background: white !important;
-    border-radius: 10px !important;
-    padding: 10px !important;
+.control-cantidad button {
+    background: #ff4500;
+    color: white;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.control-cantidad span { font-weight: bold; min-width: 30px; }
+
+/* --- Estilos Generales --- */
+.header-principal { background: #000000; padding: 10px; }
+.contenedor-header { display: flex; justify-content: space-between; align-items: center; }
+
+/* Ocultar el menú por defecto */
+/* Estado oculto (por defecto) */
+.menu-nav {
+    display: none; /* O puedes usar opacity: 0; visibility: hidden; */
+    flex-direction: column;
+    background: #da2020;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Estado activo (cuando JS añade la clase) */
+.menu-nav.activo {
+    display: flex !important; /* Fuerza a que se muestre */
+}
+
+.menu-nav a {
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.menu-hamburguesa {
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    display: none; /* Se mostrará solo en móvil */
+}
+
+@media (max-width: 768px) {
+    .menu-hamburguesa { display: block; }
+}
+
+/* ==========================================================================
+   2. CARRITO FLOTANTE (ESTILO UNIFICADO)
+   ========================================================================== */
+/* 1. Contenedor del carrito: Anclado y estirado al 100% */
+.contenedor-carrito-flotante {
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: 60px !important;
+    background-color: #ff4500 !important;
+    z-index: 9999999 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
     box-sizing: border-box !important;
 }
 
-/* AJUSTA LA IMAGEN PARA QUE NO SE ESTIRE */
-.producto-item img, 
-[class*="item"] img {
-    height: 100px !important;
-    width: auto !important;
+/* 2. El enlace (botón) debe ocupar todo el espacio del contenedor */
+#btn-total {
+    color: white !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+    display: flex !important;
+    width: 100% !important;
+    height: 100% !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+/* 3. Asegurar espacio para que el carrito no tape los últimos productos */
+body {
+    padding-bottom: 80px !important;
+    min-height: 100vh !important;
+}
+
+/* Asegúrate de que el contenedor del menú sea tipo bloque */
+
+#menu-desplegable {
+    display: none;
+    position: absolute;
+    top: 60px; /* Ajusta este valor si tu header es más alto o bajo */
+    left: 0;
+    width: 100%;
+    background-color: #000000 !important; /* Fuerza el color negro sólido */
+    z-index: 1000;
+}
+
+/* 2. Clase que activa el menú */
+#menu-desplegable.activo {
     display: block !important;
-    margin: 0 auto 10px auto !important;
-}
-/* Ajuste para que la ventana de "Tu Pedido" no sea gigante */
-.modal-carrito, #carrito-modal {
-    width: 90% !important;   /* Que no ocupe todo el ancho */
-    max-width: 350px !important; 
-    max-height: 70vh !important; /* Que no tape toda la pantalla hacia abajo */
-    overflow-y: auto !important; /* Si hay muchos productos, permite bajar con el dedo */
-    border-radius: 15px !important;
-    padding: 15px !important;
 }
 
-/* Letra más pequeña dentro del carrito */
-.item-carrito {
-    font-size: 14px !important;
-    border-bottom: 1px solid #eee;
-    padding: 8px 0;
+/* 3. Asegura que el header no tenga flex-wrap que deforme el diseño */
+.contenedor-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: relative; /* Necesario para que el absolute del menú funcione bien */
 }
 
-/* El botón de WhatsApp más compacto */
-.btn-confirmar {
-    padding: 10px !important;
-    font-size: 15px !important;
-    border-radius: 25px !important;
+/* Estilo para los enlaces dentro del menú */
+#menu-desplegable ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
+
+#menu-desplegable ul li {
+    border-bottom: 1px solid #444;
+}
+
+#menu-desplegable ul li a {
+    color: #ffffff; /* Letras blancas para contrastar con el fondo negro */
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    border-bottom: 1px solid #333; /* Una línea divisoria sutil */
+}
+
+.contenedor-header {
+    flex-wrap: wrap; /* Esto permite que los elementos bajen a la siguiente fila si no caben */
+}
+
+#menu-desplegable {
+    flex: 0 0 100%; /* Esto obliga al menú a ocupar el 100% del ancho, obligándolo a irse abajo */
+}
+
+.buscador-contenedor {
+    display: flex;
+    align-items: center;
+    background: #333;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin: 0 15px;
+}
+
+.buscador-contenedor input {
+    background: transparent;
+    border: none;
+    color: white;
+    padding: 5px;
+    outline: none;
+    width: 150px; /* Ajustable según tu diseño */
+}
+
+.buscador-contenedor button {
+    background: transparent;
+    border: none;
+    color: #ff5722; /* Color naranja de tu marca */
+    cursor: pointer;
+}
+

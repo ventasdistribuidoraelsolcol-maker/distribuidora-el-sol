@@ -5,101 +5,81 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Distribuidora El Sol</title>
     <link rel="stylesheet" href="style.css">
+
+    <script>
+    // Solo redirige si estamos en móvil Y NO estamos ya en la página de productos
+    if (window.innerWidth <= 768 && !window.location.pathname.includes("productos.html")) {
+        window.location.href = "productos.html";
+    }
+
+    // Esta función permite que el botón de búsqueda funcione correctamente
+    function detectarEnter(event) {
+        if (event.key === "Enter") {
+            filtrarBusqueda();
+        }
+    }
+</script>
 </head>
 <body>
 
     <header class="header-principal">
-        <div class="logo-contacto">
-            <div class="logo">
-                <img src="logo.png" alt="Distribuidora El Sol">
+        <div class="contenedor-header">
+            <div class="logo-contacto">
+                <a href="index.html">
+                    <img src="logo.png" alt="Logo Distrisol" class="logo-postobon-style">
+                </a>
             </div>
-            <div class="info-contacto">
-                <p>📧 ventas.distribuidoraelsol.col@gmail.com</p>
-                <p>📞 3505377054</p>
-                <p>📍 Bogotá - Colombia cr 80c # 46b 09 sur</p>
-            </div>
+            <div class="buscador-contenedor">
+    <input type="text" id="busqueda" placeholder="Buscar productos..." onkeydown="detectarEnter(event)">
+<button type="button" onclick="filtrarBusqueda()"><i class="fas fa-search"></i></button>
+    
+</div>
+
+            <nav class="menu-corporativo">
+                <ul class="lista-menu">
+                    <li><a href="quienes.html">Quiénes Somos</a></li>
+                    <li><a href="servicios.html">Servicios</a></li>
+                    <li><a href="cobertura.html">Cobertura</a></li>
+                    <li><a href="servicioalcliente.html">Servicio al cliente</a></li>
+                    </ul>
+                
+                <div class="acciones-header">
+                    <a href="productos.html" class="btn-haz-pedido">
+                        ¡Haz tu pedido aquí! <span class="icono-ws">💬</span>
+                    </a>
+                </div>
+            </nav>
         </div>
     </header>
 
-    <nav class="menu">
-        <a href="quienes.html">Quiénes Somos</a>
-        <a href="servicios.html">Servicios</a>
-        <a href="cobertura.html">Cobertura</a>
-    </nav>
+   <section class="contenedor-banner-movible">
+    <div class="carrusel-deslizable" id="carruselSolicitud">
+        
+        <div class="slide-item activa">
+            <img src="banner.png" alt="Distribuidora El Sol - Catálogo Mayorista" class="imagen-banner">
+        </div>
+        
+        <div class="slide-item">
+            <img src="banner2.png" alt="Entrega Express T.A.T. Guaranteed" class="imagen-banner">
+        </div>
+        
+        <div class="slide-item">
+            <img src="banner3.png" alt="Tu Red de Abastecimiento Mayorista Completa" class="imagen-banner">
+        </div>
 
-    <section class="banner-container">
-        <img src="banner.jpg" alt="Banner Distribuidora" class="banner">
-    </section>
+    </div>
 
-    </body>
-<!-- MARCAS -->
-<section class="contenedor-marcas">
+    <button class="flecha-control prev" onclick="cambiarSlide(-1)">&#10094;</button>
+    <button class="flecha-control next" onclick="cambiarSlide(1)">&#10095;</button>
 
-  <div class="marca">
-    <a href="productos.html?marca=coca-cola">
-  <img src="img/cocacola.jpg" alt="cocacola">
-  </a>
-</div>
+    <div class="indicadores-puntos">
+        <span class="punto activa" onclick="irASlide(0)"></span>
+        <span class="punto" onclick="irASlide(1)"></span>
+        <span class="punto" onclick="irASlide(2)"></span>
+    </div>
+</section>
 
-  <div class="marca">
-     <a href="productos.html?marca=postobon">
-  <img src="img/postobon.jpg" alt="postobon">
-   </a>
-  </div>
-
-  <div class="marca">
-     <a href="productos.html?marca=bigcola">
-  <img src="img/bigcola.jpg" alt="bigcola">
-   </a>
-  </div>
-
-   <div class="marca">
-     <a href="productos.html?marca=beer">
-  <img src="img/cerveza.jpg" alt="beer">
-   </a>
-  </div>
-
-   <div class="marca">
-     <a href="productos.html?marca=ponymalta">
-  <img src="img/pony.jpg" alt="ponymalta">
-   </a>
-  </div>
-
-   <div class="marca">
-     <a href="productos.html?marca=cigarillos">
-  <img src="img/cigarrillos.jpg" alt="cigarillos">
-   </a>
-  </div>
-
-   <div class="marca">
-     <a href="productos.html?marca=quala">
-  <img src="img/quala.jpg" alt="quala">
-   </a>
-  </div>
-
-  <div class="marca">
-     <a href="productos.html?marca=licores">
-  <img src="img/licores.jpg" alt="licores">
-   </a>
-  </div>
-
-   <div class="marca">
-     <a href="productos.html?marca=superricas">
-  <img src="img/superricas.jpg" alt="superricas">
-   </a>
-  </div>
-
-   <div class="marca">
-     <a href="productos.html?marca=dulces">
-  <img src="img/dulces.jpg" alt="dulces">
-   </a>
-  </div>
-
-<div class="productos-container" id="contenedor-productos">
-    <p style="color: rgba(247, 243, 243, 0.959);">Cargando productos...</p>
-</div>
-
-<script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
-
 </html>
+

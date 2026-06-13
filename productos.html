@@ -4,112 +4,172 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catálogo de Productos - Distribuidora El Sol</title>
-    <link rel="stylesheet" href="style.css"> 
-
-<style>/* Contenedor principal de los productos */
-.productos-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Hace filas automáticas */
-    gap: 20px;
-    padding: 20px;
-    justify-items: center;
-}
-
-/* La tarjeta que envuelve cada producto */
-.producto-card {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    width: 200px; /* Tamaño fijo para que todos sean iguales */
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    background-color: white;
-}
-
-/* AQUÍ ESTÁ EL TRUCO PARA LAS IMÁGENES */
-.producto-card img {
-    width: 100%;       /* Se ajusta al ancho de la tarjeta */
-    height: 150px;     /* Altura fija para que no se vean unas más largas que otras */
-    object-fit: contain; /* Ajusta la imagen sin estirarla ni cortarla */
-    margin-bottom: 10px;
-}
-
-.producto-card h3 {
-    font-size: 16px;
-    height: 40px;      /* Espacio fijo para el nombre */
-    overflow: hidden;
-}
-
-.precio {
-    color: #27ae60;
-    font-weight: bold;
-    font-size: 18px;
-}
-</style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
-    <header>
-    
-    <h1>Nuestros Productos</h1>
-    
-    <div style="text-align: center; margin: 20px 0;">
-    <input type="text" id="buscar-producto" 
-           onkeyup="filtrarPorNombre()" 
-           placeholder="🔎 Buscar producto..." 
-           style="width: 80%; padding: 12px; border-radius: 25px; border: 2px solid #0056b3; outline: none;">
-</div>
-    <nav>
-       <a href="index.html" style="text-decoration: none; font-size: 30px;">🏠</a>
-    </nav>
-</header>
-    <div id="subcategorias-menu"></div> 
 
-<div class="productos-container" id="contenedor-productos">
+    <header class="header-principal">
+        <div class="contenedor-header" style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
+            <a href="index.html">
+                <img src="logo.png" alt="Logo Distrisol" style="width: 80px;">
+            </a>
+            <div class="buscador-contenedor">
+    <input type="text" id="busqueda" placeholder="Buscar productos..." onkeyup="filtrarBusqueda()">
+    <button type="button"><i class="fas fa-search"></i></button>
+</div>
+          <div class="menu-hamburguesa" id="btn-menu" onclick="toggleMenu()">☰</div>
+
+<nav id="menu-desplegable" class="oculto">
+    <ul>
+        <li><a href="quienes.html">Quiénes Somos</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="cobertura.html">Cobertura</a></li>
+        <li><a href="servicioalcliente.html">Servicio al cliente</a></li>
+        </ul>
+</nav>
+        </div>
+    </header>
+
+
+    <div class="banner-promos-mini">
+        <p>¡MÁS RÁPIDO Y FÁCIL! TOMA TUS PEDIDOS Y COMPRA AL INSTANTE</p>
     </div>
 
-    <main>
-        <div class="productos-container" id="contenedor-productos">
-            <p>Cargando catálogo...</p>
+    <!-- Contenido principal que cambia dinámicamente -->
+    <main class="contenedor-catalogo-global">
+        <div id="seccion-marcas-menu">
+            <div class="titulo-seccion-tienda">
+                <h2>Por favor, selecciona una marca</h2>
+            </div>
+            <div class="cuadricula-marcas-grid">
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('Coca-Cola')"><div class="imagen-marca-wrap"><img src="img/cocacola.jpg" alt="Coca-Cola" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('postobon')"><div class="imagen-marca-wrap"><img src="img/postobon.jpg" alt="postobon" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('bigcola')"><div class="imagen-marca-wrap"><img src="img/bigcola.jpg" alt="bigcola" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('beer')"><div class="imagen-marca-wrap"><img src="img/cerveza.jpg" alt="beer" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('ponymalta')"><div class="imagen-marca-wrap"><img src="img/pony.jpg" alt="pony" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('quala')"><div class="imagen-marca-wrap"><img src="img/quala.jpg" alt="quala" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('cigarillos')"><div class="imagen-marca-wrap"><img src="img/cigarrillos.jpg" alt="cigarillos" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('licores')"><div class="imagen-marca-wrap"><img src="img/licores.jpg" alt="licores" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('superricas')"><div class="imagen-marca-wrap"><img src="img/superricas.jpg" alt="superricas" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('dulces')"><div class="imagen-marca-wrap"><img src="img/dulces.jpg" alt="dulces" onerror="this.src='logo.png'"></div></div>
+                <div class="tarjeta-marca-item" onclick="seleccionarYFiltrar('promociones')"><div class="imagen-marca-wrap"><img src="img/promociones.jpg" alt="promociones" onerror="this.src='logo.png'"></div></div>
+            </div>
         </div>
-        <div id="contenedor-productos"></div>
 
-<button onclick="enviarWhatsApp()">Enviar pedido por WhatsApp</button>
+        <div id="seccion-productos-lista" style="display: none;">
+            <div class="encabezado-filtro-activo">
+                <button class="btn-regresar-marcas" onclick="mostrarMenuMarcas()">
+                    <i class="fas fa-arrow-left"></i> Ver todas las marcas
+                </button>
+                <h3 id="nombre-marca-titulo">Productos</h3>
+            </div>
+            <div id="contenedor-productos-dinamicos" class="grid-tarjetas-promocionales"></div>
+        </div>
     </main>
-<div id="carrito-flotante" style="position: fixed; bottom: 20px; right: 20px; background: white; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); width: 300px; display: none; z-index: 1000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; overflow: hidden; border: 1px solid #ddd;">
-    <div style="background: #0056b3; color: white; padding: 15px; font-weight: bold; display: flex; justify-content: space-between; align-items: center;">
-        <span>🛒 Tu Pedido</span>
-        <button onclick="vaciarCarrito()
-        " style="background: none;
-         border: none; color: white;
-          cursor: pointer; font-size: 12px;
-           text-decoration: underline;">Vaciar
-           </button>
-    </div>
-    
-    <div id="lista-items-carrito" style="max-height: 250px; overflow-y: auto; padding: 15px; background: #f9f9f9;">
-        </div>
 
-    <div style="padding: 15px; background: white; border-top: 1px solid #eee;">
-        <div style="display: flex; justify-content: space-between; font-weight: bold; font-size: 18px; margin-bottom: 10px;">
-            <span>Total:</span>
-            <span id="precio-total-carrito" style="color: #0056b3;">$0</span>
-        </div>
-        <button onclick="enviarPedidoWhatsApp()" style="width: 100%; background: #25d366; color: white; border: none; padding: 12px; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 16px;">
-            Confirmar por WhatsApp
-        </button>
+    <script>
+        let todosLosProductos = [];
+
+        async function cargarProductosBase() {
+            try {
+                const respuesta = await fetch('productos.json');
+                todosLosProductos = await respuesta.json();
+                let marcaGuardada = localStorage.getItem('marcaActual');
+                if (marcaGuardada) seleccionarYFiltrar(marcaGuardada);
+            } catch (error) { console.error("Error:", error); }
+        }
+        cargarProductosBase();
+
+       function seleccionarYFiltrar(marca) {
+    localStorage.setItem('marcaActual', marca);
+    
+    // 1. Limpiamos el buscador al cambiar de marca
+    document.getElementById('busqueda').value = "";
+    
+    // 2. Ocultamos marcas y mostramos productos
+    document.getElementById('seccion-marcas-menu').style.display = 'none';
+    document.getElementById('seccion-productos-lista').style.display = 'block';
+    
+    const filtrados = todosLosProductos.filter(p => p.marca && p.marca.toLowerCase() === marca.toLowerCase());
+    document.getElementById('nombre-marca-titulo').innerText = `Mostrando: ${marca.toUpperCase()}`;
+    
+    const contenedor = document.getElementById('contenedor-productos-dinamicos');
+    
+    // !!! IMPORTANTE: Limpiar el contenedor antes de dibujar
+    contenedor.innerHTML = ''; 
+    
+    filtrados.forEach(p => {
+        const tarjeta = document.createElement('div');
+        // Usamos la clase que ya tienes definida en tu CSS
+        tarjeta.className = 'bloque-afiche-promo'; 
+        tarjeta.setAttribute('data-permite-mitad', p.permitemitad);
+        
+        tarjeta.innerHTML = `
+            <img src="${p.imagen}" alt="${p.nombre}" onerror="this.src='logo.png'">
+            <h3>${p.nombre}</h3>
+            <p class="precio-unitario">$${Number(p.precio).toLocaleString('es-CO')}</p>
+            <div class="control-cantidad">
+                <button onclick="cambiarCantidad(this, -1)">-</button>
+                <span class="cantidad">0</span>
+                <button onclick="cambiarCantidad(this, 1)">+</button>
+            </div>
+        `;
+        contenedor.appendChild(tarjeta);
+    });
+    
+    aplicarCantidadesGuardadas();
+}
+
+        function mostrarMenuMarcas() {
+            localStorage.removeItem('marcaActual');
+            document.getElementById('seccion-marcas-menu').style.display = 'block';
+            document.getElementById('seccion-productos-lista').style.display = 'none';
+        }
+
+        function aplicarCantidadesGuardadas() {
+            let datos = localStorage.getItem('miPedido');
+            if (!datos) return;
+            
+            let pedidoGuardado = JSON.parse(datos);
+            let tarjetas = document.querySelectorAll('.bloque-afiche-promo');
+            
+            tarjetas.forEach(tarjeta => {
+                let nombre = tarjeta.querySelector('h3').innerText.trim().toLowerCase();
+                let item = pedidoGuardado.find(i => i.nombre.trim().toLowerCase() === nombre);
+                if (item) {
+                    tarjeta.querySelector('.cantidad').innerText = item.cantidad;
+                } else {
+                    tarjeta.querySelector('.cantidad').innerText = "0";
+                }
+            });
+            if(typeof actualizarTotalGlobal === 'function') actualizarTotalGlobal();
+        }
+          
+        function toggleMenu() {
+            const menu = document.getElementById('menu-desplegable');
+            menu.classList.toggle('activo');
+        }
+        // Al cargar productos.html, verificar si viene una búsqueda en la URL
+window.onload = function() {
+    const params = new URLSearchParams(window.location.search);
+    const busqueda = params.get('buscar');
+    if (busqueda) {
+        document.getElementById('busqueda').value = busqueda;
+        filtrarBusqueda(); // Dispara la búsqueda automáticamente
+    }
+};
+    </script>
+      <!-- Carrito fuera del main para que no se oculte al cambiar de marca -->
+    <div class="contenedor-carrito-flotante">
+        <a href="carrito.html" id="btn-total">🛒 Ver Total</a>
     </div>
-</div>
+<footer style="margin-top: 40px; padding: 10px; border-top: 1px solid #ccc; text-align: center;">
+    <p style="font-size: 10px; color: #555; margin: 0; font-family: Arial, sans-serif;">
+        En licores y cigarrillos, prohibido el expendio de tabaco y bebidas embriagantes a menores de edad.
+    </p>
+</footer>
     <script src="script.js"></script>
 
 </body>
-
-
-<div id="resumen-carrito" style="position: fixed; bottom: 20px; right: 20px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2); display: none; z-index: 1000;">
-    <h3>Tu Pedido</h3>
-    <ul id="lista-carrito"></ul>
-    <p><strong>Total: </strong><span id="total-carrito">$0</span></p>
-    <button onclick="finalizarPedido()" style="background: #25d366; color: white; border: none; padding: 10px; width: 100%; cursor: pointer;">
-        Enviar Pedido por WhatsApp
-    </button>
-</div>
+</html>

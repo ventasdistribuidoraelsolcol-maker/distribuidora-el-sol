@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumen de Pedido</title>
+    <style>
+        /* CSS Optimizado para móviles */
+        body { font-family: sans-serif; background-color: #f4f4f4; margin: 0; padding: 15px; display: flex; justify-content: center; }
+        .contenedor-resumen { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 100%; max-width: 450px; }
+        h1 { text-align: center; color: #333; font-size: 1.5rem; }
+        
+        .item-pedido { display: flex; justify-content: space-between; padding: 15px 0; border-bottom: 1px solid #eee; font-size: 0.95rem; }
+        #total-final { text-align: right; font-size: 1.3rem; margin: 20px 0; color: #ff4500; font-weight: bold; }
+        
+        /* Botones táctiles */
+        .btn { width: 100%; padding: 18px; margin-bottom: 12px; border: none; border-radius: 10px; cursor: pointer; font-weight: bold; text-align: center; display: block; text-decoration: none; box-sizing: border-box; font-size: 1rem; }
+        .btn-wsp { background: #25d366; color: white; }
+        .btn-volver { background: #e0e0e0; color: #333; }
+        .btn-limpiar { background: #ffecec; color: #ff4d4d; }
+    </style>
+</head>
+<body onload="cargarPedido()">
+
+    <div class="contenedor-resumen">
+        <h1>Resumen de tu pedido</h1>
+        
+        <div id="lista-productos"></div>
+        <h2 id="total-final">Total: $0</h2>
+        
+        <button class="btn btn-wsp" onclick="enviarWhatsApp()">Enviar Pedido por WhatsApp 📲</button>
+        <a href="productos.html" class="btn btn-volver">← Volver al Catálogo</a>
+        <button class="btn btn-limpiar" onclick="limpiarCarrito()">🗑️ Limpiar todo el carrito</button>
+    </div>
+
+    <script>
+        function cargarPedido() {
+            let datos = localStorage.getItem('miPedido');
+            let total = localStorage.getItem('totalFinal') || 0;
+            let contenedor = document.getElementById('lista-productos');
+
+            if (!datos || JSON.parse(datos).length === 0) {
+                contenedor.innerHTML = "<p style='text-align:center;'>Tu carrito está vacío.</p>";
+            } else {
+                let pedido = JSON.parse(datos);
+                contenedor.innerHTML = pedido.map(p => `
+                    <div class="item-pedido">
+                        <span>${p.nombre} (x${p.cantidad})</span>
+                        <span>$${(parseInt(p.precio) * p.cantidad).toLocaleString('es-CO')}</span>
+                    </div>
+                `).join('');
+                document.getElementById('total-final').innerText = "Total: $" + parseInt(total).toLocaleString('es-CO');
+            }
+        }
+
+        function limpiarCarrito() {
+            if (confirm("¿Borrar todo el pedido?")) {
+                localStorage.removeItem('miPedido');
+                localStorage.removeItem('totalFinal');
+                cargarPedido();
+            }
+        }
+
+        function enviarWhatsApp() {
+            let pedido = JSON.parse(localStorage.getItem('miPedido'));
+            let total = localStorage.getItem('totalFinal');
+            
+            if(!pedido || pedido.length === 0) return alert("El carrito está vacío");
+
+            let mensaje = "Hola Distribuidora El Sol! \nQuisiera realizar el siguiente pedido:\n\n";
+            pedido.forEach(p => {
+                let subtotal = p.precio * p.cantidad;
+                mensaje += "*" + p.nombre + "*\n";
+                mensaje += "Cant: " + p.cantidad + " - Sub: $" + subtotal.toLocaleString('es-CO') + "\n\n";
+            });
+
+            mensaje += "TOTAL A PAGAR: $" + parseInt(total).toLocaleString('es-CO');
+            window.location.href = "https://wa.me/573505377054?text=" + encodeURIComponent(mensaje);
+        }
+    </script>
+</body>
+</html>

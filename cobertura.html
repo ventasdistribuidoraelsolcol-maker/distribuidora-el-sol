@@ -1,41 +1,121 @@
-<!-- HEADER -->
-<header class="header-principal">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cobertura - Distribuidora El Sol</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-  <div class="logo-contacto">
-    
-    <div class="logo">
-      <img src="logo.png" alt="distri sol">
-    </div>
+   <header class="header-principal">
+        <div class="contenedor-header" style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
+            <a href="index.html">
+                <img src="logo.png" alt="Logo Distrisol" style="width: 100px;">
+            </a>
+            <div class="buscador-contenedor">
+    <input type="text" id="busqueda" placeholder="Buscar productos..." onkeyup="filtrarBusqueda()">
+    <button type="button"><i class="fas fa-search"></i></button>
+</div>
+           <div class="menu-hamburguesa" id="btn-menu" onclick="toggleMenu()">☰</div>
 
-    <div class="info-contacto">
-      <p>📧 ventas.distribuidoraelsol.col@gmail.com</p>
-      <p>📞 3505377054</p>
-      <p>📍 Bogotá - Colombia cr 80c # 46b 09 sur</p>
-    </div>
-
-  </div>
-
-  <div class="buscador">
-    <input type="text" placeholder="Buscar productos...">
-  </div>
-
-</header>
-
-
-<!-- MENÚ -->
-<nav class="navbar">
-    <ul class="nav-links"><li>
-  <a href="#quienes-somos">Quiénes somos</a></li>
-  <li>
-  <a href="#servicios">Servicios</a></li>
-   <li>
-  <a href="#cobertura">Cobertura</a></li>
+<nav id="menu-desplegable" class="oculto">
+    <ul>
+       <li><a href="quienes.html">Quiénes Somos</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="cobertura.html">Cobertura</a></li>
+        <li><a href="servicioalcliente.html">Servicio al cliente</a></li>
+        </ul>
 </nav>
+        </div>
 
-<link rel="stylesheet" href="style.css">
+    </header>
 
-<h2>Cobertura</h2>
-  <p>Zona de distribucion en la localidad de kennedy  con capacidad de distribución 
-constante y organizada y  entrega de  24 a 48 horas.</p>
+    <main class="contenedor-cobertura-pro">
+        
+        <section class="seccion-hero-cobertura">
+            <div class="texto-hero-cobertura">
+                <h1>COBERTURA <br><span class="naranja-sol">DE ENTREGAS</span></h1>
+                <div class="linea-decorativa"></div>
+                <p>Somos distribuidores en la localidad de Kennedy con entregas rápidas y eficientes para tu negocio.</p>
+            </div>
+            <div class="foto-hero-cobertura">
+                <img src="img/entrega-kennedy.jpg" alt="Entrega Distri Sol Kennedy">
+            </div>
+        </section>
 
-<a href="index.html">⬅ Volver al inicio</a>
+        <section class="cuadro-blanco-zonas">
+            
+            <div class="tarjeta-info-cobertura">
+                <div class="icono-naranja-cob"><i class="fas fa-shipping-fast"></i></div>
+                <h3>ENTREGAS <br>EL MISMO DÍA</h3>
+                <p>en las siguientes zonas de Kennedy:</p>
+            </div>
+
+            <div class="tarjeta-barrios-links">
+                <div class="columnas-barrios-grid">
+                    <div class="col-barrio">
+                        <span class="barrio-item">ROMA</span>
+                        <span class="barrio-item">CATALINA</span>
+                        <span class="barrio-item">SOCORRO</span>
+                        <span class="barrio-item">BRITALIA</span>
+                    </div>
+                    <div class="col-barrio">
+                        <span class="barrio-item">BOMBEROS</span>
+                        <span class="barrio-item">CARMELO</span>
+                        <span class="barrio-item">VILLA ANITA</span>
+                        <span class="barrio-item">CLASS</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tarjeta-info-cobertura border-left-gris">
+                <div class="icono-gris-cob"><i class="fas fa-truck"></i></div>
+                <h3>FUERA DE COBERTURA</h3>
+                <p>Las entregas pueden demorar entre <strong class="naranja-sol">24 a 48 horas</strong>, dependiendo del pedido y la necesidad del cliente.</p>
+            </div>
+
+        </section>
+
+        <section class="bloque-negro-beneficios">
+            <h3 class="titulo-beneficios-cob">NUESTROS BENEFICIOS</h3>
+            
+            <div class="grid-beneficios-items">
+                <div class="item-beneficio-row">
+                    <i class="fas fa-stopwatch icono-b"></i>
+                    <p>Entrega rápida y confiable</p>
+                </div>
+                <div class="item-beneficio-row">
+                    <i class="fas fa-route icono-b"></i>
+                    <p>Rutas optimizadas en tu localidad</p>
+                </div>
+                <div class="item-beneficio-row">
+                    <i class="fas fa-box-open icono-b"></i>
+                    <p>Cumplimiento y seguridad en cada entrega</p>
+                </div>
+                <div class="item-beneficio-row">
+                    <i class="fas fa-handshake icono-b"></i>
+                    <p>Atención personalizada según las necesidades de tu negocio</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="frase-compromiso-final">
+            <div class="caja-compromiso-interior">
+                <i class="fas fa-check-circle check-ok"></i>
+                <p>Nuestro compromiso es que tu negocio nunca se detenga. <br>
+                <strong class="naranja-sol">¡ENTREGAMOS CON RAPIDEZ, CUMPLIMOS CON CONFIANZA!</strong></p>
+                <i class="fas fa-shipping-fast truck-orange"></i>
+            </div>
+        </section>
+
+        <div class="contenedor-boton-volver" style="text-align: center; margin-top: 30px;">
+            <a href="index.html" class="btn-volver-inicio" style="text-decoration: none; color: #6c757d; font-weight: bold;">← Volver al inicio</a>
+        </div>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

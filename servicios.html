@@ -1,46 +1,94 @@
-<!-- HEADER -->
-<header class="header-principal">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios - Distri Sol</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
 
-  <div class="logo-contacto">
-    
-    <div class="logo">
-      <img src="logo.png" alt="distri sol">
-    </div>
+<body class="body-servicios">
 
-    <div class="info-contacto">
-      <p>📧 ventas.distribuidoraelsol.col@gmail.com</p>
-      <p>📞 3505377054</p>
-      <p>📍 Bogotá - Colombia cr 80c # 46b 09 sur</p>
-    </div>
+    <header class="header-principal">
+        <div class="contenedor-header" style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
+            <a href="index.html">
+                <img src="logo.png" alt="Logo Distrisol" style="width: 100px;">
+            </a>
+            <div class="buscador-contenedor">
+    <input type="text" id="busqueda" placeholder="Buscar productos..." onkeyup="filtrarBusqueda()">
+    <button type="button"><i class="fas fa-search"></i></button>
+</div>
+            <div class="menu-hamburguesa" id="btn-menu" onclick="toggleMenu()">☰</div>
 
-  </div>
-
-  <div class="buscador">
-    <input type="text" placeholder="Buscar productos...">
-  </div>
-
-</header>
-
-
-<!-- MENÚ -->
-<nav class="menu">
-  <a href="quienes.html">Quiénes somos</a>
-  <a href="servicios.html">Servicios</a>
-  <a href="cobertura.html">Cobertura</a>
+<nav id="menu-desplegable" class="oculto">
+    <ul>
+       <li><a href="quienes.html">Quiénes Somos</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="cobertura.html">Cobertura</a></li>
+        <li><a href="servicioalcliente.html">Servicio al cliente</a></li>
+        </ul>
 </nav>
+        </div>
+        
+    </header>
 
-<link rel="stylesheet" href="style.css">
+    <main class="pagina-servicios">
+        <section class="banner-servicios">
+            <img src="img/banner-servicios.jpg" alt="Camión Distri Sol">
+        </section>
+        
+        <section class="contenido-blanco">
+            <h2 class="titulo-servicios">NUESTROS SERVICIOS.</h2>
 
-<h2>Servicios</h2>
-  <p>NUESTROS SERVICIOS
-Abastecimiento de bebidas, snacks y productos de consumo masivo.
-Entregas programadas según necesidad del cliente ,verificacion y apoyo
-en control básico de inventario.
-Distribución rápida y confiable directa en cada establecimiento
-,Cumpliendo con los tiempos de entrega y cobertura.
-Venta al por mayor y al detal con precios competitivos, % de descuento
-según volumen de compra y flexibilidad en pagos.
-Atención personalizada con asesoría según tipo de negocio.
-</p>
+            <div class="grid-servicios-pro">
+                <div class="item-servicio">
+                    <i class="fas fa-boxes-stacked"></i>
+                    <h3>ABASTECIMIENTO DE PRODUCTOS</h3>
+                    <p>Venta y distribución de productos de consumo masivo para clientes TAT.</p>
+                </div>
+                <div class="item-servicio">
+                    <i class="fas fa-truck-fast"></i>
+                    <h3>ENTREGAS PROGRAMADAS</h3>
+                    <p>Gestión de entrega según necesidad del cliente.</p>
+                </div>
+                <div class="item-servicio">
+                    <i class="fas fa-clipboard-check"></i>
+                    <h3>VERIFICACIÓN Y APOYO EN CONTROL BÁSICO DE INVENTARIO</h3>
+                    <p>Recomendaciones segun validacion con el cliente para compras.</p>
+                </div>
+                <div class="item-servicio">
+                    <i class="fas fa-tags"></i>
+                    <h3>PRECIOS COMPETITIVOS Y DESCUENTOS</h3>
+                    <p>Ventas al por mayor y al detal con precios y descuentos según volumen de compra.</p>
+                </div>
+            </div>
 
-<a href="index.html">⬅ Volver al inicio</a>
+            <div class="barra-beneficios">
+                <h3 class="titulo-beneficios">NUESTROS BENEFICIOS</h3>
+                <div class="items-beneficios">
+                    <span><i class="fas fa-chart-line"></i> Descuentos por volumen de compra</span>
+                    <span><i class="fas fa-headset"></i> Atención personalizada y asesoria</span>
+                    <span><i class="fas fa-hand-holding-dollar"></i> Flexibilidad en pagos</span>
+                    <span><i class="fas fa-award"></i> Compromiso con la calidad y el servicio</span>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer-servicios">
+            <div class="texto-final">
+                <i class="fas fa-bullhorn"></i>
+                <p>Atención personalizada con asesoría según tipo de negocio. <br>
+                <strong>¡SOMOS TU MEJOR OPCIÓN PARA HACER CRECER TU NEGOCIO!</strong></p>
+                <i class="fas fa-shopping-cart cart-icon"></i>
+            </div>
+        </footer>
+
+        <div style="text-align: center; padding: 20px;">
+             <a href="index.html" class="btn-volver-inicio">← Volver al inicio</a>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

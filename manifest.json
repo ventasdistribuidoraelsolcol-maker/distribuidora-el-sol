@@ -1,9 +1,9 @@
 {
   "name": "Distribuidora El Sol",
   "short_name": "El Sol",
-  "start_url": "./productos.html",
+  "start_url": "/distribuidora-el-sol/productos.html",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#000000",
   "theme_color": "#fdb813",
   "icons": [
     {
@@ -12,5 +12,7 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "/distribuidora-el-sol/",
+  "description": "Catálogo digital de Distribuidora El Sol para pedidos rápidos de víveres y bebidas en Bogotá."
 }

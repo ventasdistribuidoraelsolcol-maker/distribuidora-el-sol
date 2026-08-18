@@ -1,0 +1,16 @@
+{
+  "name": "Distribuidora El Sol",
+  "short_name": "El Sol",
+  "start_url": "./productos.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#fdb813",
+  "icons": [
+    {
+      "src": "logo-app.png",
+      "sizes": "500x500",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

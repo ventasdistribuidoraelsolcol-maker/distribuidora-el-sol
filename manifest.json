@@ -1,24 +1,22 @@
 {
   "name": "Distribuidora El Sol",
   "short_name": "El Sol",
-  "start_url": "/distribuidora-el-sol/productos.html",
+  "start_url": "productos.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#fdb813",
   "icons": [
     {
-      "src": "/distribuidora-el-sol/icon-192.png",
+      "src": "logo-app.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable any"
     },
     {
-      "src": "/distribuidora-el-sol/icon-512.png",
+      "src": "logo-app.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable any"
     }
-  ],
-  "id": "/distribuidora-el-sol/",
-  "description": "Catálogo digital de Distribuidora El Sol para pedidos rápidos."
+  ]
 }

@@ -10,13 +10,18 @@
         .contenedor-resumen { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 100%; max-width: 450px; }
         h1 { text-align: center; color: #333; font-size: 1.5rem; }
         
-        .item-pedido { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid #eee; font-size: 0.95rem; }
-        .info-producto { flex-grow: 1; padding-right: 10px; }
-        .btn-eliminar-item { background: #ffecec; color: #ff4d4d; border: none; border-radius: 6px; padding: 6px 10px; cursor: pointer; font-size: 0.9rem; font-weight: bold; }
+        .item-pedido { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid #eee; font-size: 0.95rem; gap: 10px; }
+        .info-producto { flex-grow: 1; }
+        
+        /* Controles horizontales al lado del producto */
+        .acciones-item { display: flex; align-items: center; gap: 6px; }
+        .btn-cant { background: #ff4500; color: white; border: none; width: 28px; height: 28px; border-radius: 6px; font-weight: bold; cursor: pointer; font-size: 1rem; display: flex; align-items: center; justify-content: center; }
+        .cantidad-num { font-weight: bold; min-width: 25px; text-align: center; }
+        .btn-eliminar-item { background: #ffecec; color: #ff4d4d; border: none; border-radius: 6px; width: 28px; height: 28px; cursor: pointer; font-size: 0.9rem; display: flex; align-items: center; justify-content: center; }
         
         #total-final { text-align: right; font-size: 1.3rem; margin: 20px 0; color: #ff4500; font-weight: bold; }
         
-        /* Botones táctiles */
+        /* Botones principales */
         .btn { width: 100%; padding: 18px; margin-bottom: 12px; border: none; border-radius: 10px; cursor: pointer; font-weight: bold; text-align: center; display: block; text-decoration: none; box-sizing: border-box; font-size: 1rem; }
         .btn-wsp { background: #25d366; color: white; }
         .btn-volver { background: #e0e0e0; color: #333; }
@@ -55,30 +60,68 @@
                     return `
                         <div class="item-pedido">
                             <div class="info-producto">
-                                <strong>${p.nombre}</strong> (x${p.cantidad})<br>
-                                <span style="color: #666;">$${subtotal.toLocaleString('es-CO')}</span>
+                                <strong>${p.nombre}</strong><br>
+                                <span style="color: #666; font-size: 0.85rem;">$${subtotal.toLocaleString('es-CO')}</span>
                             </div>
-                            <button class="btn-eliminar-item" onclick="eliminarItem(${index})">❌ Quitar</button>
+                            <div class="acciones-item">
+                                <button class="btn-cant" onclick="cambiarCantidad(${index}, -1)">-</button>
+                                <span class="cantidad-num">${p.cantidad}</span>
+                                <button class="btn-cant" onclick="cambiarCantidad(${index}, 1)">+</button>
+                                <button class="btn-eliminar-item" onclick="eliminarItem(${index})" title="Eliminar">🗑️</button>
+                            </div>
                         </div>
                     `;
                 }).join('');
 
-                // Actualizamos el total general guardado
                 localStorage.setItem('totalFinal', nuevoTotal);
                 document.getElementById('total-final').innerText = "Total: $" + nuevoTotal.toLocaleString('es-CO');
             }
         }
 
+        function cambiarCantidad(index, cambio) {
+            let pedido = JSON.parse(localStorage.getItem('miPedido')) || [];
+            let p = pedido[index];
+            
+            // Verificamos si permite mitad (soporta booleano true o si viene como texto "true")
+            let esDeMitad = (p.permitemitad === true || p.permitemitad === "true");
+            
+            let cantidadActual = parseFloat(p.cantidad) || 0;
+            let nuevaCantidad = cantidadActual;
+
+            if (esDeMitad) {
+                // Si permite mitad, el salto es estrictamente de 0.5 en 0.5 por cada clic en + o -
+                if (cambio > 0) {
+                    nuevaCantidad = cantidadActual + 0.5;
+                } else {
+                    nuevaCantidad = cantidadActual - 0.5;
+                }
+            } else {
+                // Si es paca entera normal, el salto es de 1 en 1 (1 -> 2 -> 3...)
+                if (cambio > 0) {
+                    nuevaCantidad = cantidadActual + 1;
+                } else {
+                    nuevaCantidad = cantidadActual - 1;
+                }
+            }
+            
+            // Limpieza de decimales fantasma de JavaScript
+            nuevaCantidad = Math.round(nuevaCantidad * 10) / 10;
+            
+            // Si llega a 0 o menos, eliminamos el ítem
+            if (nuevaCantidad <= 0) {
+                pedido.splice(index, 1);
+            } else {
+                pedido[index].cantidad = nuevaCantidad;
+            }
+            
+            localStorage.setItem('miPedido', JSON.stringify(pedido));
+            cargarPedido();
+        }
+
         function eliminarItem(index) {
             let pedido = JSON.parse(localStorage.getItem('miPedido')) || [];
-            
-            // Eliminamos el producto de la posición indicada
             pedido.splice(index, 1);
-            
-            // Actualizamos el localStorage con el nuevo arreglo
             localStorage.setItem('miPedido', JSON.stringify(pedido));
-            
-            // Volvemos a pintar el resumen y calcular totales
             cargarPedido();
         }
 

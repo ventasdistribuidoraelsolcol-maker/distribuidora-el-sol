@@ -2,84 +2,84 @@ marca;nombre;precio;imagen;permitemitad
 coca-cola;coca cola vidrio 237ml x30u;36000;img/coca-cola/coca237ml.jpg;true
 coca-cola;coca cola vidrio 350ml x30u;61000;img/coca-cola/coca350ml.jpg;true
 coca-cola;coca cola lata 330ml x12u;38000;img/coca-cola/cocalata330.jpg;false
-coca-cola;coca cola pet 250ml x12u;19000;img/coca-cola/cocaminipet.jpg;false
+coca-cola;coca cola pet 250ml x12u;19200;img/coca-cola/cocaminipet.jpg;false
 coca-cola;coca cola pet 400ml x12u;30000;img/coca-cola/coca400ml.jpg;false
 coca-cola;coca cola pet 600ml x15u;50000;img/coca-cola/coca600ml.jpg;false
-coca-cola;coca cola pet 1ltr x12u;45000;img/coca-cola/cocalitropet.jpg;false
+coca-cola;coca cola pet 1ltr x12u;44000;img/coca-cola/cocalitropet.jpg;false
 coca-cola;coca cola vidrio 1ltr x12u;36000;img/coca-cola/cocalitrovidrio.jpg;false
-coca-cola;coca cola pet 1.5ltr x12u;63000;img/coca-cola/coca1.5litros.jpg;true
+coca-cola;coca cola pet 1.5ltr x12u;63500;img/coca-cola/coca1.5litros.jpg;true
 coca-cola;coca cola pet 2.5ltr x8u;53000;img/coca-cola/coca2.5litros.jpg;true
-coca-cola;coca cola retornable 2ltr x9u;47000;img/coca-cola/cocaretornable2litros.jpg;false
-coca-cola;coca cola pet 3ltr x6u;54000;img/coca-cola/coca3litros.jpg;false
+coca-cola;coca cola retornable 2ltr x9u;45000;img/coca-cola/cocaretornable2litros.jpg;false
+coca-cola;coca cola pet 3ltr x6u;55000;img/coca-cola/coca3litros.jpg;false
 coca-cola;coca cola sin azucar vid 237ml x30u;36000;img/coca-cola/coca237mlzero.jpg;true
 coca-cola;coca cola sin azucar vid 350ml x30u;61000;img/coca-cola/coca350mlzero.jpg;true
 coca-cola;coca cola sin azucar pet 250ml x12u;15000;img/coca-cola/cocaminipetzero.jpg;false
 coca-cola;coca cola sin azucar pet 400ml x12u;28000;img/coca-cola/coca400mlzero.jpg;false
 coca-cola;coca cola sin azucar pet 1.5ltr x12u;64000;img/coca-cola/coca1.365litroszero.jpg;true
-coca-cola;schweppes soda pet 400ml x12u;24000;img/coca-cola/soda400ml.jpg;false
-coca-cola;schweppes soda pet 1.5ltrs x12u;43000;img/coca-cola/soda1.5.jpg;false
-coca-cola;schweppes ginger pet 400ml x12u;24000;img/coca-cola/ginger400ml.jpg;false
+coca-cola;schweppes soda pet 400ml x12u;25000;img/coca-cola/soda400ml.jpg;false
+coca-cola;schweppes soda pet 1.5ltrs x12u;44000;img/coca-cola/soda1.5.jpg;false
+coca-cola;schweppes ginger pet 400ml x12u;25000;img/coca-cola/ginger400ml.jpg;false
 coca-cola;schweppes ginger pet 1.5ltrs x12u;49000;img/coca-cola/ginger1.5.jpg;false
-coca-cola;quatro vidrio 237ml x30u;35000;img/coca-cola/quatro237ml.jpg;true
+coca-cola;quatro vidrio 237ml x30u;36000;img/coca-cola/quatro237ml.jpg;true
 coca-cola;quatro vidrio 350ml x30u;60000;img/coca-cola/quatro350ml.jpg;true
 coca-cola;quatro pet 250ml x12u;15000;img/coca-cola/quatrominipet.jpg;false
-coca-cola;quatro pet 400ml x12u;24000;img/coca-cola/quatro400ml.jpg;true
-coca-cola;quatro pet 1.5lts x12u;43000;img/coca-cola/quatro1.5.jpg;true
+coca-cola;quatro pet 400ml x12u;25000;img/coca-cola/quatro400ml.jpg;true
+coca-cola;quatro pet 1.5lts x12u;44000;img/coca-cola/quatro1.5.jpg;true
 coca-cola;quatro 2.5ltrs x8u;40000;img/coca-cola/quatro2.5.jpg;true
 coca-cola;quatro pet 3lts x6u;39000;img/coca-cola/quatro3ltr.jpg;false
-coca-cola;sprite vidrio 237ml x30u;35000;img/coca-cola/sprite237ml.jpg;true
+coca-cola;sprite vidrio 237ml x30u;36000;img/coca-cola/sprite237ml.jpg;true
 coca-cola;sprite vidrio 350ml x30u;60000;img/coca-cola/sprite350ml.jpg;true
 coca-cola;sprite pet 250ml x12u;15000;img/coca-cola/sprite250ml.jpg;false
-coca-cola;sprite pet 400ml x12u;24000;img/coca-cola/sprite400ml.jpg;true
-coca-cola;sprite pet 1.5lts x12u;43000;img/coca-cola/sprite1.5.jpg;true
+coca-cola;sprite pet 400ml x12u;25000;img/coca-cola/sprite400ml.jpg;true
+coca-cola;sprite pet 1.5lts x12u;44000;img/coca-cola/sprite1.5.jpg;true
 coca-cola;sprite pet 3lts x6u;39000;img/coca-cola/sprite3ltr.jpg;false
 coca-cola;kola roman pet 250ml x12u;15000;img/coca-cola/kola250.jpg;false
-coca-cola;kola roman pet 400ml x12u;24000;img/coca-cola/kola400.jpg;true
-coca-cola;kola roman pet 1.5ltrs x12u;44000;img/coca-cola/kola1.5ltr.jpg;true
-coca-cola;agua brisa limon 280ml x24u;28000;img/coca-cola/brisalimon280.jpg;true
-coca-cola;agua brisa manzana 280ml x24u;28000;img/coca-cola/brisamanzana280.jpg;true
-coca-cola;agua brisa maracuya 280ml x24u;28000;img/coca-cola/brisamaracuya280.jpg;true
-coca-cola;agua brisa gas 600 mlx24u;31000;img/coca-cola/brisagas600.jpg;true
+coca-cola;kola roman pet 400ml x12u;25000;img/coca-cola/kola400.jpg;true
+coca-cola;kola roman pet 1.5ltrs x12u;45000;img/coca-cola/kola1.5ltr.jpg;true
+coca-cola;agua brisa limon 280ml x24u;28900;img/coca-cola/brisalimon280.jpg;true
+coca-cola;agua brisa manzana 280ml x24u;28900;img/coca-cola/brisamanzana280.jpg;true
+coca-cola;agua brisa maracuya 280ml x24u;28900;img/coca-cola/brisamaracuya280.jpg;true
+coca-cola;agua brisa gas 600 mlx24u;32000;img/coca-cola/brisagas600.jpg;true
 coca-cola;agua brisa natural 600 mlx24u;31000;img/coca-cola/brisanatural600.jpg;true
-coca-cola;agua brisa limon 600ml x6u;12000;img/coca-cola/brisalimon600.jpg;false
-coca-cola;agua brisa manzana 600ml x6u;12000;img/coca-cola/brisamanzana600.jpg;false
-coca-cola;agua brisa maracuya 600ml x6u;12000;img/coca-cola/brisamaracuya600.jpg;false
-coca-cola;agua brisa natural litro x6u;12000;img/coca-cola/brisanatural1ltr.jpg;false
-coca-cola;agua brisa manzana 1.5ltrs x12u;39000;img/coca-cola/brisamanzana1.5.jpg;true
-coca-cola;agua brisa maracuya 1.5ltrs x12u;39000;img/coca-cola/brisamaracuya1.5.jpg;true
-coca-cola;valle fresh caja 188ml x24u;23000;img/coca-cola/vallefresh188.jpg;true
+coca-cola;agua brisa limon 600ml x6u;13000;img/coca-cola/brisalimon600.jpg;false
+coca-cola;agua brisa manzana 600ml x6u;13000;img/coca-cola/brisamanzana600.jpg;false
+coca-cola;agua brisa maracuya 600ml x6u;13000;img/coca-cola/brisamaracuya600.jpg;false
+coca-cola;agua brisa natural litro x6u;13000;img/coca-cola/brisanatural1ltr.jpg;false
+coca-cola;agua brisa manzana 1.5ltrs x12u;40000;img/coca-cola/brisamanzana1.5.jpg;true
+coca-cola;agua brisa maracuya 1.5ltrs x12u;40000;img/coca-cola/brisamaracuya1.5.jpg;true
+coca-cola;valle fresh caja 188ml x24u;24000;img/coca-cola/vallefresh188.jpg;true
 coca-cola;valle fresh pet 400ml x12u;19000;img/coca-cola/vallefresh400.jpg;false
-coca-cola;valle fresh 1.5lts x12u;43000;img/coca-cola/vallenaran1.5.jpg;true
-coca-cola;valle mandarina 1.5lts x12u;43000;img/coca-cola/vallemand1.5.jpg;true
+coca-cola;valle fresh 1.5lts x12u;44000;img/coca-cola/vallenaran1.5.jpg;true
+coca-cola;valle mandarina 1.5lts x12u;44000;img/coca-cola/vallemand1.5.jpg;true
 coca-cola;valle fresh pet 2.5lts x6u;39000;img/coca-cola/valle2.5.jpg;true
-coca-cola;valle frutal caja surtido 188ml x24u;29000;img/coca-cola/vallefrutal188.jpg;false
-coca-cola;valle frutal mora 500ml x6u;14500;img/coca-cola/frutalmora500.jpg;false
-coca-cola;valle frutal mango 500ml x6u;14500;img/coca-cola/frutalmango500.jpg;false
-coca-cola;monster lata mangoloco 473ml x1u;7700;img/coca-cola/monsterloco.jpg;false
-coca-cola;monster lata green 473ml x1u;7700;img/coca-cola/monstergreen.jpg;false
-coca-cola;monster lata blue 473ml x1u;7700;img/coca-cola/monsterblue.jpg;false
-coca-cola;monster lata ultra 473ml x1u;7700;img/coca-cola/monsterultra.jpg;false
-coca-cola;monster lata violet 473ml x1u;7700;img/coca-cola/monsterviolet.jpg;false
+coca-cola;valle frutal caja surtido 188ml x24u;30000;img/coca-cola/vallefrutal188.jpg;false
+coca-cola;valle frutal mora 500ml x6u;15500;img/coca-cola/frutalmora500.jpg;false
+coca-cola;valle frutal mango 500ml x6u;15500;img/coca-cola/frutalmango500.jpg;false
+coca-cola;monster lata mangoloco 473ml x1u;8200;img/coca-cola/monsterloco.jpg;false
+coca-cola;monster lata green 473ml x1u;8200;img/coca-cola/monstergreen.jpg;false
+coca-cola;monster lata blue 473ml x1u;8200;img/coca-cola/monsterblue.jpg;false
+coca-cola;monster lata ultra 473ml x1u;8200;img/coca-cola/monsterultra.jpg;false
+coca-cola;monster lata violet 473ml x1u;8200;img/coca-cola/monsterviolet.jpg;false
 coca-cola;powerade azul 500ml x6u;18000;img/coca-cola/powerazul.jpg;false
 coca-cola;powerade rojo 500ml x6u;18000;img/coca-cola/powerrojo.jpg;false
-coca-cola;fuzte durazno 400ml x6u;16500;img/coca-cola/fuztedurazno.jpg;false
-coca-cola;fuzte limon 400ml x6u;16500;img/coca-cola/fuztelimon.jpg;false
-coca-cola;fuzte mango 400ml x6u;16500;img/coca-cola/fuztemango.jpg;false
-coca-cola;fuzte manzana 400ml x6u;16500;img/coca-cola/fuztemanzana.jpg;false
+coca-cola;fuzte durazno 400ml x6u;17500;img/coca-cola/fuztedurazno.jpg;false
+coca-cola;fuzte limon 400ml x6u;17500;img/coca-cola/fuztelimon.jpg;false
+coca-cola;fuzte mango 400ml x6u;17500;img/coca-cola/fuztemango.jpg;false
+coca-cola;fuzte manzana 400ml x6u;17500;img/coca-cola/fuztemanzana.jpg;false
 postobon;bretaña vidrio 350ml x30u;56000;img/postobon/bretaña350.jpg;true
 postobon;bretaña vidrio sixpack 330ml;13000;img/postobon/bretaña300.jpg;false
-postobon;bretaña 1.5 x12u;43500;img/postobon/bretaña1.5.jpg;true
-postobon;gsa vidrio surtida 250ml x30u;29000;img/postobon/minibotellagsa.jpg;false
-postobon;gsa vidrio manzana 250ml x30u;29000;img/postobon/vidriomanzana250.jpg;true
-postobon;gsa vidrio colombiana 250ml x30u;29000;img/postobon/vidriocolombiana250.jpg;true
-postobon;gsa vidrio pepsi 250ml x30u;29000;img/postobon/vidriopepsi250.jpg;true
-postobon;gsa vidrio zup 250ml x30u;29000;img/postobon/vidriozup250,jpg.png;true
-postobon;gsa vidrio uva 250ml x30u;29000;img/postobon/vidriouva250.jpg;true
-postobon;gsa vidrio naranja 250ml x30u;29000;img/postobon/vidrionaranja250.jpg;true
+postobon;bretaña 1.5 x12u;43000;img/postobon/bretaña1.5.jpg;true
+postobon;gsa vidrio surtida 250ml x30u;30000;img/postobon/minibotellagsa.jpg;false
+postobon;gsa vidrio manzana 250ml x30u;30000;img/postobon/vidriomanzana250.jpg;true
+postobon;gsa vidrio colombiana 250ml x30u;30000;img/postobon/vidriocolombiana250.jpg;true
+postobon;gsa vidrio pepsi 250ml x30u;30000;img/postobon/vidriopepsi250.jpg;true
+postobon;gsa vidrio zup 250ml x30u;30000;img/postobon/vidriozup250,jpg.png;true
+postobon;gsa vidrio uva 250ml x30u;30000;img/postobon/vidriouva250.jpg;true
+postobon;gsa vidrio naranja 250ml x30u;30000;img/postobon/vidrionaranja250.jpg;true
 postobon;gsa vidrio surtida 350ml x30u;50000;img/postobon/vidriosurtida350.jpg;false
 postobon;gsa vidrio manzana 350ml x30u;50000;img/postobon/vidriomanzana350.jpg;true
 postobon;gsa vidrio colombiana 350ml x30u;50000;img/postobon/vidriocolom350.jpg;true
-postobon;gsa vidrio pepsi 350ml x30u;55000;img/postobon/pepsi350.jpg;true
+postobon;gsa vidrio pepsi 350ml x30u;56000;img/postobon/pepsi350.jpg;true
 postobon;gsa vidrio zup 350ml x30u;50000;img/postobon/zup350.jpg;true
 postobon;gsa vidrio naranja 350ml x30u;50000;img/postobon/naranja350.jpg;true
 postobon;gsa vidrio uva 350ml x30u;50000;img/postobon/vidriouva350.jpg;true
@@ -116,30 +116,30 @@ postobon;manzana 2.5 ltrs x8u;39000;img/postobon/manzana2.5.jpg;true
 postobon;pepsi 2.5 ltrs x8u;39000;img/postobon/pepsi2.5.jpg;true
 postobon;uva 2.5 ltrs x8u;39000;img/postobon/uva2.5.jpg;true
 postobon;zup 2.5 ltrs x8u;39000;img/postobon/zup2.5.jpg;true
-postobon;manzana 3ltrs x6u;34000;img/postobon/manzana3ltr.jpg;false
-postobon;colombiana 3ltrs x6u;34000;img/postobon/colombiana3ltr.jpg;false
-postobon;h2o surtida pet 600ml x15u;32000;img/postobon/h2o600sur.jpg;false
-postobon;h2o lima-limon 600ml x15u;32000;img/postobon/h2o600l.jpg;false
-postobon;h2o limonata 600ml x15u;32000;img/postobon/h2o600lm.jpg;false
-postobon;h2o maracuya 600ml x15u;32000;img/postobon/h2o600m.jpg;false
+postobon;manzana 3ltrs x6u;35000;img/postobon/manzana3ltr.jpg;false
+postobon;colombiana 3ltrs x6u;35000;img/postobon/colombiana3ltr.jpg;false
+postobon;h2o surtida pet 600ml x15u;32500;img/postobon/h2o600sur.jpg;false
+postobon;h2o lima-limon 600ml x15u;32500;img/postobon/h2o600l.jpg;false
+postobon;h2o limonata 600ml x15u;32500;img/postobon/h2o600lm.jpg;false
+postobon;h2o maracuya 600ml x15u;32500;img/postobon/h2o600m.jpg;false
 postobon;h2o lima-limon 1.5ltrs x12u;40000;img/postobon/h201.5l.jpg;true
 postobon;h2o limonata 1.5ltrs x12u;40000;img/postobon/h201.5ma.jpg;true
-postobon;mr tee limon 500ml x12u;26000;img/postobon/mrteelimon500.jpg;true
-postobon;mr tee durazno 500ml x12u;26000;img/postobon/mrteedurazno500.jpg;true
+postobon;mr tee limon 500ml x12u;27000;img/postobon/mrteelimon500.jpg;true
+postobon;mr tee durazno 500ml x12u;27000;img/postobon/mrteedurazno500.jpg;true
 postobon;agua cristal pet 300ml x24u;14000;img/postobon/cristal300.jpg;false
-postobon;agua cristal gas pet 250ml x12u;8000;img/postobon/cristalgas250.jpg;false
+postobon;agua cristal gas pet 250ml x12u;9000;img/postobon/cristalgas250.jpg;false
 postobon;agua cristal 600ml x24u;31000;img/postobon/cristal600.jpg;true
 postobon;agua cristal gas 600ml x24u;35000;img/postobon/cristalgas600.jpg;true
-postobon;agua cristal chupo 1ltrs x12u;23000;img/postobon/cristalchupo.jpg;false
-postobon;agua cristal 1ltrs x12u;19000;img/postobon/cristallitro.jpg;false
+postobon;agua cristal chupo 1ltrs x12u;23500;img/postobon/cristalchupo.jpg;false
+postobon;agua cristal 1ltrs x12u;20000;img/postobon/cristallitro.jpg;false
 postobon;agua cristal bolsa 6ltrs x4u;15000;img/postobon/bolsaaguacristal.jpg;false
-postobon;botellon de agua cristal 5gl x1u;13500;img/postobon/botelloncristal5g.jpg;false
-postobon;hit vidrio surtido 237ml x30u;36500;img/postobon/hit250sur.jpg;false
-postobon;hit vidrio mango 237ml x30u;36500;img/postobon/vidriohit250m.jpg;true
-postobon;hit vidrio mora 237ml x30u;36500;img/postobon/hit250moravidrio.jpg;true
-postobon;hit vidrio lulo 237ml x30u;36500;img/postobon/vidriohit250lulo.jpg;true
-postobon;hit vidrio tropical 237ml x30u;36500;img/postobon/hit250tropi.jpg;true
-postobon;hit vidrio naranja piña 237ml x30u;36500;img/postobon/vidriohitp.jpg;true
+postobon;botellon de agua cristal 5gl x1u;13800;img/postobon/botelloncristal5g.jpg;false
+postobon;hit vidrio surtido 237ml x30u;36000;img/postobon/hit250sur.jpg;false
+postobon;hit vidrio mango 237ml x30u;36000;img/postobon/vidriohit250m.jpg;true
+postobon;hit vidrio mora 237ml x30u;36000;img/postobon/hit250moravidrio.jpg;true
+postobon;hit vidrio lulo 237ml x30u;36000;img/postobon/vidriohit250lulo.jpg;true
+postobon;hit vidrio tropical 237ml x30u;36000;img/postobon/hit250tropi.jpg;true
+postobon;hit vidrio naranja piña 237ml x30u;36000;img/postobon/vidriohitp.jpg;true
 postobon;hit vidrio surtido 350ml x30u;56000;img/postobon/350hitsur.jpg;false
 postobon;hit vidrio mango 350ml x30u;56000;img/postobon/hit350m.jpg;true
 postobon;hit vidrio tropical 350ml x30u;56000;img/postobon/hit350t.jpg;true
@@ -147,22 +147,22 @@ postobon;hit vidrio lulo 350ml x30u;56000;img/postobon/hit350l.jpg;true
 postobon;hit vidrio naranja piña 350ml x30u;56000;img/postobon/hit350p.jpg;true
 postobon;hit vidrio mora 350ml x30u;56000;img/postobon/hit350mora.jpg;true
 postobon;hit lonchera caja surtido 200ml x24u;26000;img/postobon/hitlonchera.jpg;false
-postobon;hit pet mango 300ml x12u;19000;img/postobon/hit300m.jpg;true
-postobon;hit pet tropical 300ml x12u;19000;img/postobon/hit300t.jpg;true
-postobon;hit pet lulo 300ml x12u;19000;img/postobon/hit300l.jpg;true
-postobon;hit pet mora 300ml x12u;19000;img/postobon/hit300mora.jpg;true
-postobon;hit pet naranja piña 300ml x12u;19000;img/postobon/hit300pi.jpg;true
+postobon;hit pet mango 300ml x12u;20000;img/postobon/hit300m.jpg;true
+postobon;hit pet tropical 300ml x12u;20000;img/postobon/hit300t.jpg;true
+postobon;hit pet lulo 300ml x12u;20000;img/postobon/hit300l.jpg;true
+postobon;hit pet mora 300ml x12u;20000;img/postobon/hit300mora.jpg;true
+postobon;hit pet naranja piña 300ml x12u;20000;img/postobon/hit300pi.jpg;true
 postobon;hit pet mango 500ml x12u;29000;img/postobon/hitmango500.jpg;true
 postobon;hit pet mora 500ml x12u;29000;img/postobon/hit500mora.jpg;true
 postobon;hit pet lulo 500ml x12u;29000;img/postobon/hit500lulo.jpg;true
 postobon;hit pet tropical 500ml x12u;29000;img/postobon/hit500t.jpg;true
 postobon;hit pet naranja piña 500ml x12u;29000;img/postobon/hit500p.jpg;true
-postobon;hit caja naranja piña 1ltrs x12u;44000;img/postobon/hitcajalitrop.jpg;true
-postobon;hit caja mora 1ltrs x12u;44000;img/postobon/hitcajalitromo.jpg;true
-postobon;hit caja lulo 1ltrs x12u;44000;img/postobon/hitcajalitrol.jpg;true
-postobon;hit caja tropical 1ltrs x12u;44000;img/postobon/hitcajalitrot.jpg;true
-postobon;hit caja mango 1ltrs x12u;44000;img/postobon/hitcajalitrom.jpg;true
-postobon;hit pet naranja piña 1ltr x12u;44000;img/postobon/hitpetlitropiña.jpg;true
+postobon;hit caja naranja piña 1ltrs x12u;44800;img/postobon/hitcajalitrop.jpg;true
+postobon;hit caja mora 1ltrs x12u;44800;img/postobon/hitcajalitromo.jpg;true
+postobon;hit caja lulo 1ltrs x12u;44800;img/postobon/hitcajalitrol.jpg;true
+postobon;hit caja tropical 1ltrs x12u;44800;img/postobon/hitcajalitrot.jpg;true
+postobon;hit caja mango 1ltrs x12u;44800;img/postobon/hitcajalitrom.jpg;true
+postobon;hit pet naranja piña 1ltr x12u;44800;img/postobon/hitpetlitropiña.jpg;true
 postobon;hit pet mora 1ltr x12u;39000;img/postobon/hitpetlitrom.jpg;true
 postobon;hit pet lulo 1ltr x12u;39000;img/postobon/hitpetlitrolu.jpg;true
 postobon;hit pet tropical 1ltr x12u;39000;img/postobon/hitpetlitrotro.jpg;true
@@ -178,7 +178,7 @@ postobon;gatorade manzarina 500ml x12u;38000;img/postobon/gatomand.jpg;true
 postobon;gatorade blu 500ml x12u;38000;img/postobon/gatoazul.jpg;true
 postobon;speed pet 250ml x12u;15000;img/postobon/speedbot.jpg;false
 postobon;speed lata 310ml x24u;39000;img/postobon/speedlata.jpg;true
-beer;andina vidrio 330cm x30u;60000;img/beer/andinacer.jpg;false
+beer;andina vidrio 330cm x30u;62000;img/beer/andinacer.jpg;false
 beer;andina light vidrio 330cm x30u;60000;img/beer/andinalight.jpg;false
 beer;andina light lata 310cm x24u;47000;img/beer/andinalightlata.jpg;false
 beer;andina latota 473ml x12u;29000;img/beer/andina473.jpg;false
@@ -199,45 +199,45 @@ beer;costeña banaca lata 330cm x24u;59000;img/beer/costeñaverdel.jpg;false
 beer;costeña gris vidrio 750ml x16u;47000;img/beer/costeña750.jpg;false
 beer;costeña gris vidrio 330cm x30u;48000;img/beer/costeña330bot.jpg;false
 beer;costeña original lata 330cm x24u;46000;img/beer/costeñagrislata.jpg;false
-beer;club colombia dorada vidrio 330cm x30u;90000;img/beer/clubdorabot.jpg;false
-beer;club colombia roja vidrio 330cm x30u;90000;img/beer/clubroja.jpg;false
-beer;club colombia negra vidrio 330cm x30u;90000;img/beer/clubnegra.jpg;false
-beer;club colombia dorada lata 330cm x24u;67000;img/beer/clubdoralata.jpg;false
-beer;club colombia negra lata 330cm x24u;67000;img/beer/clubnegralata.jpg;false
-beer;club colombia roja lata 330cm x24u;67000;img/beer/clubrojalata.jpg;false
-beer;budweiser caja botella no retor 250cm x24u;54000;img/beer/budwebot.jpg;false
-beer;budweiser lata 269cm x24u;54000;img/beer/budweiserl.jpg;false
+beer;club colombia dorada vidrio 330cm x30u;89000;img/beer/clubdorabot.jpg;false
+beer;club colombia roja vidrio 330cm x30u;89000;img/beer/clubroja.jpg;false
+beer;club colombia negra vidrio 330cm x30u;89000;img/beer/clubnegra.jpg;false
+beer;club colombia dorada lata 330cm x24u;68000;img/beer/clubdoralata.jpg;false
+beer;club colombia negra lata 330cm x24u;68000;img/beer/clubnegralata.jpg;false
+beer;club colombia roja lata 330cm x24u;68000;img/beer/clubrojalata.jpg;false
+beer;budweiser caja botella no retor 250cm x24u;55000;img/beer/budwebot.jpg;false
+beer;budweiser lata 269cm x24u;55000;img/beer/budweiserl.jpg;false
 beer;coronita bot no retornable 210cm x24u;70000;img/beer/coronita.jpg;false
-beer;coronita lata 269cm x24u;62000;img/beer/coronitalata.jpg;false
+beer;coronita lata 269cm x24u;67000;img/beer/coronitalata.jpg;false
 beer;corona bot no retornable 330cm x24u;84000;img/beer/corona.jpg;false
 beer;stella artois bot no retornable 330cm x24u;85000;img/beer/stellabot.jpg;false
-beer;redds lata 269 x24u;67000;img/beer/redslata.jpg;false
-bigcola;big cola pet negra 400ml x12u;14500;img/bigcola/big400negra.jpg;true
-bigcola;big cola pet piña 400ml x12u;14500;img/bigcola/big400piña.jpg;true
-bigcola;big cola pet manzana 400ml x12u;14500;img/bigcola/big400manz.jpg;true
-bigcola;big cola pet festival 400ml x12u;14500;img/bigcola/big400festival.jpg;true
-bigcola;big cola pet limon 400ml x12u;14500;img/bigcola/biglimon400.jpg;true
-bigcola;big cola pet naranja 400ml x12u;14500;img/bigcola/bignaran400.jpg;true
-bigcola;big cola pet negra 1.75 ltrs x8u;23800;img/bigcola/bignegra1.75.jpg;false
-bigcola;cifrut pet granadilla 250ml x15u;12000;img/bigcola/cifrutgran250.jpg;false
-bigcola;cifrut pet naranja 250ml x15u;12000;img/bigcola/cifrutna250.jpg;false
-bigcola;cifrut pet mora 250ml x15u;12000;img/bigcola/cifrutmora250.jpg;false
-bigcola;cifrut pet granadilla 400ml x12u;13500;img/bigcola/cifrut400fran.jpg;true
-bigcola;cifrut pet naranja 400ml x12u;13500;img/bigcola/cifrut400nar.jpg;true
-bigcola;cifrut pet mora 400ml x12u;13500;img/bigcola/cifrut400mora.jpg;true
-bigcola;cifrut pet mora 1.75 ltrs x8u;23800;img/bigcola/cifrut1.7.jpg;true
-bigcola;cifrut petgranadilla 1.75 ltrs x8u;23800;img/bigcola/cifrutgran1.7.jpg;true
-bigcola;cifrut pet naranja 1.75 ltrs x8u;23800;img/bigcola/cifrutnara1.7.jpg;true
+beer;redds lata 269 x24u;69000;img/beer/redslata.jpg;false
+bigcola;big cola pet negra 400ml x12u;15500;img/bigcola/big400negra.jpg;true
+bigcola;big cola pet piña 400ml x12u;15500;img/bigcola/big400piña.jpg;true
+bigcola;big cola pet manzana 400ml x12u;15500;img/bigcola/big400manz.jpg;true
+bigcola;big cola pet festival 400ml x12u;15500;img/bigcola/big400festival.jpg;true
+bigcola;big cola pet limon 400ml x12u;15500;img/bigcola/biglimon400.jpg;true
+bigcola;big cola pet naranja 400ml x12u;15500;img/bigcola/bignaran400.jpg;true
+bigcola;big cola pet negra 1.75 ltrs x8u;24000;img/bigcola/bignegra1.75.jpg;false
+bigcola;cifrut pet granadilla 250ml x15u;13000;img/bigcola/cifrutgran250.jpg;false
+bigcola;cifrut pet naranja 250ml x15u;13000;img/bigcola/cifrutna250.jpg;false
+bigcola;cifrut pet mora 250ml x15u;13000;img/bigcola/cifrutmora250.jpg;false
+bigcola;cifrut pet granadilla 400ml x12u;14500;img/bigcola/cifrut400fran.jpg;true
+bigcola;cifrut pet naranja 400ml x12u;14500;img/bigcola/cifrut400nar.jpg;true
+bigcola;cifrut pet mora 400ml x12u;14500;img/bigcola/cifrut400mora.jpg;true
+bigcola;cifrut pet mora 1.75 ltrs x8u;24000;img/bigcola/cifrut1.7.jpg;true
+bigcola;cifrut petgranadilla 1.75 ltrs x8u;24000;img/bigcola/cifrutgran1.7.jpg;true
+bigcola;cifrut pet naranja 1.75 ltrs x8u;24000;img/bigcola/cifrutnara1.7.jpg;true
 bigcola;sporade pet blue 500ml x12u;25000;img/bigcola/sporadeazul.jpg;true
 bigcola;sporade pet mandarina 500ml x12u;25000;img/bigcola/sporademand.jpg;true
 bigcola;sporade pet maracuya 500ml x12u;25000;img/bigcola/sporademarac.jpg;true
 bigcola;sporade pet tropical 500ml x12u;25000;img/bigcola/sporaderojo.jpg;true
-bigcola;agua cielo natural pet 600ml x24u;23000;img/bigcola/cielo600ml.jpg;true
-bigcola;agua cielo natural pet chupo 1 ltrs x12u;20000;img/bigcola/cielochupo.jpg;false
+bigcola;agua cielo natural pet 600ml x24u;24000;img/bigcola/cielo600ml.jpg;true
+bigcola;agua cielo natural pet chupo 1 ltrs x12u;22000;img/bigcola/cielochupo.jpg;false
 ponymalta;pony malta vidrio 330cm x30u;61000;img/ponymalta/ponybote.jpg;false
 ponymalta;pony malta pet 200cm x30u;45000;img/ponymalta/ponylonc.jpg;true
-ponymalta;pony malta pet 330cm x24u;55000;img/ponymalta/pony330.jpg;true
-ponymalta;pony malta pet 1ltrs x15u;55000;img/ponymalta/ponylitro.jpg;false
+ponymalta;pony malta pet 330cm x24u;56000;img/ponymalta/pony330.jpg;true
+ponymalta;pony malta pet 1ltrs x15u;56000;img/ponymalta/ponylitro.jpg;false
 ponymalta;pony malta pet 1.5ltrs x6u;35000;img/ponymalta/pony1.5.jpg;false
 ponymalta;cola y pola vidrio 330cm x30u;56000;img/ponymalta/colabot.jpg;false
 ponymalta;cola y pola lata 330cm x24u;46000;img/ponymalta/colalata.jpg;true
@@ -259,21 +259,21 @@ cigarillos;l & m blanco x10;101000;img/cigarrillos/lymblanco.jpg;true
 cigarillos;l & m purple evo x10;93000;img/cigarrillos/lymmora.jpg;true
 cigarillos;l & m sandia x10;93000;img/cigarrillos/lymsandia.jpg;true
 quala;vive 100 sixpack 240ml;11000;img/quala/vive100240.jpg;false
-quala;vive 100 verde sixpack 380ml;13500;img/quala/vive100380verde.jpg;false
-quala;vive 100 rojo sixpack 380ml;13500;img/quala/vive100rojo.jpg;false
-quala;vive 100 blue sixpack 380ml;13500;img/quala/vive100azul.jpg;false
-quala;vive 100 blanco sixpack 380ml;13500;img/quala/vive100blanco.380.jpg;false
+quala;vive 100 verde sixpack 380ml;13000;img/quala/vive100380verde.jpg;false
+quala;vive 100 rojo sixpack 380ml;13000;img/quala/vive100rojo.jpg;false
+quala;vive 100 blue sixpack 380ml;13000;img/quala/vive100azul.jpg;false
+quala;vive 100 blanco sixpack 380ml;13000;img/quala/vive100blanco.380.jpg;false
 quala;spartalata dorado 310ml x6u;11000;img/quala/spartalador.jpg;false
 quala;spartalata blue 310ml x6u;11000;img/quala/spartalataazul.jpg;false
-quala;saviloe sixpack 320ml;13500;img/quala/saviloe320.jpg;false
+quala;saviloe sixpack 320ml;13000;img/quala/saviloe320.jpg;false
 quala;saviloe sixpack 420ml;16000;img/quala/saviloe420.jpg;false
 quala;amper mango x6;16000;img/quala/ampermangp.jpg;false
 quala;amper blue x6u;16000;img/quala/amperblue.jpg;false
 quala;amper blanco x6u;16000;img/quala/amperblanco.jpg;false
 quala;amper negro x6u;16000;img/quala/ampernegro.jpg;false
-quala;hidralyte maracuya;3600;img/quala/hidramara.jpg;false
-quala;hidralyte blue;3600;img/quala/hidrablue.jpg;false
-quala;hidralyte kiwi;3600;img/quala/hidrakiwi.jpg;false
+quala;hidralyte maracuya;3500;img/quala/hidramara.jpg;false
+quala;hidralyte blue;3500;img/quala/hidrablue.jpg;false
+quala;hidralyte kiwi;3500;img/quala/hidrakiwi.jpg;false
 superricas;papas super ricas pollo 30g x12u;22800;img/superricas/polsu30g.jpg;true
 superricas;papas super ricas natural 30g x12u;22800;img/superricas/suprnat30g.jpg;true
 superricas;papas super ricas picante 30g x12u;22800;img/superricas/supepic30g.jpg;true

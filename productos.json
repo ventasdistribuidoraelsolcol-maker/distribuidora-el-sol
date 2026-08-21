@@ -23,7 +23,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola pet 250ml x12u",
-    "precio": 19000,
+    "precio": 19200,
     "imagen": "img/coca-cola/cocaminipet.jpg",
     "permitemitad": false
   },
@@ -44,7 +44,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola pet 1ltr x12u",
-    "precio": 45000,
+    "precio": 44000,
     "imagen": "img/coca-cola/cocalitropet.jpg",
     "permitemitad": false
   },
@@ -58,7 +58,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola pet 1.5ltr x12u",
-    "precio": 63000,
+    "precio": 63500,
     "imagen": "img/coca-cola/coca1.5litros.jpg",
     "permitemitad": true
   },
@@ -72,14 +72,14 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola retornable 2ltr x9u",
-    "precio": 47000,
+    "precio": 45000,
     "imagen": "img/coca-cola/cocaretornable2litros.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "coca cola pet 3ltr x6u",
-    "precio": 54000,
+    "precio": 55000,
     "imagen": "img/coca-cola/coca3litros.jpg",
     "permitemitad": false
   },
@@ -121,21 +121,21 @@
   {
     "marca": "coca-cola",
     "nombre": "schweppes soda pet 400ml x12u",
-    "precio": 24000,
+    "precio": 25000,
     "imagen": "img/coca-cola/soda400ml.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "schweppes soda pet 1.5ltrs x12u",
-    "precio": 43000,
+    "precio": 44000,
     "imagen": "img/coca-cola/soda1.5.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "schweppes ginger pet 400ml x12u",
-    "precio": 24000,
+    "precio": 25000,
     "imagen": "img/coca-cola/ginger400ml.jpg",
     "permitemitad": false
   },
@@ -149,7 +149,7 @@
   {
     "marca": "coca-cola",
     "nombre": "quatro vidrio 237ml x30u",
-    "precio": 35000,
+    "precio": 36000,
     "imagen": "img/coca-cola/quatro237ml.jpg",
     "permitemitad": true
   },
@@ -170,14 +170,14 @@
   {
     "marca": "coca-cola",
     "nombre": "quatro pet 400ml x12u",
-    "precio": 24000,
+    "precio": 25000,
     "imagen": "img/coca-cola/quatro400ml.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "quatro pet 1.5lts x12u",
-    "precio": 43000,
+    "precio": 44000,
     "imagen": "img/coca-cola/quatro1.5.jpg",
     "permitemitad": true
   },
@@ -198,7 +198,7 @@
   {
     "marca": "coca-cola",
     "nombre": "sprite vidrio 237ml x30u",
-    "precio": 35000,
+    "precio": 36000,
     "imagen": "img/coca-cola/sprite237ml.jpg",
     "permitemitad": true
   },
@@ -219,14 +219,14 @@
   {
     "marca": "coca-cola",
     "nombre": "sprite pet 400ml x12u",
-    "precio": 24000,
+    "precio": 25000,
     "imagen": "img/coca-cola/sprite400ml.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "sprite pet 1.5lts x12u",
-    "precio": 43000,
+    "precio": 44000,
     "imagen": "img/coca-cola/sprite1.5.jpg",
     "permitemitad": true
   },
@@ -247,42 +247,42 @@
   {
     "marca": "coca-cola",
     "nombre": "kola roman pet 400ml x12u",
-    "precio": 24000,
+    "precio": 25000,
     "imagen": "img/coca-cola/kola400.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "kola roman pet 1.5ltrs x12u",
-    "precio": 44000,
+    "precio": 45000,
     "imagen": "img/coca-cola/kola1.5ltr.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa limon 280ml x24u",
-    "precio": 28000,
+    "precio": 28900,
     "imagen": "img/coca-cola/brisalimon280.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa manzana 280ml x24u",
-    "precio": 28000,
+    "precio": 28900,
     "imagen": "img/coca-cola/brisamanzana280.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa maracuya 280ml x24u",
-    "precio": 28000,
+    "precio": 28900,
     "imagen": "img/coca-cola/brisamaracuya280.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa gas 600 mlx24u",
-    "precio": 31000,
+    "precio": 32000,
     "imagen": "img/coca-cola/brisagas600.jpg",
     "permitemitad": true
   },
@@ -296,49 +296,49 @@
   {
     "marca": "coca-cola",
     "nombre": "agua brisa limon 600ml x6u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/coca-cola/brisalimon600.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa manzana 600ml x6u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/coca-cola/brisamanzana600.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa maracuya 600ml x6u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/coca-cola/brisamaracuya600.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa natural litro x6u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/coca-cola/brisanatural1ltr.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa manzana 1.5ltrs x12u",
-    "precio": 39000,
+    "precio": 40000,
     "imagen": "img/coca-cola/brisamanzana1.5.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "agua brisa maracuya 1.5ltrs x12u",
-    "precio": 39000,
+    "precio": 40000,
     "imagen": "img/coca-cola/brisamaracuya1.5.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "valle fresh caja 188ml x24u",
-    "precio": 23000,
+    "precio": 24000,
     "imagen": "img/coca-cola/vallefresh188.jpg",
     "permitemitad": true
   },
@@ -352,14 +352,14 @@
   {
     "marca": "coca-cola",
     "nombre": "valle fresh 1.5lts x12u",
-    "precio": 43000,
+    "precio": 44000,
     "imagen": "img/coca-cola/vallenaran1.5.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "valle mandarina 1.5lts x12u",
-    "precio": 43000,
+    "precio": 44000,
     "imagen": "img/coca-cola/vallemand1.5.jpg",
     "permitemitad": true
   },
@@ -373,56 +373,56 @@
   {
     "marca": "coca-cola",
     "nombre": "valle frutal caja surtido 188ml x24u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/coca-cola/vallefrutal188.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "valle frutal mora 500ml x6u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/coca-cola/frutalmora500.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "valle frutal mango 500ml x6u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/coca-cola/frutalmango500.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "monster lata mangoloco 473ml x1u",
-    "precio": 7700,
+    "precio": 8200,
     "imagen": "img/coca-cola/monsterloco.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "monster lata green 473ml x1u",
-    "precio": 7700,
+    "precio": 8200,
     "imagen": "img/coca-cola/monstergreen.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "monster lata blue 473ml x1u",
-    "precio": 7700,
+    "precio": 8200,
     "imagen": "img/coca-cola/monsterblue.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "monster lata ultra 473ml x1u",
-    "precio": 7700,
+    "precio": 8200,
     "imagen": "img/coca-cola/monsterultra.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "monster lata violet 473ml x1u",
-    "precio": 7700,
+    "precio": 8200,
     "imagen": "img/coca-cola/monsterviolet.jpg",
     "permitemitad": false
   },
@@ -443,28 +443,28 @@
   {
     "marca": "coca-cola",
     "nombre": "fuzte durazno 400ml x6u",
-    "precio": 16500,
+    "precio": 17500,
     "imagen": "img/coca-cola/fuztedurazno.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "fuzte limon 400ml x6u",
-    "precio": 16500,
+    "precio": 17500,
     "imagen": "img/coca-cola/fuztelimon.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "fuzte mango 400ml x6u",
-    "precio": 16500,
+    "precio": 17500,
     "imagen": "img/coca-cola/fuztemango.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "fuzte manzana 400ml x6u",
-    "precio": 16500,
+    "precio": 17500,
     "imagen": "img/coca-cola/fuztemanzana.jpg",
     "permitemitad": false
   },
@@ -485,56 +485,56 @@
   {
     "marca": "postobon",
     "nombre": "bretaña 1.5 x12u",
-    "precio": 43500,
+    "precio": 43000,
     "imagen": "img/postobon/bretaña1.5.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio surtida 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/minibotellagsa.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio manzana 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/vidriomanzana250.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio colombiana 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/vidriocolombiana250.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio pepsi 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/vidriopepsi250.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio zup 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/vidriozup250,jpg.png",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio uva 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/vidriouva250.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "gsa vidrio naranja 250ml x30u",
-    "precio": 29000,
+    "precio": 30000,
     "imagen": "img/postobon/vidrionaranja250.jpg",
     "permitemitad": true
   },
@@ -562,7 +562,7 @@
   {
     "marca": "postobon",
     "nombre": "gsa vidrio pepsi 350ml x30u",
-    "precio": 55000,
+    "precio": 56000,
     "imagen": "img/postobon/pepsi350.jpg",
     "permitemitad": true
   },
@@ -821,42 +821,42 @@
   {
     "marca": "postobon",
     "nombre": "manzana 3ltrs x6u",
-    "precio": 34000,
+    "precio": 35000,
     "imagen": "img/postobon/manzana3ltr.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "colombiana 3ltrs x6u",
-    "precio": 34000,
+    "precio": 35000,
     "imagen": "img/postobon/colombiana3ltr.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "h2o surtida pet 600ml x15u",
-    "precio": 32000,
+    "precio": 32500,
     "imagen": "img/postobon/h2o600sur.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "h2o lima-limon 600ml x15u",
-    "precio": 32000,
+    "precio": 32500,
     "imagen": "img/postobon/h2o600l.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "h2o limonata 600ml x15u",
-    "precio": 32000,
+    "precio": 32500,
     "imagen": "img/postobon/h2o600lm.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "h2o maracuya 600ml x15u",
-    "precio": 32000,
+    "precio": 32500,
     "imagen": "img/postobon/h2o600m.jpg",
     "permitemitad": false
   },
@@ -877,14 +877,14 @@
   {
     "marca": "postobon",
     "nombre": "mr tee limon 500ml x12u",
-    "precio": 26000,
+    "precio": 27000,
     "imagen": "img/postobon/mrteelimon500.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "mr tee durazno 500ml x12u",
-    "precio": 26000,
+    "precio": 27000,
     "imagen": "img/postobon/mrteedurazno500.jpg",
     "permitemitad": true
   },
@@ -898,7 +898,7 @@
   {
     "marca": "postobon",
     "nombre": "agua cristal gas pet 250ml x12u",
-    "precio": 8000,
+    "precio": 9000,
     "imagen": "img/postobon/cristalgas250.jpg",
     "permitemitad": false
   },
@@ -919,14 +919,14 @@
   {
     "marca": "postobon",
     "nombre": "agua cristal chupo 1ltrs x12u",
-    "precio": 23000,
+    "precio": 23500,
     "imagen": "img/postobon/cristalchupo.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "agua cristal 1ltrs x12u",
-    "precio": 19000,
+    "precio": 20000,
     "imagen": "img/postobon/cristallitro.jpg",
     "permitemitad": false
   },
@@ -940,49 +940,49 @@
   {
     "marca": "postobon",
     "nombre": "botellon de agua cristal 5gl x1u",
-    "precio": 13500,
+    "precio": 13800,
     "imagen": "img/postobon/botelloncristal5g.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "hit vidrio surtido 237ml x30u",
-    "precio": 36500,
+    "precio": 36000,
     "imagen": "img/postobon/hit250sur.jpg",
     "permitemitad": false
   },
   {
     "marca": "postobon",
     "nombre": "hit vidrio mango 237ml x30u",
-    "precio": 36500,
+    "precio": 36000,
     "imagen": "img/postobon/vidriohit250m.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit vidrio mora 237ml x30u",
-    "precio": 36500,
+    "precio": 36000,
     "imagen": "img/postobon/hit250moravidrio.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit vidrio lulo 237ml x30u",
-    "precio": 36500,
+    "precio": 36000,
     "imagen": "img/postobon/vidriohit250lulo.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit vidrio tropical 237ml x30u",
-    "precio": 36500,
+    "precio": 36000,
     "imagen": "img/postobon/hit250tropi.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit vidrio naranja piña 237ml x30u",
-    "precio": 36500,
+    "precio": 36000,
     "imagen": "img/postobon/vidriohitp.jpg",
     "permitemitad": true
   },
@@ -1038,35 +1038,35 @@
   {
     "marca": "postobon",
     "nombre": "hit pet mango 300ml x12u",
-    "precio": 19000,
+    "precio": 20000,
     "imagen": "img/postobon/hit300m.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit pet tropical 300ml x12u",
-    "precio": 19000,
+    "precio": 20000,
     "imagen": "img/postobon/hit300t.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit pet lulo 300ml x12u",
-    "precio": 19000,
+    "precio": 20000,
     "imagen": "img/postobon/hit300l.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit pet mora 300ml x12u",
-    "precio": 19000,
+    "precio": 20000,
     "imagen": "img/postobon/hit300mora.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit pet naranja piña 300ml x12u",
-    "precio": 19000,
+    "precio": 20000,
     "imagen": "img/postobon/hit300pi.jpg",
     "permitemitad": true
   },
@@ -1108,42 +1108,42 @@
   {
     "marca": "postobon",
     "nombre": "hit caja naranja piña 1ltrs x12u",
-    "precio": 44000,
+    "precio": 44800,
     "imagen": "img/postobon/hitcajalitrop.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit caja mora 1ltrs x12u",
-    "precio": 44000,
+    "precio": 44800,
     "imagen": "img/postobon/hitcajalitromo.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit caja lulo 1ltrs x12u",
-    "precio": 44000,
+    "precio": 44800,
     "imagen": "img/postobon/hitcajalitrol.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit caja tropical 1ltrs x12u",
-    "precio": 44000,
+    "precio": 44800,
     "imagen": "img/postobon/hitcajalitrot.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit caja mango 1ltrs x12u",
-    "precio": 44000,
+    "precio": 44800,
     "imagen": "img/postobon/hitcajalitrom.jpg",
     "permitemitad": true
   },
   {
     "marca": "postobon",
     "nombre": "hit pet naranja piña 1ltr x12u",
-    "precio": 44000,
+    "precio": 44800,
     "imagen": "img/postobon/hitpetlitropiña.jpg",
     "permitemitad": true
   },
@@ -1255,7 +1255,7 @@
   {
     "marca": "beer",
     "nombre": "andina vidrio 330cm x30u",
-    "precio": 60000,
+    "precio": 62000,
     "imagen": "img/beer/andinacer.jpg",
     "permitemitad": false
   },
@@ -1402,56 +1402,56 @@
   {
     "marca": "beer",
     "nombre": "club colombia dorada vidrio 330cm x30u",
-    "precio": 90000,
+    "precio": 89000,
     "imagen": "img/beer/clubdorabot.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia roja vidrio 330cm x30u",
-    "precio": 90000,
+    "precio": 89000,
     "imagen": "img/beer/clubroja.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia negra vidrio 330cm x30u",
-    "precio": 90000,
+    "precio": 89000,
     "imagen": "img/beer/clubnegra.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia dorada lata 330cm x24u",
-    "precio": 67000,
+    "precio": 68000,
     "imagen": "img/beer/clubdoralata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia negra lata 330cm x24u",
-    "precio": 67000,
+    "precio": 68000,
     "imagen": "img/beer/clubnegralata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia roja lata 330cm x24u",
-    "precio": 67000,
+    "precio": 68000,
     "imagen": "img/beer/clubrojalata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "budweiser caja botella no retor 250cm x24u",
-    "precio": 54000,
+    "precio": 55000,
     "imagen": "img/beer/budwebot.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "budweiser lata 269cm x24u",
-    "precio": 54000,
+    "precio": 55000,
     "imagen": "img/beer/budweiserl.jpg",
     "permitemitad": false
   },
@@ -1465,7 +1465,7 @@
   {
     "marca": "beer",
     "nombre": "coronita lata 269cm x24u",
-    "precio": 62000,
+    "precio": 67000,
     "imagen": "img/beer/coronitalata.jpg",
     "permitemitad": false
   },
@@ -1486,119 +1486,119 @@
   {
     "marca": "beer",
     "nombre": "redds lata 269 x24u",
-    "precio": 67000,
+    "precio": 69000,
     "imagen": "img/beer/redslata.jpg",
     "permitemitad": false
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet negra 400ml x12u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/bigcola/big400negra.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet piña 400ml x12u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/bigcola/big400piña.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet manzana 400ml x12u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/bigcola/big400manz.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet festival 400ml x12u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/bigcola/big400festival.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet limon 400ml x12u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/bigcola/biglimon400.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet naranja 400ml x12u",
-    "precio": 14500,
+    "precio": 15500,
     "imagen": "img/bigcola/bignaran400.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "big cola pet negra 1.75 ltrs x8u",
-    "precio": 23800,
+    "precio": 24000,
     "imagen": "img/bigcola/bignegra1.75.jpg",
     "permitemitad": false
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet granadilla 250ml x15u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/bigcola/cifrutgran250.jpg",
     "permitemitad": false
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet naranja 250ml x15u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/bigcola/cifrutna250.jpg",
     "permitemitad": false
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet mora 250ml x15u",
-    "precio": 12000,
+    "precio": 13000,
     "imagen": "img/bigcola/cifrutmora250.jpg",
     "permitemitad": false
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet granadilla 400ml x12u",
-    "precio": 13500,
+    "precio": 14500,
     "imagen": "img/bigcola/cifrut400fran.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet naranja 400ml x12u",
-    "precio": 13500,
+    "precio": 14500,
     "imagen": "img/bigcola/cifrut400nar.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet mora 400ml x12u",
-    "precio": 13500,
+    "precio": 14500,
     "imagen": "img/bigcola/cifrut400mora.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet mora 1.75 ltrs x8u",
-    "precio": 23800,
+    "precio": 24000,
     "imagen": "img/bigcola/cifrut1.7.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut petgranadilla 1.75 ltrs x8u",
-    "precio": 23800,
+    "precio": 24000,
     "imagen": "img/bigcola/cifrutgran1.7.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "cifrut pet naranja 1.75 ltrs x8u",
-    "precio": 23800,
+    "precio": 24000,
     "imagen": "img/bigcola/cifrutnara1.7.jpg",
     "permitemitad": true
   },
@@ -1633,14 +1633,14 @@
   {
     "marca": "bigcola",
     "nombre": "agua cielo natural pet 600ml x24u",
-    "precio": 23000,
+    "precio": 24000,
     "imagen": "img/bigcola/cielo600ml.jpg",
     "permitemitad": true
   },
   {
     "marca": "bigcola",
     "nombre": "agua cielo natural pet chupo 1 ltrs x12u",
-    "precio": 20000,
+    "precio": 22000,
     "imagen": "img/bigcola/cielochupo.jpg",
     "permitemitad": false
   },
@@ -1661,14 +1661,14 @@
   {
     "marca": "ponymalta",
     "nombre": "pony malta pet 330cm x24u",
-    "precio": 55000,
+    "precio": 56000,
     "imagen": "img/ponymalta/pony330.jpg",
     "permitemitad": true
   },
   {
     "marca": "ponymalta",
     "nombre": "pony malta pet 1ltrs x15u",
-    "precio": 55000,
+    "precio": 56000,
     "imagen": "img/ponymalta/ponylitro.jpg",
     "permitemitad": false
   },
@@ -1871,7 +1871,7 @@
   {
     "marca": "quala",
     "nombre": "saviloe sixpack 420ml",
-    "precio": 16000,
+    "precio": 16500,
     "imagen": "img/quala/saviloe420.jpg",
     "permitemitad": false
   },
@@ -1906,21 +1906,21 @@
   {
     "marca": "quala",
     "nombre": "hidralyte maracuya",
-    "precio": 3600,
+    "precio": 3500,
     "imagen": "img/quala/hidramara.jpg",
     "permitemitad": false
   },
   {
     "marca": "quala",
     "nombre": "hidralyte blue",
-    "precio": 3600,
+    "precio": 3500,
     "imagen": "img/quala/hidrablue.jpg",
     "permitemitad": false
   },
   {
     "marca": "quala",
     "nombre": "hidralyte kiwi",
-    "precio": 3600,
+    "precio": 3500,
     "imagen": "img/quala/hidrakiwi.jpg",
     "permitemitad": false
   },
@@ -2089,7 +2089,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "los cuates mango 269ml",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/cuatesmango1.jpg",
     "permitemitad": false
   },
@@ -2097,7 +2097,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "los cuates limon 269ml",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/cuateslimon269.jpg",
     "permitemitad": false
   },
@@ -2105,7 +2105,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "los cuates fresa 269ml",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/cuatesfresa269.jpg",
     "permitemitad": false
   },
@@ -2113,7 +2113,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "los cuates mango 473ml",
-    "precio": 7300,
+    "precio": 7200,
     "imagen": "img/licores/cuateandlike/cuates473.jpg",
     "permitemitad": false
   },
@@ -2121,7 +2121,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "like mango 300ml x6u",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/likemango.jpg",
     "permitemitad": false
   },
@@ -2129,7 +2129,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "like manzana 300ml x6u",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/likemanzana.jpg",
     "permitemitad": false
   },
@@ -2137,7 +2137,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "like limon 300ml x6u",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/likelimon.jpg",
     "permitemitad": false
   },
@@ -2145,7 +2145,7 @@
     "marca": "licores",
     "subcategoria": "cuatesandlike",
     "nombre": "like blue 300ml x6u",
-    "precio": 4600,
+    "precio": 4500,
     "imagen": "img/licores/cuateandlike/likeblue.jpg",
     "permitemitad": false
   },
@@ -2344,7 +2344,7 @@
   {
     "marca": "licores",
     "subcategoria": "nectar",
-    "nombre": "ron santafe 4 años 750ml",
+    "nombre": "ron santafe 4 a{os 750ml",
     "precio": 43000,
     "imagen": "img/licores/nectar/ronsan4750.jpg",
     "permitemitad": false
@@ -4460,14 +4460,7 @@
     "precio": 3000,
     "imagen": "img/dulces/adams/oreotubo.jpg",
     "permitemitad": false
-  },
-  {
-    "marca": "promociones",
-    "subcategoria": "adams",
-    "nombre": "trident 5sx18u sandia",
-    "precio": "24800",
-    "imagen": "img/promociones/promociones111.jpg",
-    "permitemitad": "false"
   }
-  ]
+
+]
   

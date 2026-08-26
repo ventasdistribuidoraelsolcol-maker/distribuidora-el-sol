@@ -72,7 +72,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola retornable 2ltr x9u",
-    "precio": 45000,
+    "precio": 47000,
     "imagen": "img/coca-cola/cocaretornable2litros.jpg",
     "permitemitad": false
   },
@@ -4460,7 +4460,38 @@
     "precio": 3000,
     "imagen": "img/dulces/adams/oreotubo.jpg",
     "permitemitad": false
+  },
+  {
+    "marca": "promociones",
+    "subcategoria": "promo",
+    "nombre": "Brisa 600ml x2 Aplica solo 1 vez",
+    "precio": 0,
+    "imagen": "img/promociones/promociones1.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "promociones",
+    "subcategoria": "promo",
+    "nombre": "Coca cola zero 400ml x12",
+    "precio": 26500,
+    "imagen": "img/promociones/promociones4.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "promociones",
+    "subcategoria": "promo",
+    "nombre": "Sporade x12",
+    "precio": 22000,
+    "imagen": "img/promociones/promociones2.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "promociones",
+    "subcategoria": "promo",
+    "nombre": "Gaesosa 2.5 x8",
+    "precio": 36800,
+    "imagen": "img/promociones/promociones3.jpg",
+    "permitemitad": false
   }
-
 ]
   

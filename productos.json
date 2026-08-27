@@ -23,7 +23,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola pet 250ml x12u",
-    "precio": 19200,
+    "precio": 19000,
     "imagen": "img/coca-cola/cocaminipet.jpg",
     "permitemitad": false
   },
@@ -107,7 +107,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola sin azucar pet 400ml x12u",
-    "precio": 28000,
+    "precio": 26500,
     "imagen": "img/coca-cola/coca400mlzero.jpg",
     "permitemitad": false
   },
@@ -836,7 +836,7 @@
     "marca": "postobon",
     "nombre": "h2o surtida pet 600ml x15u",
     "precio": 32500,
-    "imagen": "img/postobon/h2o600sur.jpg",
+    "imagen": "img/postobon/h2osurtida600.jpg",
     "permitemitad": false
   },
   {
@@ -1668,7 +1668,7 @@
   {
     "marca": "ponymalta",
     "nombre": "pony malta pet 1ltrs x15u",
-    "precio": 56000,
+    "precio": 57000,
     "imagen": "img/ponymalta/ponylitro.jpg",
     "permitemitad": false
   },
@@ -1689,7 +1689,7 @@
   {
     "marca": "ponymalta",
     "nombre": "cola y pola lata 330cm x24u",
-    "precio": 46000,
+    "precio": 48000,
     "imagen": "img/ponymalta/colalata.jpg",
     "permitemitad": true
   },
@@ -4473,7 +4473,7 @@
     "marca": "promociones",
     "subcategoria": "promo",
     "nombre": "Coca cola zero 400ml x12",
-    "precio": 26500,
+    "precio": 28000,
     "imagen": "img/promociones/promociones4.jpg",
     "permitemitad": false
   },

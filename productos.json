@@ -44,7 +44,7 @@
   {
     "marca": "coca-cola",
     "nombre": "coca cola pet 1ltr x12u",
-    "precio": 44000,
+    "precio": 48500,
     "imagen": "img/coca-cola/cocalitropet.jpg",
     "permitemitad": false
   },
@@ -177,7 +177,7 @@
   {
     "marca": "coca-cola",
     "nombre": "quatro pet 1.5lts x12u",
-    "precio": 44000,
+    "precio": 48500,
     "imagen": "img/coca-cola/quatro1.5.jpg",
     "permitemitad": true
   },
@@ -191,7 +191,7 @@
   {
     "marca": "coca-cola",
     "nombre": "quatro pet 3lts x6u",
-    "precio": 39000,
+    "precio": 41500,
     "imagen": "img/coca-cola/quatro3ltr.jpg",
     "permitemitad": false
   },
@@ -289,7 +289,7 @@
   {
     "marca": "coca-cola",
     "nombre": "agua brisa natural 600 mlx24u",
-    "precio": 31000,
+    "precio": 33000,
     "imagen": "img/coca-cola/brisanatural600.jpg",
     "permitemitad": true
   },
@@ -345,28 +345,28 @@
   {
     "marca": "coca-cola",
     "nombre": "valle fresh pet 400ml x12u",
-    "precio": 19000,
+    "precio": 21000,
     "imagen": "img/coca-cola/vallefresh400.jpg",
     "permitemitad": false
   },
   {
     "marca": "coca-cola",
     "nombre": "valle fresh 1.5lts x12u",
-    "precio": 44000,
+    "precio": 48500,
     "imagen": "img/coca-cola/vallenaran1.5.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "valle mandarina 1.5lts x12u",
-    "precio": 44000,
+    "precio": 48500,
     "imagen": "img/coca-cola/vallemand1.5.jpg",
     "permitemitad": true
   },
   {
     "marca": "coca-cola",
     "nombre": "valle fresh pet 2.5lts x6u",
-    "precio": 39000,
+    "precio": 42500,
     "imagen": "img/coca-cola/valle2.5.jpg",
     "permitemitad": true
   },

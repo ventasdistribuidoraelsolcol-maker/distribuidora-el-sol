@@ -1310,6 +1310,27 @@
   },
   {
     "marca": "beer",
+    "nombre": "cerveza Mitica lata 310cm x24u",
+    "precio": 60000,
+    "imagen": "img/beer/miticanatural310.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "beer",
+    "nombre": "cerveza Mitica Botella x24u",
+    "precio": 61000,
+    "imagen": "img/beer/miticabotella.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "beer",
+    "nombre": "cerveza Mitica lata light 310cm x24u",
+    "precio": 60000,
+    "imagen": "img/beer/miticaligera310.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "beer",
     "nombre": "cerveza kaufmann 330cm x24u",
     "precio": 35000,
     "imagen": "img/beer/kouff.jpg",
@@ -2667,6 +2688,14 @@
     "nombre": "antioqueño real 750ml",
     "precio": 77000,
     "imagen": "img/licores/antioqueño/real750.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "licores",
+    "subcategoria": "antioqueño",
+    "nombre": "antioqueño real amarillo 375ml",
+    "precio": 27000,
+    "imagen": "img/licores/antioqueño/real375ml.jpg",
     "permitemitad": false
   },
   {
@@ -4491,6 +4520,54 @@
     "nombre": "Gaesosa 2.5 x8",
     "precio": 36800,
     "imagen": "img/promociones/promociones3.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "Electrolic",
+    "subcategoria": "suero",
+    "nombre": "Electrolic maracuya 620ml x1",
+    "precio": 7300,
+    "imagen": "img/Electrolic/electrolicmaracuya.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "Electrolic",
+    "subcategoria": "suero",
+    "nombre": "Electrolic Fresa-kiwi 620ml x1",
+    "precio": 7300,
+    "imagen": "img/Electrolic/electrolicfresakiwi.jpg",
+    "permitemitad": false
+  },
+  {
+    "marca": "Electrolic",
+    "subcategoria": "suero",
+    "nombre": "Electrolic Fresa 620ml x1",
+    "precio": 7300,
+    "imagen": "img/Electrolic/electrolicfresa.jpg",
+    "permitemitad": false
+  },
+   {
+    "marca": "Electrolic",
+    "subcategoria": "suero",
+    "nombre": "Electrolic Mora azul 620ml x1",
+    "precio": 7300,
+    "imagen": "img/Electrolic/electrolicmoraazul.jpg",
+    "permitemitad": false
+  },
+    {
+    "marca": "Electrolic",
+    "subcategoria": "suero",
+    "nombre": "Electrolic Uva620ml x1",
+    "precio": 7300,
+    "imagen": "img/Electrolic/electrolicuva.jpg",
+    "permitemitad": false
+  },
+   {
+    "marca": "suerox",
+    "subcategoria": "suero",
+    "nombre": "Suerox 630 sicpack surtidoa",
+    "precio": 27000,
+    "imagen": "img/suerox/sueroxsixck.jpg",
     "permitemitad": false
   }
 ]

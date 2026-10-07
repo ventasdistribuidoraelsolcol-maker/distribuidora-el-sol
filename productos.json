@@ -940,7 +940,7 @@
   {
     "marca": "postobon",
     "nombre": "botellon de agua cristal 5gl x1u",
-    "precio": 13800,
+    "precio": 15000,
     "imagen": "img/postobon/botelloncristal5g.jpg",
     "permitemitad": false
   },
@@ -1339,14 +1339,14 @@
   {
     "marca": "beer",
     "nombre": "poker vidrio 330cm x30u",
-    "precio": 69000,
+    "precio": 70000,
     "imagen": "img/beer/pokerbot.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "aguila vidrio 330cm x30u",
-    "precio": 69000,
+    "precio": 70000,
     "imagen": "img/beer/aguilabot.jpg",
     "permitemitad": false
   },
@@ -1360,14 +1360,14 @@
   {
     "marca": "beer",
     "nombre": "aguila lata 330cm x24u",
-    "precio": 67000,
+    "precio": 68000,
     "imagen": "img/beer/aguilal.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "poker lata 330cm x24u",
-    "precio": 65000,
+    "precio": 66000,
     "imagen": "img/beer/pokerl.jpg",
     "permitemitad": false
   },
@@ -1381,21 +1381,21 @@
   {
     "marca": "beer",
     "nombre": "aguila light lata 330cm x24u",
-    "precio": 67000,
+    "precio": 69000,
     "imagen": "img/beer/lightcerlata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "costeña bacana vidrio 320cm x30u",
-    "precio": 58500,
+    "precio": 60000,
     "imagen": "img/beer/costeñabot.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "costeña banaca lata 330cm x24u",
-    "precio": 59000,
+    "precio": 60000,
     "imagen": "img/beer/costeñaverdel.jpg",
     "permitemitad": false
   },
@@ -1409,7 +1409,7 @@
   {
     "marca": "beer",
     "nombre": "costeña gris vidrio 330cm x30u",
-    "precio": 48000,
+    "precio": 49000,
     "imagen": "img/beer/costeña330bot.jpg",
     "permitemitad": false
   },
@@ -1444,35 +1444,35 @@
   {
     "marca": "beer",
     "nombre": "club colombia dorada lata 330cm x24u",
-    "precio": 69000,
+    "precio": 70000,
     "imagen": "img/beer/clubdoralata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia negra lata 330cm x24u",
-    "precio": 69000,
+    "precio": 70000,
     "imagen": "img/beer/clubnegralata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "club colombia roja lata 330cm x24u",
-    "precio": 69000,
+    "precio": 70000,
     "imagen": "img/beer/clubrojalata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "budweiser caja botella no retor 250cm x24u",
-    "precio": 56000,
+    "precio": 57000,
     "imagen": "img/beer/budwebot.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "budweiser lata 269cm x24u",
-    "precio": 56000,
+    "precio": 57000,
     "imagen": "img/beer/budweiserl.jpg",
     "permitemitad": false
   },
@@ -1486,14 +1486,14 @@
   {
     "marca": "beer",
     "nombre": "coronita lata 269cm x24u",
-    "precio": 67000,
+    "precio": 69000,
     "imagen": "img/beer/coronitalata.jpg",
     "permitemitad": false
   },
   {
     "marca": "beer",
     "nombre": "corona bot no retornable 330cm x24u",
-    "precio": 84000,
+    "precio": 85000,
     "imagen": "img/beer/corona.jpg",
     "permitemitad": false
   },
@@ -1668,7 +1668,7 @@
   {
     "marca": "ponymalta",
     "nombre": "pony malta vidrio 330cm x30u",
-    "precio": 61000,
+    "precio": 62000,
     "imagen": "img/ponymalta/ponybote.jpg",
     "permitemitad": false
   },
@@ -1703,7 +1703,7 @@
   {
     "marca": "ponymalta",
     "nombre": "cola y pola vidrio 330cm x30u",
-    "precio": 56000,
+    "precio": 60000,
     "imagen": "img/ponymalta/colabot.jpg",
     "permitemitad": false
   },

@@ -1,299 +1,606 @@
-marca;nombre;precio;imagen;permitemitad
-coca-cola;coca cola vidrio 237ml x30u;36000;img/coca-cola/coca237ml.jpg;true
-coca-cola;coca cola vidrio 350ml x30u;61000;img/coca-cola/coca350ml.jpg;true
-coca-cola;coca cola lata 330ml x12u;38000;img/coca-cola/cocalata330.jpg;false
-coca-cola;coca cola pet 250ml x12u;19200;img/coca-cola/cocaminipet.jpg;false
-coca-cola;coca cola pet 400ml x12u;30000;img/coca-cola/coca400ml.jpg;false
-coca-cola;coca cola pet 600ml x15u;50000;img/coca-cola/coca600ml.jpg;false
-coca-cola;coca cola pet 1ltr x12u;44000;img/coca-cola/cocalitropet.jpg;false
-coca-cola;coca cola vidrio 1ltr x12u;36000;img/coca-cola/cocalitrovidrio.jpg;false
-coca-cola;coca cola pet 1.5ltr x12u;63500;img/coca-cola/coca1.5litros.jpg;true
-coca-cola;coca cola pet 2.5ltr x8u;53000;img/coca-cola/coca2.5litros.jpg;true
-coca-cola;coca cola retornable 2ltr x9u;45000;img/coca-cola/cocaretornable2litros.jpg;false
-coca-cola;coca cola pet 3ltr x6u;55000;img/coca-cola/coca3litros.jpg;false
-coca-cola;coca cola sin azucar vid 237ml x30u;36000;img/coca-cola/coca237mlzero.jpg;true
-coca-cola;coca cola sin azucar vid 350ml x30u;61000;img/coca-cola/coca350mlzero.jpg;true
-coca-cola;coca cola sin azucar pet 250ml x12u;15000;img/coca-cola/cocaminipetzero.jpg;false
-coca-cola;coca cola sin azucar pet 400ml x12u;28000;img/coca-cola/coca400mlzero.jpg;false
-coca-cola;coca cola sin azucar pet 1.5ltr x12u;64000;img/coca-cola/coca1.365litroszero.jpg;true
-coca-cola;schweppes soda pet 400ml x12u;25000;img/coca-cola/soda400ml.jpg;false
-coca-cola;schweppes soda pet 1.5ltrs x12u;44000;img/coca-cola/soda1.5.jpg;false
-coca-cola;schweppes ginger pet 400ml x12u;25000;img/coca-cola/ginger400ml.jpg;false
-coca-cola;schweppes ginger pet 1.5ltrs x12u;49000;img/coca-cola/ginger1.5.jpg;false
-coca-cola;quatro vidrio 237ml x30u;36000;img/coca-cola/quatro237ml.jpg;true
-coca-cola;quatro vidrio 350ml x30u;60000;img/coca-cola/quatro350ml.jpg;true
-coca-cola;quatro pet 250ml x12u;15000;img/coca-cola/quatrominipet.jpg;false
-coca-cola;quatro pet 400ml x12u;25000;img/coca-cola/quatro400ml.jpg;true
-coca-cola;quatro pet 1.5lts x12u;44000;img/coca-cola/quatro1.5.jpg;true
-coca-cola;quatro 2.5ltrs x8u;40000;img/coca-cola/quatro2.5.jpg;true
-coca-cola;quatro pet 3lts x6u;39000;img/coca-cola/quatro3ltr.jpg;false
-coca-cola;sprite vidrio 237ml x30u;36000;img/coca-cola/sprite237ml.jpg;true
-coca-cola;sprite vidrio 350ml x30u;60000;img/coca-cola/sprite350ml.jpg;true
-coca-cola;sprite pet 250ml x12u;15000;img/coca-cola/sprite250ml.jpg;false
-coca-cola;sprite pet 400ml x12u;25000;img/coca-cola/sprite400ml.jpg;true
-coca-cola;sprite pet 1.5lts x12u;44000;img/coca-cola/sprite1.5.jpg;true
-coca-cola;sprite pet 3lts x6u;39000;img/coca-cola/sprite3ltr.jpg;false
-coca-cola;kola roman pet 250ml x12u;15000;img/coca-cola/kola250.jpg;false
-coca-cola;kola roman pet 400ml x12u;25000;img/coca-cola/kola400.jpg;true
-coca-cola;kola roman pet 1.5ltrs x12u;45000;img/coca-cola/kola1.5ltr.jpg;true
-coca-cola;agua brisa limon 280ml x24u;28900;img/coca-cola/brisalimon280.jpg;true
-coca-cola;agua brisa manzana 280ml x24u;28900;img/coca-cola/brisamanzana280.jpg;true
-coca-cola;agua brisa maracuya 280ml x24u;28900;img/coca-cola/brisamaracuya280.jpg;true
-coca-cola;agua brisa gas 600 mlx24u;32000;img/coca-cola/brisagas600.jpg;true
-coca-cola;agua brisa natural 600 mlx24u;31000;img/coca-cola/brisanatural600.jpg;true
-coca-cola;agua brisa limon 600ml x6u;13000;img/coca-cola/brisalimon600.jpg;false
-coca-cola;agua brisa manzana 600ml x6u;13000;img/coca-cola/brisamanzana600.jpg;false
-coca-cola;agua brisa maracuya 600ml x6u;13000;img/coca-cola/brisamaracuya600.jpg;false
-coca-cola;agua brisa natural litro x6u;13000;img/coca-cola/brisanatural1ltr.jpg;false
-coca-cola;agua brisa manzana 1.5ltrs x12u;40000;img/coca-cola/brisamanzana1.5.jpg;true
-coca-cola;agua brisa maracuya 1.5ltrs x12u;40000;img/coca-cola/brisamaracuya1.5.jpg;true
-coca-cola;valle fresh caja 188ml x24u;24000;img/coca-cola/vallefresh188.jpg;true
-coca-cola;valle fresh pet 400ml x12u;19000;img/coca-cola/vallefresh400.jpg;false
-coca-cola;valle fresh 1.5lts x12u;44000;img/coca-cola/vallenaran1.5.jpg;true
-coca-cola;valle mandarina 1.5lts x12u;44000;img/coca-cola/vallemand1.5.jpg;true
-coca-cola;valle fresh pet 2.5lts x6u;39000;img/coca-cola/valle2.5.jpg;true
-coca-cola;valle frutal caja surtido 188ml x24u;30000;img/coca-cola/vallefrutal188.jpg;false
-coca-cola;valle frutal mora 500ml x6u;15500;img/coca-cola/frutalmora500.jpg;false
-coca-cola;valle frutal mango 500ml x6u;15500;img/coca-cola/frutalmango500.jpg;false
-coca-cola;monster lata mangoloco 473ml x1u;8200;img/coca-cola/monsterloco.jpg;false
-coca-cola;monster lata green 473ml x1u;8200;img/coca-cola/monstergreen.jpg;false
-coca-cola;monster lata blue 473ml x1u;8200;img/coca-cola/monsterblue.jpg;false
-coca-cola;monster lata ultra 473ml x1u;8200;img/coca-cola/monsterultra.jpg;false
-coca-cola;monster lata violet 473ml x1u;8200;img/coca-cola/monsterviolet.jpg;false
-coca-cola;powerade azul 500ml x6u;18000;img/coca-cola/powerazul.jpg;false
-coca-cola;powerade rojo 500ml x6u;18000;img/coca-cola/powerrojo.jpg;false
-coca-cola;fuzte durazno 400ml x6u;17500;img/coca-cola/fuztedurazno.jpg;false
-coca-cola;fuzte limon 400ml x6u;17500;img/coca-cola/fuztelimon.jpg;false
-coca-cola;fuzte mango 400ml x6u;17500;img/coca-cola/fuztemango.jpg;false
-coca-cola;fuzte manzana 400ml x6u;17500;img/coca-cola/fuztemanzana.jpg;false
-postobon;breta�a vidrio 350ml x30u;56000;img/postobon/breta�a350.jpg;true
-postobon;breta�a vidrio sixpack 330ml;13000;img/postobon/breta�a300.jpg;false
-postobon;breta�a 1.5 x12u;43000;img/postobon/breta�a1.5.jpg;true
-postobon;gsa vidrio surtida 250ml x30u;30000;img/postobon/minibotellagsa.jpg;false
-postobon;gsa vidrio manzana 250ml x30u;30000;img/postobon/vidriomanzana250.jpg;true
-postobon;gsa vidrio colombiana 250ml x30u;30000;img/postobon/vidriocolombiana250.jpg;true
-postobon;gsa vidrio pepsi 250ml x30u;30000;img/postobon/vidriopepsi250.jpg;true
-postobon;gsa vidrio zup 250ml x30u;30000;img/postobon/vidriozup250,jpg.png;true
-postobon;gsa vidrio uva 250ml x30u;30000;img/postobon/vidriouva250.jpg;true
-postobon;gsa vidrio naranja 250ml x30u;30000;img/postobon/vidrionaranja250.jpg;true
-postobon;gsa vidrio surtida 350ml x30u;50000;img/postobon/vidriosurtida350.jpg;false
-postobon;gsa vidrio manzana 350ml x30u;50000;img/postobon/vidriomanzana350.jpg;true
-postobon;gsa vidrio colombiana 350ml x30u;50000;img/postobon/vidriocolom350.jpg;true
-postobon;gsa vidrio pepsi 350ml x30u;56000;img/postobon/pepsi350.jpg;true
-postobon;gsa vidrio zup 350ml x30u;50000;img/postobon/zup350.jpg;true
-postobon;gsa vidrio naranja 350ml x30u;50000;img/postobon/naranja350.jpg;true
-postobon;gsa vidrio uva 350ml x30u;50000;img/postobon/vidriouva350.jpg;true
-postobon;pet manzana 250ml x12u;15000;img/postobon/minipetmanza.jpg;true
-postobon;pet colombiana 250ml x12u;15000;img/postobon/minipetcolom.jpg;true
-postobon;pet uva 250ml x12u;15000;img/postobon/minipetuva.jpg;true
-postobon;pet naranja 250ml x12u;15000;img/postobon/minipetnaranja.jpg;true
-postobon;pet colombiana zero 250ml x12u;10000;img/postobon/minipetcolomzero.jpg;true
-postobon;pet manzana zero 250ml x12u;10000;img/postobon/minipetmanzzero.jpg;true
-postobon;pet pepsi zero 250ml x12u;10000;img/postobon/minipetpepsizero.jpg;true
-postobon;pet surtida 400ml x15u;30000;img/postobon/postb400sur.jpg;false
-postobon;pet manzana 400ml x15u;30000;img/postobon/fleximanzana400.jpg;false
-postobon;pet colombiana 400ml x15u;30000;img/postobon/colom400.jpg;false
-postobon;pet uva 400ml x15u;30000;img/postobon/flexiuva400.jpg;false
-postobon;pet zup 400ml x15u;30000;img/postobon/zup400.jpg;false
-postobon;pet naranja 400ml x15u;30000;img/postobon/naranja400.jpg;false
-postobon;pet pepsi 400ml x15u;30000;img/postobon/pepsi400.jpg;false
-postobon;pet canadry 400ml x15u;30000;img/postobon/canadry400.jpg;false
-postobon;econolitro uva x12u;34000;img/postobon/econouva.jpg;true
-postobon;econolitro manzana x12u;34000;img/postobon/economanza.jpg;true
-postobon;econolitro colombiana x12u;34000;img/postobon/econocolom.jpg;true
-postobon;econolitro naranja x12u;34000;img/postobon/econonaranja.jpg;true
-postobon;econolitro zup x12u;34000;img/postobon/econozup.jpg;true
-postobon;econolitro pepsi x12u;34000;img/postobon/econopepsi.jpg;true
-postobon;pepsi 1.5ltrs x12u;43000;img/postobon/pepsi1.5.jpg;true
-postobon;manzana 1.5ltrs x12u;43000;img/postobon/manzana1.5.jpg;true
-postobon;colombiana 1.5ltrs x12u;43000;img/postobon/colombiana1.5 (2).jpg;true
-postobon;uva 1.5ltrs x12u;43000;img/postobon/uva1.5.jpg;true
-postobon;naranja 1.5ltrs x12u;43000;img/postobon/naranja1.5.jpg;true
-postobon;zup 1.5ltrs x12u;43000;img/postobon/zup1.5.jpg;true
-postobon;canada dry 1.5ltrs x12u;49000;img/postobon/canadry1.5.jpg;true
-postobon;colombiana 2.5 ltrs x8u;39000;img/postobon/colombiana2.5.jpg;true
-postobon;manzana 2.5 ltrs x8u;39000;img/postobon/manzana2.5.jpg;true
-postobon;pepsi 2.5 ltrs x8u;39000;img/postobon/pepsi2.5.jpg;true
-postobon;uva 2.5 ltrs x8u;39000;img/postobon/uva2.5.jpg;true
-postobon;zup 2.5 ltrs x8u;39000;img/postobon/zup2.5.jpg;true
-postobon;manzana 3ltrs x6u;35000;img/postobon/manzana3ltr.jpg;false
-postobon;colombiana 3ltrs x6u;35000;img/postobon/colombiana3ltr.jpg;false
-postobon;h2o surtida pet 600ml x15u;32500;img/postobon/h2o600sur.jpg;false
-postobon;h2o lima-limon 600ml x15u;32500;img/postobon/h2o600l.jpg;false
-postobon;h2o limonata 600ml x15u;32500;img/postobon/h2o600lm.jpg;false
-postobon;h2o maracuya 600ml x15u;32500;img/postobon/h2o600m.jpg;false
-postobon;h2o lima-limon 1.5ltrs x12u;40000;img/postobon/h201.5l.jpg;true
-postobon;h2o limonata 1.5ltrs x12u;40000;img/postobon/h201.5ma.jpg;true
-postobon;mr tee limon 500ml x12u;27000;img/postobon/mrteelimon500.jpg;true
-postobon;mr tee durazno 500ml x12u;27000;img/postobon/mrteedurazno500.jpg;true
-postobon;agua cristal pet 300ml x24u;14000;img/postobon/cristal300.jpg;false
-postobon;agua cristal gas pet 250ml x12u;9000;img/postobon/cristalgas250.jpg;false
-postobon;agua cristal 600ml x24u;31000;img/postobon/cristal600.jpg;true
-postobon;agua cristal gas 600ml x24u;35000;img/postobon/cristalgas600.jpg;true
-postobon;agua cristal chupo 1ltrs x12u;23500;img/postobon/cristalchupo.jpg;false
-postobon;agua cristal 1ltrs x12u;20000;img/postobon/cristallitro.jpg;false
-postobon;agua cristal bolsa 6ltrs x4u;15000;img/postobon/bolsaaguacristal.jpg;false
-postobon;botellon de agua cristal 5gl x1u;13800;img/postobon/botelloncristal5g.jpg;false
-postobon;hit vidrio surtido 237ml x30u;36000;img/postobon/hit250sur.jpg;false
-postobon;hit vidrio mango 237ml x30u;36000;img/postobon/vidriohit250m.jpg;true
-postobon;hit vidrio mora 237ml x30u;36000;img/postobon/hit250moravidrio.jpg;true
-postobon;hit vidrio lulo 237ml x30u;36000;img/postobon/vidriohit250lulo.jpg;true
-postobon;hit vidrio tropical 237ml x30u;36000;img/postobon/hit250tropi.jpg;true
-postobon;hit vidrio naranja pi�a 237ml x30u;36000;img/postobon/vidriohitp.jpg;true
-postobon;hit vidrio surtido 350ml x30u;56000;img/postobon/350hitsur.jpg;false
-postobon;hit vidrio mango 350ml x30u;56000;img/postobon/hit350m.jpg;true
-postobon;hit vidrio tropical 350ml x30u;56000;img/postobon/hit350t.jpg;true
-postobon;hit vidrio lulo 350ml x30u;56000;img/postobon/hit350l.jpg;true
-postobon;hit vidrio naranja pi�a 350ml x30u;56000;img/postobon/hit350p.jpg;true
-postobon;hit vidrio mora 350ml x30u;56000;img/postobon/hit350mora.jpg;true
-postobon;hit lonchera caja surtido 200ml x24u;26000;img/postobon/hitlonchera.jpg;false
-postobon;hit pet mango 300ml x12u;20000;img/postobon/hit300m.jpg;true
-postobon;hit pet tropical 300ml x12u;20000;img/postobon/hit300t.jpg;true
-postobon;hit pet lulo 300ml x12u;20000;img/postobon/hit300l.jpg;true
-postobon;hit pet mora 300ml x12u;20000;img/postobon/hit300mora.jpg;true
-postobon;hit pet naranja pi�a 300ml x12u;20000;img/postobon/hit300pi.jpg;true
-postobon;hit pet mango 500ml x12u;29000;img/postobon/hitmango500.jpg;true
-postobon;hit pet mora 500ml x12u;29000;img/postobon/hit500mora.jpg;true
-postobon;hit pet lulo 500ml x12u;29000;img/postobon/hit500lulo.jpg;true
-postobon;hit pet tropical 500ml x12u;29000;img/postobon/hit500t.jpg;true
-postobon;hit pet naranja pi�a 500ml x12u;29000;img/postobon/hit500p.jpg;true
-postobon;hit caja naranja pi�a 1ltrs x12u;44800;img/postobon/hitcajalitrop.jpg;true
-postobon;hit caja mora 1ltrs x12u;44800;img/postobon/hitcajalitromo.jpg;true
-postobon;hit caja lulo 1ltrs x12u;44800;img/postobon/hitcajalitrol.jpg;true
-postobon;hit caja tropical 1ltrs x12u;44800;img/postobon/hitcajalitrot.jpg;true
-postobon;hit caja mango 1ltrs x12u;44800;img/postobon/hitcajalitrom.jpg;true
-postobon;hit pet naranja pi�a 1ltr x12u;44800;img/postobon/hitpetlitropi�a.jpg;true
-postobon;hit pet mora 1ltr x12u;39000;img/postobon/hitpetlitrom.jpg;true
-postobon;hit pet lulo 1ltr x12u;39000;img/postobon/hitpetlitrolu.jpg;true
-postobon;hit pet tropical 1ltr x12u;39000;img/postobon/hitpetlitrotro.jpg;true
-postobon;hit pet mango 1ltr x12u;39000;img/postobon/hitpetlitromang.jpg;true
-postobon;hit pet surtido 1.5ltr x12u;24000;img/postobon/hitsurtido1.5.jpg;false
-postobon;hit pet naranja pi�a 1.5ltrs x6u;24000;img/postobon/hit1.5p.jpg;false
-postobon;hit pet mora 1.5ltrs x6u;24000;img/postobon/hit1.5mora.jpg;false
-postobon;hit pet mango 1.5ltrs x6u;24000;img/postobon/hit1.5man.jpg;false
-postobon;hit pet tropical 1.5ltrs x6u;24000;img/postobon/hit1.5tropi.jpg;false
-postobon;gatorade tropical 500ml x12u;38000;img/postobon/gatorojo.jpg;true
-postobon;gatorade maracuya 500ml x12u;38000;img/postobon/gatorademara.jpg;true
-postobon;gatorade manzarina 500ml x12u;38000;img/postobon/gatomand.jpg;true
-postobon;gatorade blu 500ml x12u;38000;img/postobon/gatoazul.jpg;true
-postobon;speed pet 250ml x12u;15000;img/postobon/speedbot.jpg;false
-postobon;speed lata 310ml x24u;39000;img/postobon/speedlata.jpg;true
-beer;andina vidrio 330cm x30u;62000;img/beer/andinacer.jpg;false
-beer;andina light vidrio 330cm x30u;60000;img/beer/andinalight.jpg;false
-beer;andina light lata 310cm x24u;47000;img/beer/andinalightlata.jpg;false
-beer;andina latota 473ml x12u;29000;img/beer/andina473.jpg;false
-beer;andina lata 310cm x24u;48000;img/beer/andina310lata.jpg;false
-beer;heineken lata 310ml x24u;57000;img/beer/heinekenl.jpg;false
-beer;heineken botella 250ml x24u pet;57000;img/beer/heinekenbot.jpg;false
-beer;cerveza central 330cm x24u;38000;img/beer/central.jpg;false
-beer;cerveza kaufmann 330cm x24u;35000;img/beer/kouff.jpg;false
-beer;poker vidrio 330cm x30u;69000;img/beer/pokerbot.jpg;false
-beer;aguila vidrio 330cm x30u;69000;img/beer/aguilabot.jpg;false
-beer;poker vidrio 1 ltrs x13u;63000;img/beer/pokerlitro.jpg;false
-beer;aguila lata 330cm x24u;66000;img/beer/aguilal.jpg;false
-beer;poker lata 330cm x24u;65000;img/beer/pokerl.jpg;false
-beer;aguila light vidrio 330cm x30u;71000;img/beer/lightcerv.jpg;false
-beer;aguila light lata 330cm x24u;67000;img/beer/lightcerlata.jpg;false
-beer;coste�a bacana vidrio 320cm x30u;58000;img/beer/coste�abot.jpg;false
-beer;coste�a banaca lata 330cm x24u;59000;img/beer/coste�averdel.jpg;false
-beer;coste�a gris vidrio 750ml x16u;47000;img/beer/coste�a750.jpg;false
-beer;coste�a gris vidrio 330cm x30u;48000;img/beer/coste�a330bot.jpg;false
-beer;coste�a original lata 330cm x24u;46000;img/beer/coste�agrislata.jpg;false
-beer;club colombia dorada vidrio 330cm x30u;89000;img/beer/clubdorabot.jpg;false
-beer;club colombia roja vidrio 330cm x30u;89000;img/beer/clubroja.jpg;false
-beer;club colombia negra vidrio 330cm x30u;89000;img/beer/clubnegra.jpg;false
-beer;club colombia dorada lata 330cm x24u;68000;img/beer/clubdoralata.jpg;false
-beer;club colombia negra lata 330cm x24u;68000;img/beer/clubnegralata.jpg;false
-beer;club colombia roja lata 330cm x24u;68000;img/beer/clubrojalata.jpg;false
-beer;budweiser caja botella no retor 250cm x24u;55000;img/beer/budwebot.jpg;false
-beer;budweiser lata 269cm x24u;55000;img/beer/budweiserl.jpg;false
-beer;coronita bot no retornable 210cm x24u;70000;img/beer/coronita.jpg;false
-beer;coronita lata 269cm x24u;67000;img/beer/coronitalata.jpg;false
-beer;corona bot no retornable 330cm x24u;84000;img/beer/corona.jpg;false
-beer;stella artois bot no retornable 330cm x24u;85000;img/beer/stellabot.jpg;false
-beer;redds lata 269 x24u;69000;img/beer/redslata.jpg;false
-bigcola;big cola pet negra 400ml x12u;15500;img/bigcola/big400negra.jpg;true
-bigcola;big cola pet pi�a 400ml x12u;15500;img/bigcola/big400pi�a.jpg;true
-bigcola;big cola pet manzana 400ml x12u;15500;img/bigcola/big400manz.jpg;true
-bigcola;big cola pet festival 400ml x12u;15500;img/bigcola/big400festival.jpg;true
-bigcola;big cola pet limon 400ml x12u;15500;img/bigcola/biglimon400.jpg;true
-bigcola;big cola pet naranja 400ml x12u;15500;img/bigcola/bignaran400.jpg;true
-bigcola;big cola pet negra 1.75 ltrs x8u;24000;img/bigcola/bignegra1.75.jpg;false
-bigcola;cifrut pet granadilla 250ml x15u;13000;img/bigcola/cifrutgran250.jpg;false
-bigcola;cifrut pet naranja 250ml x15u;13000;img/bigcola/cifrutna250.jpg;false
-bigcola;cifrut pet mora 250ml x15u;13000;img/bigcola/cifrutmora250.jpg;false
-bigcola;cifrut pet granadilla 400ml x12u;14500;img/bigcola/cifrut400fran.jpg;true
-bigcola;cifrut pet naranja 400ml x12u;14500;img/bigcola/cifrut400nar.jpg;true
-bigcola;cifrut pet mora 400ml x12u;14500;img/bigcola/cifrut400mora.jpg;true
-bigcola;cifrut pet mora 1.75 ltrs x8u;24000;img/bigcola/cifrut1.7.jpg;true
-bigcola;cifrut petgranadilla 1.75 ltrs x8u;24000;img/bigcola/cifrutgran1.7.jpg;true
-bigcola;cifrut pet naranja 1.75 ltrs x8u;24000;img/bigcola/cifrutnara1.7.jpg;true
-bigcola;sporade pet blue 500ml x12u;25000;img/bigcola/sporadeazul.jpg;true
-bigcola;sporade pet mandarina 500ml x12u;25000;img/bigcola/sporademand.jpg;true
-bigcola;sporade pet maracuya 500ml x12u;25000;img/bigcola/sporademarac.jpg;true
-bigcola;sporade pet tropical 500ml x12u;25000;img/bigcola/sporaderojo.jpg;true
-bigcola;agua cielo natural pet 600ml x24u;24000;img/bigcola/cielo600ml.jpg;true
-bigcola;agua cielo natural pet chupo 1 ltrs x12u;22000;img/bigcola/cielochupo.jpg;false
-ponymalta;pony malta vidrio 330cm x30u;61000;img/ponymalta/ponybote.jpg;false
-ponymalta;pony malta pet 200cm x30u;45000;img/ponymalta/ponylonc.jpg;true
-ponymalta;pony malta pet 330cm x24u;56000;img/ponymalta/pony330.jpg;true
-ponymalta;pony malta pet 1ltrs x15u;56000;img/ponymalta/ponylitro.jpg;false
-ponymalta;pony malta pet 1.5ltrs x6u;35000;img/ponymalta/pony1.5.jpg;false
-ponymalta;cola y pola vidrio 330cm x30u;56000;img/ponymalta/colabot.jpg;false
-ponymalta;cola y pola lata 330cm x24u;46000;img/ponymalta/colalata.jpg;true
-ponymalta;cola pola 1.5ltrs x6u;29000;img/ponymalta/cola1.5.jpg;false
-cigarillos;rothmans azul x10;128000;img/cigarrillos/rothmans-azul.jpg;true
-cigarillos;rothmans blanco x10;101000;img/cigarrillos/rothmansblanco.jpg;true
-cigarillos;rothmans gris x10;128000;img/cigarrillos/rothmans-gris.jpg;true
-cigarillos;lucky rojo x10;147000;img/cigarrillos/luckyrojo.jpg;true
-cigarillos;lucky strike blanco x10;147000;img/cigarrillos/luckyblanco.jpg;true
-cigarillos;lucky alaska x10;147000;img/cigarrillos/luckyalaska.jpg;true
-cigarillos;malboro rojo x10;141000;img/cigarrillos/malbororojo.jpg;true
-cigarillos;malboro gold x10;117000;img/cigarrillos/malborogold.jpg;true
-cigarillos;malboro fusion x10;144000;img/cigarrillos/malborofusion.jpg;true
-cigarillos;malboro sandia x10;144000;img/cigarrillos/malborosandia.jpg;true
-cigarillos;malboro verde azul x10;115000;img/cigarrillos/malbveraz.jpg;true
-cigarillos;malboro rosado x10;115000;img/cigarrillos/malbrosa.jpg;true
-cigarillos;l & m azul selection x10;84000;img/cigarrillos/lymselec.jpg;true
-cigarillos;l & m blanco x10;101000;img/cigarrillos/lymblanco.jpg;true
-cigarillos;l & m purple evo x10;93000;img/cigarrillos/lymmora.jpg;true
-cigarillos;l & m sandia x10;93000;img/cigarrillos/lymsandia.jpg;true
-quala;vive 100 sixpack 240ml;11000;img/quala/vive100240.jpg;false
-quala;vive 100 verde sixpack 380ml;13000;img/quala/vive100380verde.jpg;false
-quala;vive 100 rojo sixpack 380ml;13000;img/quala/vive100rojo.jpg;false
-quala;vive 100 blue sixpack 380ml;13000;img/quala/vive100azul.jpg;false
-quala;vive 100 blanco sixpack 380ml;13000;img/quala/vive100blanco.380.jpg;false
-quala;spartalata dorado 310ml x6u;11000;img/quala/spartalador.jpg;false
-quala;spartalata blue 310ml x6u;11000;img/quala/spartalataazul.jpg;false
-quala;saviloe sixpack 320ml;13000;img/quala/saviloe320.jpg;false
-quala;saviloe sixpack 420ml;16000;img/quala/saviloe420.jpg;false
-quala;amper mango x6;16000;img/quala/ampermangp.jpg;false
-quala;amper blue x6u;16000;img/quala/amperblue.jpg;false
-quala;amper blanco x6u;16000;img/quala/amperblanco.jpg;false
-quala;amper negro x6u;16000;img/quala/ampernegro.jpg;false
-quala;hidralyte maracuya;3500;img/quala/hidramara.jpg;false
-quala;hidralyte blue;3500;img/quala/hidrablue.jpg;false
-quala;hidralyte kiwi;3500;img/quala/hidrakiwi.jpg;false
-superricas;papas super ricas pollo 30g x12u;22800;img/superricas/polsu30g.jpg;true
-superricas;papas super ricas natural 30g x12u;22800;img/superricas/suprnat30g.jpg;true
-superricas;papas super ricas picante 30g x12u;22800;img/superricas/supepic30g.jpg;true
-superricas;papas super ricas limon 30g x12u;22800;img/superricas/suplimonpa30g.jpg;true
-superricas;papas super ricas bbq 30g x12u;22800;img/superricas/supbbq30g.jpg;true
-superricas;papas super ricas pollo 105g;5900;img/superricas/suppoll105.jpg;false
-superricas;todo rico bbq 45g x8u;18700;img/superricas/todobbq45g.jpg;false
-superricas;todo rico natural 45g x8u;18700;img/superricas/todonar45g.jpg;false
-superricas;todo rico criollo-aji 45g x8u;18700;img/superricas/crioaji45g.jpg;false
-superricas;todo rico criollo 45g x8u;18700;img/superricas/crioto45g.jpg;false
-superricas;todo rico bbq 150g;6500;img/superricas/todonat150g.jpg;false
-superricas;todo rico natural 150g;6500;img/superricas/todorbbq150g.jpg;false
-superricas;chirricos picantes 45g x6u;9600;img/superricas/chirrpic.jpg;false
-superricas;chirricos naturales 45g x6u;9600;img/superricas/chirnat45.jpg;false
-superricas;platanos maduros 38g x6u;10800;img/superricas/taja38g.jpg;false
-superricas;platanos verdes 38g x6u;10800;img/superricas/tajaver38g.jpg;false
-superricas;fosforitos 35g x6u;10200;img/superricas/fosfo35g.jpg;false
-superricas;fosforitos 160g;6500;img/superricas/fosfor160gr.jpg;false
-superricas;chicharron crujiente bbq 10g x6u;8400;img/superricas/chichbbq.jpg;false
-superricas;chicharron crujiente natural 10g x6u;8400;img/superricas/chichan10g.jpg;false
-superricas;chicharron crujiente bbq 50g x1u;4700;img/superricas/chicha50gbbq.jpg;false
-superricas;chicharron crujiente natural 50g x1u;4700;img/superricas/chicna50g.jpg;false
-superricas;riquillas x12u;19200;img/superricas/rosquillas-jpg.jpg;false
+﻿"marca,""subcategoria"",""nombre"",""precio"",""imagen"",""permitemitad"",""disponible"""
+"coca-cola,"""",""coca cola vidrio 237ml x30u"",""36000"",""img/coca-cola/coca237ml.jpg"",""True"","""""
+"coca-cola,"""",""coca cola vidrio 350ml x30u"",""61000"",""img/coca-cola/coca350ml.jpg"",""True"","""""
+"coca-cola,"""",""coca cola lata 330ml x12u"",""38000"",""img/coca-cola/cocalata330.jpg"",""False"","""""
+"coca-cola,"""",""coca cola pet 250ml x12u"",""20000"",""img/coca-cola/cocaminipet.jpg"",""False"","""""
+"coca-cola,"""",""coca cola pet 400ml x12u"",""30000"",""img/coca-cola/coca400ml.jpg"",""False"","""""
+"coca-cola,"""",""coca cola pet 600ml x15u"",""50000"",""img/coca-cola/coca600ml.jpg"",""False"","""""
+"coca-cola,"""",""coca cola pet 1ltr x12u"",""49000"",""img/coca-cola/cocalitropet.jpg"",""False"","""""
+"coca-cola,"""",""coca cola vidrio 1ltr x12u"",""36000"",""img/coca-cola/cocalitrovidrio.jpg"",""False"","""""
+"coca-cola,"""",""coca cola pet 1.5ltr x12u"",""65000"",""img/coca-cola/coca1.5litros.jpg"",""True"","""""
+"coca-cola,"""",""coca cola pet 2.5ltr x8u"",""60000"",""img/coca-cola/coca2.5litros.jpg"",""True"","""""
+"coca-cola,"""",""coca cola retornable 2ltr x9u"",""47000"",""img/coca-cola/cocaretornable2litros.jpg"",""False"","""""
+"coca-cola,"""",""coca cola pet 3ltr x6u"",""55000"",""img/coca-cola/coca3litros.jpg"",""False"","""""
+"coca-cola,"""",""coca cola sin azucar vid 237ml x30u"",""36000"",""img/coca-cola/coca237mlzero.jpg"",""True"","""""
+"coca-cola,"""",""coca cola sin azucar vid 350ml x30u"",""61000"",""img/coca-cola/coca350mlzero.jpg"",""True"","""""
+"coca-cola,"""",""coca cola sin azucar pet 250ml x12u"",""15000"",""img/coca-cola/cocaminipetzero.jpg"",""False"","""""
+"coca-cola,"""",""coca cola sin azucar pet 400ml x12u"",""28500"",""img/coca-cola/coca400mlzero.jpg"",""False"","""""
+"coca-cola,"""",""coca cola sin azucar pet 1.5ltr x12u"",""65000"",""img/coca-cola/coca1.365litroszero.jpg"",""True"","""""
+"coca-cola,"""",""schweppes soda pet 400ml x12u"",""25000"",""img/coca-cola/soda400ml.jpg"",""False"","""""
+"coca-cola,"""",""schweppes soda pet 1.5ltrs x12u"",""44000"",""img/coca-cola/soda1.5.jpg"",""False"","""""
+"coca-cola,"""",""schweppes ginger pet 400ml x12u"",""25000"",""img/coca-cola/ginger400ml.jpg"",""False"","""""
+"coca-cola,"""",""schweppes ginger pet 1.5ltrs x12u"",""49000"",""img/coca-cola/ginger1.5.jpg"",""False"","""""
+"coca-cola,"""",""quatro vidrio 237ml x30u"",""36000"",""img/coca-cola/quatro237ml.jpg"",""True"","""""
+"coca-cola,"""",""quatro vidrio 350ml x30u"",""61000"",""img/coca-cola/quatro350ml.jpg"",""True"","""""
+"coca-cola,"""",""quatro pet 250ml x12u"",""15000"",""img/coca-cola/quatrominipet.jpg"",""False"",""False"""
+"coca-cola,"""",""quatro pet 400ml x12u"",""25000"",""img/coca-cola/quatro400ml.jpg"",""True"","""""
+"coca-cola,"""",""quatro pet 1.5lts x12u"",""49000"",""img/coca-cola/quatro1.5.jpg"",""True"","""""
+"coca-cola,"""",""quatro 2.5ltrs x8u"",""40000"",""img/coca-cola/quatro2.5.jpg"",""True"","""""
+"coca-cola,"""",""quatro pet 3lts x6u"",""42000"",""img/coca-cola/quatro3ltr.jpg"",""False"","""""
+"coca-cola,"""",""sprite vidrio 237ml x30u"",""36000"",""img/coca-cola/sprite237ml.jpg"",""True"","""""
+"coca-cola,"""",""sprite vidrio 350ml x30u"",""61000"",""img/coca-cola/sprite350ml.jpg"",""True"","""""
+"coca-cola,"""",""sprite pet 400ml x12u"",""25000"",""img/coca-cola/sprite400ml.jpg"",""True"","""""
+"coca-cola,"""",""sprite pet 1.5lts x12u"",""49000"",""img/coca-cola/sprite1.5.jpg"",""True"","""""
+"coca-cola,"""",""sprite pet 3lts x6u"",""42000"",""img/coca-cola/sprite3ltr.jpg"",""False"","""""
+"coca-cola,"""",""kola roman pet 250ml x12u"",""15000"",""img/coca-cola/kola250.jpg"",""False"",""False"""
+"coca-cola,"""",""kola roman pet 400ml x12u"",""25000"",""img/coca-cola/kola400.jpg"",""True"","""""
+"coca-cola,"""",""kola roman pet 1.5ltrs x12u"",""49000"",""img/coca-cola/kola1.5ltr.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa limon 280ml x24u"",""28900"",""img/coca-cola/brisalimon280.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa manzana 280ml x24u"",""28900"",""img/coca-cola/brisamanzana280.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa maracuya 280ml x24u"",""28900"",""img/coca-cola/brisamaracuya280.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa gas 600 mlx24u"",""33000"",""img/coca-cola/brisagas600.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa natural 600 mlx24u"",""33000"",""img/coca-cola/brisanatural600.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa limon 600ml x6u"",""13000"",""img/coca-cola/brisalimon600.jpg"",""False"","""""
+"coca-cola,"""",""agua brisa manzana 600ml x6u"",""13000"",""img/coca-cola/brisamanzana600.jpg"",""False"","""""
+"coca-cola,"""",""agua brisa maracuya 600ml x6u"",""13000"",""img/coca-cola/brisamaracuya600.jpg"",""False"","""""
+"coca-cola,"""",""agua brisa natural litro x6u"",""12500"",""img/coca-cola/brisanatural1ltr.jpg"",""False"","""""
+"coca-cola,"""",""agua brisa manzana 1.5ltrs x12u"",""40000"",""img/coca-cola/brisamanzana1.5.jpg"",""True"","""""
+"coca-cola,"""",""agua brisa maracuya 1.5ltrs x12u"",""40000"",""img/coca-cola/brisamaracuya1.5.jpg"",""True"","""""
+"coca-cola,"""",""valle fresh caja 188ml x24u"",""30000"",""img/coca-cola/vallefresh188.jpg"",""True"","""""
+"coca-cola,"""",""valle fresh pet 400ml x12u"",""21000"",""img/coca-cola/vallefresh400.jpg"",""False"","""""
+"coca-cola,"""",""valle fresh 1.5lts x12u"",""49000"",""img/coca-cola/vallenaran1.5.jpg"",""True"","""""
+"coca-cola,"""",""valle mandarina 1.5lts x12u"",""49000"",""img/coca-cola/vallemand1.5.jpg"",""True"","""""
+"coca-cola,"""",""valle fresh pet 2.5lts x6u"",""43400"",""img/coca-cola/valle2.5.jpg"",""True"",""False"""
+"coca-cola,"""",""valle frutal caja surtido 188ml x24u"",""30000"",""img/coca-cola/vallefrutal188.jpg"",""False"","""""
+"coca-cola,"""",""valle frutal mora 500ml x6u"",""15500"",""img/coca-cola/frutalmora500.jpg"",""False"","""""
+"coca-cola,"""",""valle frutal mango 500ml x6u"",""15500"",""img/coca-cola/frutalmango500.jpg"",""False"","""""
+"coca-cola,"""",""monster lata mangoloco 473ml x1u"",""8000"",""img/coca-cola/monsterloco.jpg"",""False"","""""
+"coca-cola,"""",""monster lata green 473ml x1u"",""8000"",""img/coca-cola/monstergreen.jpg"",""False"","""""
+"coca-cola,"""",""monster lata blue 473ml x1u"",""8000"",""img/coca-cola/monsterblue.jpg"",""False"","""""
+"coca-cola,"""",""monster lata ultra 473ml x1u"",""8000"",""img/coca-cola/monsterultra.jpg"",""False"","""""
+"coca-cola,"""",""monster lata violet 473ml x1u"",""8000"",""img/coca-cola/monsterviolet.jpg"",""False"","""""
+"coca-cola,"""",""powerade azul 500ml x6u"",""18000"",""img/coca-cola/powerazul.jpg"",""False"","""""
+"coca-cola,"""",""powerade rojo 500ml x6u"",""18000"",""img/coca-cola/powerrojo.jpg"",""False"","""""
+"coca-cola,"""",""fuzte durazno 400ml x6u"",""17400"",""img/coca-cola/fuztedurazno.jpg"",""False"","""""
+"coca-cola,"""",""fuzte limon 400ml x6u"",""17400"",""img/coca-cola/fuztelimon.jpg"",""False"","""""
+"coca-cola,"""",""fuzte mango 400ml x6u"",""17400"",""img/coca-cola/fuztemango.jpg"",""False"","""""
+"coca-cola,"""",""fuzte manzana 400ml x6u"",""17400"",""img/coca-cola/fuztemanzana.jpg"",""False"","""""
+"postobon,"""",""bretaña vidrio 350ml x30u"",""56500"",""img/postobon/bretaña350.jpg"",""True"","""""
+"postobon,"""",""bretaña vidrio sixpack 330ml"",""13000"",""img/postobon/bretaña300.jpg"",""False"","""""
+"postobon,"""",""bretaña 1.5 x12u"",""43500"",""img/postobon/bretaña1.5.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio surtida 250ml x30u"",""30000"",""img/postobon/minibotellagsa.jpg"",""False"","""""
+"postobon,"""",""gsa vidrio manzana 250ml x30u"",""30000"",""img/postobon/vidriomanzana250.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio colombiana 250ml x30u"",""30000"",""img/postobon/vidriocolombiana250.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio pepsi 250ml x30u"",""30000"",""img/postobon/vidriopepsi250.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio zup 250ml x30u"",""30000"",""img/postobon/vidriozup250,jpg.png"",""True"","""""
+"postobon,"""",""gsa vidrio uva 250ml x30u"",""30000"",""img/postobon/vidriouva250.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio naranja 250ml x30u"",""30000"",""img/postobon/vidrionaranja250.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio surtida 350ml x30u"",""50000"",""img/postobon/vidriosurtida350.jpg"",""False"","""""
+"postobon,"""",""gsa vidrio manzana 350ml x30u"",""50000"",""img/postobon/vidriomanzana350.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio colombiana 350ml x30u"",""50000"",""img/postobon/vidriocolom350.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio pepsi 350ml x30u"",""56500"",""img/postobon/pepsi350.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio zup 350ml x30u"",""50000"",""img/postobon/zup350.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio naranja 350ml x30u"",""50000"",""img/postobon/naranja350.jpg"",""True"","""""
+"postobon,"""",""gsa vidrio uva 350ml x30u"",""50000"",""img/postobon/vidriouva350.jpg"",""True"","""""
+"postobon,"""",""pet manzana 250ml x12u"",""16000"",""img/postobon/minipetmanza.jpg"",""True"","""""
+"postobon,"""",""pet colombiana 250ml x12u"",""16000"",""img/postobon/minipetcolom.jpg"",""True"","""""
+"postobon,"""",""pet uva 250ml x12u"",""16000"",""img/postobon/minipetuva.jpg"",""True"","""""
+"postobon,"""",""pet naranja 250ml x12u"",""16000"",""img/postobon/minipetnaranja.jpg"",""True"","""""
+"postobon,"""",""pet surtida 400ml x15u"",""30000"",""img/postobon/postb400sur.jpg"",""False"","""""
+"postobon,"""",""pet manzana 400ml x15u"",""30000"",""img/postobon/fleximanzana400.jpg"",""False"","""""
+"postobon,"""",""pet colombiana 400ml x15u"",""30000"",""img/postobon/colom400.jpg"",""False"","""""
+"postobon,"""",""pet uva 400ml x15u"",""30000"",""img/postobon/flexiuva400.jpg"",""False"","""""
+"postobon,"""",""pet zup 400ml x15u"",""30000"",""img/postobon/zup400.jpg"",""False"","""""
+"postobon,"""",""pet naranja 400ml x15u"",""30000"",""img/postobon/naranja400.jpg"",""False"","""""
+"postobon,"""",""pet pepsi 400ml x15u"",""30000"",""img/postobon/pepsi400.jpg"",""False"","""""
+"postobon,"""",""pet canadry 400ml x15u"",""30000"",""img/postobon/canadry400.jpg"",""False"","""""
+"postobon,"""",""econolitro uva x12u"",""34000"",""img/postobon/econouva.jpg"",""True"","""""
+"postobon,"""",""econolitro manzana x12u"",""34000"",""img/postobon/economanza.jpg"",""True"","""""
+"postobon,"""",""econolitro colombiana x12u"",""34000"",""img/postobon/econocolom.jpg"",""True"","""""
+"postobon,"""",""econolitro naranja x12u"",""34000"",""img/postobon/econonaranja.jpg"",""True"","""""
+"postobon,"""",""econolitro zup x12u"",""34000"",""img/postobon/econozup.jpg"",""True"","""""
+"postobon,"""",""econolitro pepsi x12u"",""34000"",""img/postobon/econopepsi.jpg"",""True"","""""
+"postobon,"""",""pepsi 1.5ltrs x12u"",""43000"",""img/postobon/pepsi1.5.jpg"",""True"","""""
+"postobon,"""",""manzana 1.5ltrs x12u"",""43000"",""img/postobon/manzana1.5.jpg"",""True"","""""
+"postobon,"""",""colombiana 1.5ltrs x12u"",""43000"",""img/postobon/colombiana1.5 (2).jpg"",""True"","""""
+"postobon,"""",""uva 1.5ltrs x12u"",""43000"",""img/postobon/uva1.5.jpg"",""True"","""""
+"postobon,"""",""naranja 1.5ltrs x12u"",""43000"",""img/postobon/naranja1.5.jpg"",""True"","""""
+"postobon,"""",""zup 1.5ltrs x12u"",""43000"",""img/postobon/zup1.5.jpg"",""True"","""""
+"postobon,"""",""canada dry 1.5ltrs x12u"",""49000"",""img/postobon/canadry1.5.jpg"",""True"","""""
+"postobon,"""",""colombiana 2.5 ltrs x8u"",""39000"",""img/postobon/colombiana2.5.jpg"",""True"","""""
+"postobon,"""",""manzana 2.5 ltrs x8u"",""39000"",""img/postobon/manzana2.5.jpg"",""True"","""""
+"postobon,"""",""pepsi 2.5 ltrs x8u"",""39000"",""img/postobon/pepsi2.5.jpg"",""True"","""""
+"postobon,"""",""uva 2.5 ltrs x8u"",""39000"",""img/postobon/uva2.5.jpg"",""True"","""""
+"postobon,"""",""zup 2.5 ltrs x8u"",""39000"",""img/postobon/zup2.5.jpg"",""True"","""""
+"postobon,"""",""manzana 3ltrs x6u"",""35000"",""img/postobon/manzana3ltr.jpg"",""False"","""""
+"postobon,"""",""colombiana 3ltrs x6u"",""35000"",""img/postobon/colombiana3ltr.jpg"",""False"","""""
+"postobon,"""",""h2o surtida pet 600ml x15u"",""32500"",""img/postobon/h2osurtida600.jpg"",""False"","""""
+"postobon,"""",""h2o lima-limon 600ml x15u"",""32500"",""img/postobon/h2o600l.jpg"",""False"","""""
+"postobon,"""",""h2o limonata 600ml x15u"",""32500"",""img/postobon/h2o600lm.jpg"",""False"","""""
+"postobon,"""",""h2o maracuya 600ml x15u"",""32500"",""img/postobon/h2o600m.jpg"",""False"","""""
+"postobon,"""",""h2o lima-limon 1.5ltrs x12u"",""40000"",""img/postobon/h201.5l.jpg"",""True"","""""
+"postobon,"""",""h2o limonata 1.5ltrs x12u"",""40000"",""img/postobon/h201.5ma.jpg"",""True"","""""
+"postobon,"""",""mr tee limon 500ml x12u"",""27000"",""img/postobon/mrteelimon500.jpg"",""True"","""""
+"postobon,"""",""mr tee durazno 500ml x12u"",""27000"",""img/postobon/mrteedurazno500.jpg"",""True"","""""
+"postobon,"""",""agua cristal pet 300ml x24u"",""14000"",""img/postobon/cristal300.jpg"",""False"","""""
+"postobon,"""",""agua cristal gas pet 250ml x12u"",""9000"",""img/postobon/cristalgas250.jpg"",""False"","""""
+"postobon,"""",""agua cristal 600ml x24u"",""31000"",""img/postobon/cristal600.jpg"",""True"","""""
+"postobon,"""",""agua cristal gas 600ml x24u"",""35000"",""img/postobon/cristalgas600.jpg"",""True"","""""
+"postobon,"""",""agua cristal chupo 1ltrs x12u"",""23000"",""img/postobon/cristalchupo.jpg"",""False"","""""
+"postobon,"""",""agua cristal 1ltrs x12u"",""20000"",""img/postobon/cristallitro.jpg"",""False"","""""
+"postobon,"""",""agua cristal bolsa 6ltrs x4u"",""15500"",""img/postobon/bolsaaguacristal.jpg"",""False"","""""
+"postobon,"""",""botellon de agua cristal 5gl x1u"",""15500"",""img/postobon/botelloncristal5g.jpg"",""False"","""""
+"postobon,"""",""hit vidrio surtido 237ml x30u"",""36500"",""img/postobon/hit250sur.jpg"",""False"","""""
+"postobon,"""",""hit vidrio mango 237ml x30u"",""36500"",""img/postobon/vidriohit250m.jpg"",""True"","""""
+"postobon,"""",""hit vidrio mora 237ml x30u"",""36500"",""img/postobon/hit250moravidrio.jpg"",""True"","""""
+"postobon,"""",""hit vidrio lulo 237ml x30u"",""36500"",""img/postobon/vidriohit250lulo.jpg"",""True"","""""
+"postobon,"""",""hit vidrio tropical 237ml x30u"",""36500"",""img/postobon/hit250tropi.jpg"",""True"","""""
+"postobon,"""",""hit vidrio naranja piña 237ml x30u"",""36500"",""img/postobon/vidriohitp.jpg"",""True"","""""
+"postobon,"""",""hit vidrio surtido 350ml x30u"",""56500"",""img/postobon/350hitsur.jpg"",""False"","""""
+"postobon,"""",""hit vidrio mango 350ml x30u"",""56500"",""img/postobon/hit350m.jpg"",""True"","""""
+"postobon,"""",""hit vidrio tropical 350ml x30u"",""56500"",""img/postobon/hit350t.jpg"",""True"","""""
+"postobon,"""",""hit vidrio lulo 350ml x30u"",""56500"",""img/postobon/hit350l.jpg"",""True"","""""
+"postobon,"""",""hit vidrio naranja piña 350ml x30u"",""56500"",""img/postobon/hit350p.jpg"",""True"","""""
+"postobon,"""",""hit vidrio mora 350ml x30u"",""56500"",""img/postobon/hit350mora.jpg"",""True"","""""
+"postobon,"""",""hit lonchera caja surtido 200ml x24u"",""27000"",""img/postobon/hitlonchera.jpg"",""False"","""""
+"postobon,"""",""hit pet mango 300ml x12u"",""20000"",""img/postobon/hit300m.jpg"",""True"","""""
+"postobon,"""",""hit pet tropical 300ml x12u"",""20000"",""img/postobon/hit300t.jpg"",""True"","""""
+"postobon,"""",""hit pet lulo 300ml x12u"",""20000"",""img/postobon/hit300l.jpg"",""True"","""""
+"postobon,"""",""hit pet mora 300ml x12u"",""20000"",""img/postobon/hit300mora.jpg"",""True"","""""
+"postobon,"""",""hit pet naranja piña 300ml x12u"",""20000"",""img/postobon/hit300pi.jpg"",""True"","""""
+"postobon,"""",""hit pet mango 500ml x12u"",""29000"",""img/postobon/hitmango500.jpg"",""True"","""""
+"postobon,"""",""hit pet mora 500ml x12u"",""29000"",""img/postobon/hit500mora.jpg"",""True"","""""
+"postobon,"""",""hit pet lulo 500ml x12u"",""29000"",""img/postobon/hit500lulo.jpg"",""True"","""""
+"postobon,"""",""hit pet tropical 500ml x12u"",""29000"",""img/postobon/hit500t.jpg"",""True"","""""
+"postobon,"""",""hit pet naranja piña 500ml x12u"",""29000"",""img/postobon/hit500p.jpg"",""True"","""""
+"postobon,"""",""hit caja naranja piña 1ltrs x12u"",""44000"",""img/postobon/hitcajalitrop.jpg"",""True"","""""
+"postobon,"""",""hit caja mora 1ltrs x12u"",""44000"",""img/postobon/hitcajalitromo.jpg"",""True"","""""
+"postobon,"""",""hit caja lulo 1ltrs x12u"",""44000"",""img/postobon/hitcajalitrol.jpg"",""True"","""""
+"postobon,"""",""hit caja tropical 1ltrs x12u"",""44000"",""img/postobon/hitcajalitrot.jpg"",""True"","""""
+"postobon,"""",""hit caja mango 1ltrs x12u"",""44000"",""img/postobon/hitcajalitrom.jpg"",""True"","""""
+"postobon,"""",""hit pet naranja piña 1ltr x12u"",""39000"",""img/postobon/hitpetlitropiña.jpg"",""True"","""""
+"postobon,"""",""hit pet mora 1ltr x12u"",""39000"",""img/postobon/hitpetlitrom.jpg"",""True"","""""
+"postobon,"""",""hit pet lulo 1ltr x12u"",""39000"",""img/postobon/hitpetlitrolu.jpg"",""True"","""""
+"postobon,"""",""hit pet tropical 1ltr x12u"",""39000"",""img/postobon/hitpetlitrotro.jpg"",""True"","""""
+"postobon,"""",""hit pet mango 1ltr x12u"",""39000"",""img/postobon/hitpetlitromang.jpg"",""True"","""""
+"postobon,"""",""hit pet surtido 1.5ltr x12u"",""25000"",""img/postobon/hitsurtido1.5.jpg"",""False"","""""
+"postobon,"""",""hit pet naranja piña 1.5ltrs x6u"",""25000"",""img/postobon/hit1.5p.jpg"",""False"","""""
+"postobon,"""",""hit pet mora 1.5ltrs x6u"",""25000"",""img/postobon/hit1.5mora.jpg"",""False"","""""
+"postobon,"""",""hit pet mango 1.5ltrs x6u"",""25000"",""img/postobon/hit1.5man.jpg"",""False"","""""
+"postobon,"""",""hit pet tropical 1.5ltrs x6u"",""25000"",""img/postobon/hit1.5tropi.jpg"",""False"","""""
+"postobon,"""",""gatorade tropical 500ml x12u"",""38000"",""img/postobon/gatorojo.jpg"",""True"","""""
+"postobon,"""",""gatorade maracuya 500ml x12u"",""38000"",""img/postobon/gatorademara.jpg"",""True"","""""
+"postobon,"""",""gatorade manzarina 500ml x12u"",""38000"",""img/postobon/gatomand.jpg"",""True"","""""
+"postobon,"""",""gatorade blu 500ml x12u"",""38000"",""img/postobon/gatoazul.jpg"",""True"","""""
+"postobon,"""",""speed pet 250ml x12u"",""15000"",""img/postobon/speedbot.jpg"",""False"","""""
+"postobon,"""",""speed lata 310ml x24u"",""39000"",""img/postobon/speedlata.jpg"",""True"","""""
+"beer,"""",""andina vidrio 330cm x30u"",""59000"",""img/beer/andinacer.jpg"",""False"","""""
+"beer,"""",""andina light vidrio 330cm x30u"",""59000"",""img/beer/andinalight.jpg"",""False"","""""
+"beer,"""",""andina light lata 310cm x24u"",""48000"",""img/beer/andinalightlata.jpg"",""False"","""""
+"beer,"""",""andina latota 473ml x12u"",""29000"",""img/beer/andina473.jpg"",""False"","""""
+"beer,"""",""andina lata 310cm x24u"",""48000"",""img/beer/andina310lata.jpg"",""False"","""""
+"beer,"""",""heineken lata 269ml x24u"",""57000"",""img/beer/heinekenl.jpg"",""False"","""""
+"beer,"""",""heineken botella 250ml x24u pet"",""57000"",""img/beer/heinekenbot.jpg"",""False"","""""
+"beer,"""",""cerveza central 330cm x24u"",""38000"",""img/beer/central.jpg"",""False"","""""
+"beer,"""",""cerveza Mitica lata 310cm x24u"",""61000"",""img/beer/miticanatural310.jpg"",""False"","""""
+"beer,"""",""cerveza Mitica Botella x24u"",""61000"",""img/beer/miticabotella.jpg"",""False"","""""
+"beer,"""",""cerveza Mitica lata light 310cm x24u"",""61000"",""img/beer/miticaligera310.jpg"",""False"","""""
+"beer,"""",""cerveza kaufmann 330cm x24u"",""35000"",""img/beer/kouff.jpg"",""False"","""""
+"beer,"""",""poker vidrio 330cm x30u"",""70000"",""img/beer/pokerbot.jpg"",""False"","""""
+"beer,"""",""aguila vidrio 330cm x30u"",""70000"",""img/beer/aguilabot.jpg"",""False"","""""
+"beer,"""",""poker vidrio 1 ltrs x13u"",""63000"",""img/beer/pokerlitro.jpg"",""False"","""""
+"beer,"""",""aguila lata 330cm x24u"",""68000"",""img/beer/aguilal.jpg"",""False"","""""
+"beer,"""",""poker lata 330cm x24u"",""66000"",""img/beer/pokerl.jpg"",""False"","""""
+"beer,"""",""aguila light vidrio 330cm x30u"",""71000"",""img/beer/lightcerv.jpg"",""False"","""""
+"beer,"""",""aguila light lata 330cm x24u"",""69000"",""img/beer/lightcerlata.jpg"",""False"","""""
+"beer,"""",""costeña bacana vidrio 320cm x30u"",""60000"",""img/beer/costeñabot.jpg"",""False"","""""
+"beer,"""",""costeña banaca lata 330cm x24u"",""60000"",""img/beer/costeñaverdel.jpg"",""False"","""""
+"beer,"""",""costeña gris vidrio 750ml x16u"",""47000"",""img/beer/costeña750.jpg"",""False"","""""
+"beer,"""",""costeña gris vidrio 330cm x30u"",""49000"",""img/beer/costeña330bot.jpg"",""False"","""""
+"beer,"""",""costeña original lata 330cm x24u"",""46000"",""img/beer/costeñagrislata.jpg"",""False"","""""
+"beer,"""",""club colombia dorada vidrio 330cm x30u"",""89000"",""img/beer/clubdorabot.jpg"",""False"","""""
+"beer,"""",""club colombia roja vidrio 330cm x30u"",""89000"",""img/beer/clubroja.jpg"",""False"","""""
+"beer,"""",""club colombia negra vidrio 330cm x30u"",""89000"",""img/beer/clubnegra.jpg"",""False"","""""
+"beer,"""",""club colombia dorada lata 330cm x24u"",""70000"",""img/beer/clubdoralata.jpg"",""False"","""""
+"beer,"""",""club colombia negra lata 330cm x24u"",""70000"",""img/beer/clubnegralata.jpg"",""False"","""""
+"beer,"""",""club colombia roja lata 330cm x24u"",""70000"",""img/beer/clubrojalata.jpg"",""False"","""""
+"beer,"""",""budweiser caja botella no retor 250cm x24u"",""57000"",""img/beer/budwebot.jpg"",""False"","""""
+"beer,"""",""budweiser lata 269cm x24u"",""57000"",""img/beer/budweiserl.jpg"",""False"","""""
+"beer,"""",""coronita bot no retornable 210cm x24u"",""70000"",""img/beer/coronita.jpg"",""False"","""""
+"beer,"""",""coronita lata 269cm x24u"",""69000"",""img/beer/coronitalata.jpg"",""False"","""""
+"beer,"""",""corona bot no retornable 330cm x24u"",""85000"",""img/beer/corona.jpg"",""False"","""""
+"beer,"""",""stella artois bot no retornable 330cm x24u"",""85000"",""img/beer/stellabot.jpg"",""False"","""""
+"beer,"""",""redds lata 269 x24u"",""69000"",""img/beer/redslata.jpg"",""False"","""""
+"bigcola,"""",""big cola pet negra 400ml x12u"",""15500"",""img/bigcola/big400negra.jpg"",""True"","""""
+"bigcola,"""",""big cola pet piña 400ml x12u"",""15500"",""img/bigcola/big400piña.jpg"",""True"","""""
+"bigcola,"""",""big cola pet manzana 400ml x12u"",""15500"",""img/bigcola/big400manz.jpg"",""True"","""""
+"bigcola,"""",""big cola pet festival 400ml x12u"",""15500"",""img/bigcola/big400festival.jpg"",""True"","""""
+"bigcola,"""",""big cola pet limon 400ml x12u"",""15500"",""img/bigcola/biglimon400.jpg"",""True"","""""
+"bigcola,"""",""big cola pet naranja 400ml x12u"",""15500"",""img/bigcola/bignaran400.jpg"",""True"","""""
+"bigcola,"""",""big cola pet negra 1.75 ltrs x8u"",""24000"",""img/bigcola/bignegra1.75.jpg"",""False"","""""
+"bigcola,"""",""cifrut pet granadilla 250ml x15u"",""13000"",""img/bigcola/cifrutgran250.jpg"",""False"","""""
+"bigcola,"""",""cifrut pet naranja 250ml x15u"",""13000"",""img/bigcola/cifrutna250.jpg"",""False"","""""
+"bigcola,"""",""cifrut pet mora 250ml x15u"",""13000"",""img/bigcola/cifrutmora250.jpg"",""False"","""""
+"bigcola,"""",""cifrut pet granadilla 400ml x12u"",""14500"",""img/bigcola/cifrut400fran.jpg"",""True"","""""
+"bigcola,"""",""cifrut pet naranja 400ml x12u"",""14500"",""img/bigcola/cifrut400nar.jpg"",""True"","""""
+"bigcola,"""",""cifrut pet mora 400ml x12u"",""14500"",""img/bigcola/cifrut400mora.jpg"",""True"","""""
+"bigcola,"""",""cifrut pet mora 1.75 ltrs x8u"",""24000"",""img/bigcola/cifrut1.7.jpg"",""True"","""""
+"bigcola,"""",""cifrut petgranadilla 1.75 ltrs x8u"",""24000"",""img/bigcola/cifrutgran1.7.jpg"",""True"","""""
+"bigcola,"""",""cifrut pet naranja 1.75 ltrs x8u"",""24000"",""img/bigcola/cifrutnara1.7.jpg"",""True"","""""
+"bigcola,"""",""sporade pet blue 500ml x12u"",""25000"",""img/bigcola/sporadeazul.jpg"",""True"","""""
+"bigcola,"""",""sporade pet mandarina 500ml x12u"",""25000"",""img/bigcola/sporademand.jpg"",""True"","""""
+"bigcola,"""",""sporade pet maracuya 500ml x12u"",""25000"",""img/bigcola/sporademarac.jpg"",""True"","""""
+"bigcola,"""",""sporade pet tropical 500ml x12u"",""25000"",""img/bigcola/sporaderojo.jpg"",""True"","""""
+"bigcola,"""",""agua cielo natural pet 600ml x24u"",""25000"",""img/bigcola/cielo600ml.jpg"",""True"","""""
+"bigcola,"""",""agua cielo natural pet chupo 1 ltrs x12u"",""22000"",""img/bigcola/cielochupo.jpg"",""False"","""""
+"ponymalta,"""",""pony malta vidrio 330cm x30u"",""61000"",""img/ponymalta/ponybote.jpg"",""False"","""""
+"ponymalta,"""",""pony malta pet 200cm x30u"",""45000"",""img/ponymalta/ponylonc.jpg"",""True"","""""
+"ponymalta,"""",""pony malta pet 330cm x24u"",""56000"",""img/ponymalta/pony330.jpg"",""True"","""""
+"ponymalta,"""",""pony malta pet 1ltrs x15u"",""59000"",""img/ponymalta/ponylitro.jpg"",""False"","""""
+"ponymalta,"""",""pony malta pet 1.5ltrs x6u"",""35000"",""img/ponymalta/pony1.5.jpg"",""False"","""""
+"ponymalta,"""",""cola y pola vidrio 330cm x30u"",""60000"",""img/ponymalta/colabot.jpg"",""False"","""""
+"ponymalta,"""",""cola y pola lata 330cm x24u"",""48000"",""img/ponymalta/colalata.jpg"",""True"","""""
+"ponymalta,"""",""cola pola 1.5ltrs x6u"",""30000"",""img/ponymalta/cola1.5.jpg"",""False"","""""
+"cigarillos,"""",""rothmans azul x10"",""128000"",""img/cigarrillos/rothmans-azul.jpg"",""True"","""""
+"cigarillos,"""",""rothmans blanco x10"",""101000"",""img/cigarrillos/rothmansblanco.jpg"",""True"","""""
+"cigarillos,"""",""rothmans gris x10"",""128000"",""img/cigarrillos/rothmans-gris.jpg"",""True"","""""
+"cigarillos,"""",""lucky rojo x10"",""147000"",""img/cigarrillos/luckyrojo.jpg"",""True"","""""
+"cigarillos,"""",""lucky strike blanco x10"",""147000"",""img/cigarrillos/luckyblanco.jpg"",""True"","""""
+"cigarillos,"""",""lucky alaska x10"",""147000"",""img/cigarrillos/luckyalaska.jpg"",""True"","""""
+"cigarillos,"""",""malboro rojo x10"",""141000"",""img/cigarrillos/malbororojo.jpg"",""True"","""""
+"cigarillos,"""",""malboro gold x10"",""117000"",""img/cigarrillos/malborogold.jpg"",""True"","""""
+"cigarillos,"""",""malboro fusion x10"",""144000"",""img/cigarrillos/malborofusion.jpg"",""True"","""""
+"cigarillos,"""",""malboro sandia x10"",""144000"",""img/cigarrillos/malborosandia.jpg"",""True"","""""
+"cigarillos,"""",""malboro verde azul x10"",""115000"",""img/cigarrillos/malbveraz.jpg"",""True"","""""
+"cigarillos,"""",""malboro rosado x10"",""115000"",""img/cigarrillos/malbrosa.jpg"",""True"","""""
+"cigarillos,"""",""l & m azul selection x10"",""84000"",""img/cigarrillos/lymselec.jpg"",""True"","""""
+"cigarillos,"""",""l & m blanco x10"",""101000"",""img/cigarrillos/lymblanco.jpg"",""True"","""""
+"cigarillos,"""",""l & m purple evo x10"",""93000"",""img/cigarrillos/lymmora.jpg"",""True"","""""
+"cigarillos,"""",""l & m sandia x10"",""93000"",""img/cigarrillos/lymsandia.jpg"",""True"","""""
+"quala,"""",""vive 100 sixpack 240ml"",""11000"",""img/quala/vive100240.jpg"",""False"","""""
+"quala,"""",""vive 100 verde sixpack 380ml"",""13500"",""img/quala/vive100380verde.jpg"",""False"","""""
+"quala,"""",""vive 100 rojo sixpack 380ml"",""13500"",""img/quala/vive100rojo.jpg"",""False"","""""
+"quala,"""",""vive 100 blue sixpack 380ml"",""13500"",""img/quala/vive100azul.jpg"",""False"","""""
+"quala,"""",""vive 100 blanco sixpack 380ml"",""13500"",""img/quala/vive100blanco.380.jpg"",""False"","""""
+"quala,"""",""spartalata dorado 310ml x6u"",""11000"",""img/quala/spartalador.jpg"",""False"","""""
+"quala,"""",""spartalata blue 310ml x6u"",""11000"",""img/quala/spartalataazul.jpg"",""False"","""""
+"quala,"""",""saviloe sixpack 320ml"",""13500"",""img/quala/saviloe320.jpg"",""False"","""""
+"quala,"""",""saviloe sixpack 420ml"",""16500"",""img/quala/saviloe420.jpg"",""False"","""""
+"quala,"""",""amper mango x6"",""16000"",""img/quala/ampermangp.jpg"",""False"","""""
+"quala,"""",""amper blue x6u"",""16000"",""img/quala/amperblue.jpg"",""False"","""""
+"quala,"""",""amper blanco x6u"",""16000"",""img/quala/amperblanco.jpg"",""False"","""""
+"quala,"""",""amper negro x6u"",""16000"",""img/quala/ampernegro.jpg"",""False"","""""
+"quala,"""",""hidralyte maracuya"",""3500"",""img/quala/hidramara.jpg"",""False"","""""
+"quala,"""",""hidralyte blue"",""3500"",""img/quala/hidrablue.jpg"",""False"","""""
+"quala,"""",""hidralyte kiwi"",""3500"",""img/quala/hidrakiwi.jpg"",""False"","""""
+"superricas,"""",""papas super ricas pollo 30g x12u"",""24500"",""img/superricas/polsu30g.jpg"",""True"","""""
+"superricas,"""",""papas super ricas natural 30g x12u"",""24500"",""img/superricas/suprnat30g.jpg"",""True"","""""
+"superricas,"""",""papas super ricas picante 30g x12u"",""24500"",""img/superricas/supepic30g.jpg"",""True"","""""
+"superricas,"""",""papas super ricas limon 30g x12u"",""24500"",""img/superricas/suplimonpa30g.jpg"",""True"","""""
+"superricas,"""",""papas super ricas bbq 30g x12u"",""24500"",""img/superricas/supbbq30g.jpg"",""True"","""""
+"superricas,"""",""papas super ricas pollo 105g"",""5900"",""img/superricas/suppoll105.jpg"",""False"","""""
+"superricas,"""",""todo rico bbq 45g x8u"",""20700"",""img/superricas/todobbq45g.jpg"",""False"","""""
+"superricas,"""",""todo rico natural 45g x8u"",""20700"",""img/superricas/todonar45g.jpg"",""False"","""""
+"superricas,"""",""todo rico criollo-aji 45g x8u"",""20700"",""img/superricas/crioaji45g.jpg"",""False"","""""
+"superricas,"""",""todo rico criollo 45g x8u"",""20700"",""img/superricas/crioto45g.jpg"",""False"","""""
+"superricas,"""",""todo rico bbq 150g"",""6800"",""img/superricas/todonat150g.jpg"",""False"","""""
+"superricas,"""",""todo rico natural 150g"",""6800"",""img/superricas/todorbbq150g.jpg"",""False"","""""
+"superricas,"""",""chirricos picantes 45g x6u"",""10200"",""img/superricas/chirrpic.jpg"",""False"","""""
+"superricas,"""",""chirricos naturales 45g x6u"",""10200"",""img/superricas/chirnat45.jpg"",""False"","""""
+"superricas,"""",""platanos maduros 38g x6u"",""12000"",""img/superricas/taja38g.jpg"",""False"","""""
+"superricas,"""",""platanos verdes 38g x6u"",""12000"",""img/superricas/tajaver38g.jpg"",""False"","""""
+"superricas,"""",""fosforitos 35g x6u"",""10800"",""img/superricas/fosfo35g.jpg"",""False"","""""
+"superricas,"""",""fosforitos 160g"",""6800"",""img/superricas/fosfor160gr.jpg"",""False"","""""
+"superricas,"""",""chicharron crujiente bbq 10g x6u"",""9000"",""img/superricas/chichbbq.jpg"",""False"","""""
+"superricas,"""",""chicharron crujiente natural 10g x6u"",""9000"",""img/superricas/chichan10g.jpg"",""False"","""""
+"superricas,"""",""chicharron crujiente bbq 50g x1u"",""4900"",""img/superricas/chicha50gbbq.jpg"",""False"","""""
+"superricas,"""",""chicharron crujiente natural 50g x1u"",""4900"",""img/superricas/chicna50g.jpg"",""False"","""""
+"superricas,"""",""riquillas x12u"",""19200"",""img/superricas/rosquillas-jpg.jpg"",""False"","""""
+"licores,""cuatesandlike"",""los cuates mango 269ml"",""4500"",""img/licores/cuateandlike/cuatesmango1.jpg"",""False"","""""
+"licores,""cuatesandlike"",""los cuates limon 269ml"",""4500"",""img/licores/cuateandlike/cuateslimon269.jpg"",""False"","""""
+"licores,""cuatesandlike"",""los cuates fresa 269ml"",""4500"",""img/licores/cuateandlike/cuatesfresa269.jpg"",""False"","""""
+"licores,""cuatesandlike"",""los cuates mango 473ml"",""7200"",""img/licores/cuateandlike/cuates473.jpg"",""False"","""""
+"licores,""cuatesandlike"",""like mango 300ml x6u"",""4500"",""img/licores/cuateandlike/likemango.jpg"",""False"","""""
+"licores,""cuatesandlike"",""like manzana 300ml x6u"",""4500"",""img/licores/cuateandlike/likemanzana.jpg"",""False"","""""
+"licores,""cuatesandlike"",""like limon 300ml x6u"",""4500"",""img/licores/cuateandlike/likelimon.jpg"",""False"","""""
+"licores,""cuatesandlike"",""like blue 300ml x6u"",""4500"",""img/licores/cuateandlike/likeblue.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde 250ml"",""13500"",""img/licores/nectar/nectarv250.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde 375ml"",""22000"",""img/licores/nectar/nectarv375.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde 500ml"",""28000"",""img/licores/nectar/nectarv500.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde 750ml"",""42000"",""img/licores/nectar/nectarv750.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde 1ltrs"",""52000"",""img/licores/nectar/nectarv1l.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde caja 1500 ltrs"",""73000"",""img/licores/nectar/nectarv1500.jpg"",""False"","""""
+"licores,""nectar"",""nectar verde garrafa 2000ltrs"",""103000"",""img/licores/nectar/nectarv20.jpg"",""False"","""""
+"licores,""nectar"",""nectar rojo 250ml"",""13500"",""img/licores/nectar/nectarr250.jpg"",""False"","""""
+"licores,""nectar"",""nectar rojo 375ml"",""22000"",""img/licores/nectar/nectarr375.jpg"",""False"","""""
+"licores,""nectar"",""nectar rojo 750ml"",""42000"",""img/licores/nectar/nectarr750.jpg"",""False"","""""
+"licores,""nectar"",""nectar rojo caja 1 ltrs"",""52000"",""img/licores/nectar/netarr1l.jpg"",""False"","""""
+"licores,""nectar"",""nectar rojo garrafa 2000ltrs"",""103000"",""img/licores/nectar/nectarr20.jpg"",""False"","""""
+"licores,""nectar"",""nectar azul 250ml"",""16000"",""img/licores/nectar/nectaraz250.jpg"",""False"","""""
+"licores,""nectar"",""nectar azul 375ml"",""26000"",""img/licores/nectar/nectaraz375.jpg"",""False"","""""
+"licores,""nectar"",""nectar azul 750ml"",""46000"",""img/licores/nectar/nectarazu750.jpg"",""False"","""""
+"licores,""nectar"",""nectar azul caja 1 ltrs"",""58000"",""img/licores/nectar/nectaraz1l.jpg"",""False"","""""
+"licores,""nectar"",""nectar sugar 375ml"",""24000"",""img/licores/nectar/nectarsugar375.jpg"",""False"","""""
+"licores,""nectar"",""nectar sugar 750ml"",""45000"",""img/licores/nectar/nectarsugar750.jpg"",""False"","""""
+"licores,""nectar"",""nectar sugar caja 1ltrs"",""57000"",""img/licores/nectar/nectarsugar1l.jpg"",""False"","""""
+"licores,""nectar"",""nectar premiun 750ml"",""75000"",""img/licores/nectar/nectarpre750.jpg"",""False"","""""
+"licores,""nectar"",""nectar dorado 375ml"",""26000"",""img/licores/nectar/nectarama375.jpg"",""False"","""""
+"licores,""nectar"",""nectar dorado 750ml"",""50000"",""img/licores/nectar/nectarama750.jpg"",""False"","""""
+"licores,""nectar"",""ron santafe 4 años 250ml"",""14000"",""img/licores/nectar/ronsan250.jpg"",""False"","""""
+"licores,""nectar"",""ron santafe 4 años 375ml"",""25000"",""img/licores/nectar/ronsan4375.jpg"",""False"","""""
+"licores,""nectar"",""ron santafe 4 a{os 750ml"",""43000"",""img/licores/nectar/ronsan4750.jpg"",""False"","""""
+"licores,""nectar"",""ron santafe 4 años caja 1 ltrs"",""52000"",""img/licores/nectar/ronsan41l.jpg"",""False"","""""
+"licores,""nectar"",""ron santafe 6 años 750ml"",""55000"",""img/licores/nectar/ronsant6.jpg"",""False"","""""
+"licores,""nectar"",""ron santafe 8 años 750ml"",""62000"",""img/licores/nectar/ronsant8.jpg"",""False"","""""
+"licores,""nectar"",""ron licor viejo de caldas 375ml"",""21000"",""img/licores/nectar/ronli375.jpg"",""False"","""""
+"licores,""nectar"",""ron licor viejo de caldas 750ml"",""39000"",""img/licores/nectar/ronlv750.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas roble blanco 750ml"",""40000"",""img/licores/nectar/roble750.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas tradicional 250ml"",""17000"",""img/licores/nectar/ronvi250.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas tradicional 375ml"",""27000"",""img/licores/nectar/ronvie375.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas tradicional 750ml"",""52000"",""img/licores/nectar/rontra750.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas oscuro 750ml"",""43000"",""img/licores/nectar/ronoscu750.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas tradicional caja 1 ltrs"",""56000"",""img/licores/nectar/ronv1l.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas 5 años juan de la cruz 375ml"",""30000"",""img/licores/nectar/juanron375.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas 5 años juan de la cruz 750ml"",""56000"",""img/licores/nectar/juancr750.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas 8 años carta de oro 375ml"",""47000"",""img/licores/nectar/juancron375.jpg"",""False"","""""
+"licores,""nectar"",""ron viejo de caldas 8 años carta de oro 750ml"",""92000"",""img/licores/nectar/roncarta750.jpg"",""False"","""""
+"licores,""nectar"",""cheers crema de ron viejo de caldas 700ml"",""60000"",""img/licores/nectar/cheer750.jpg"",""False"","""""
+"licores,""nectar"",""vino chileno leyenda merlot 750ml"",""26000"",""img/licores/nectar/merlot750.jpg"",""False"","""""
+"licores,""nectar"",""vino chileno leyenda carmenere 750ml"",""26000"",""img/licores/nectar/cerleye750.jpg"",""False"","""""
+"licores,""nectar"",""vino chileno leyenda carmenere sauvignon 750ml"",""26000"",""img/licores/nectar/caberley750.jpg"",""False"","""""
+"licores,""nectar"",""vino chileno leyenda sauvignon blanc 750ml"",""26000"",""img/licores/nectar/vinoleyeblanc750.jpg"",""False"","""""
+"licores,""nectar"",""vino canan moscatel manzana 750ml"",""14000"",""img/licores/nectar/cananman750.jpg"",""False"","""""
+"licores,""nectar"",""vino canan moscatel durazno 750ml"",""14000"",""img/licores/nectar/canandura.jpg"",""False"","""""
+"licores,""nectar"",""vino canan moscatel uva 750ml"",""14000"",""img/licores/nectar/cananuva.jpg"",""False"","""""
+"licores,""nectar"",""aguardiente amarillo 375ml"",""27000"",""img/licores/nectar/amar375.jpg"",""False"","""""
+"licores,""nectar"",""aguardiente amarillo 750ml"",""49000"",""img/licores/nectar/amarillo750.jpg"",""False"","""""
+"licores,""nectar"",""aguardiente amarillo botella 1ltrs"",""62000"",""img/licores/nectar/amarlitrbot.jpg"",""False"","""""
+"licores,""nectar"",""aguardiente amarillo caja 1ltrs"",""62000"",""img/licores/nectar/amarillolicaja..jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño verde 250ml"",""13500"",""img/licores/antioqueño/cuartover.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño verde 375ml"",""24000"",""img/licores/antioqueño/antio375.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño verde 750ml"",""46000"",""img/licores/antioqueño/antver750.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño verde caja 1050 ltrs"",""56000"",""img/licores/antioqueño/antver105.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño rojo 250ml"",""18000"",""img/licores/antioqueño/cuarroj250.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño rojo 375ml"",""27000"",""img/licores/antioqueño/anti375rojo.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño rojo 750ml"",""50000"",""img/licores/antioqueño/antiorp750.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño rojo caja 1050 ltrs"",""60000"",""img/licores/antioqueño/antioro105.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño azul 250ml"",""19000"",""img/licores/antioqueño/cuaraz260.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño azul 375ml"",""28000"",""img/licores/antioqueño/antioaz375.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño azul 750ml"",""51000"",""img/licores/antioqueño/antaz750.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño azul caja 1050 ltrs"",""66000"",""img/licores/antioqueño/antioazul105.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño real 750ml"",""77000"",""img/licores/antioqueño/real750.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño real amarillo 375ml"",""27000"",""img/licores/antioqueño/real375ml.jpg"",""False"","""""
+"licores,""antioqueño"",""antioqueño real amarillo 750ml"",""49000"",""img/licores/antioqueño/realan750.jpg"",""False"","""""
+"licores,""antioqueño"",""ron medellin dorado 375ml"",""26000"",""img/licores/antioqueño/rondo375.jpg"",""False"","""""
+"licores,""antioqueño"",""ron medellin dorado 750ml"",""49000"",""img/licores/antioqueño/ronmedor750.jpg"",""False"","""""
+"licores,""antioqueño"",""ron medellin 3 años añejo 375ml"",""30000"",""img/licores/antioqueño/ronañ375.jpg"",""False"","""""
+"licores,""antioqueño"",""ron medellin 3 años añejo 750ml"",""53000"",""img/licores/antioqueño/med3aa750.jpg"",""False"","""""
+"licores,""antioqueño"",""ron medellin 8 años añejo 750ml"",""82000"",""img/licores/antioqueño/rona8a750.jpg"",""False"","""""
+"licores,""whisky"",""crema de whisky baileys 375ml"",""53000"",""img/licores/whisky/cremawba375.jpg"",""False"","""""
+"licores,""whisky"",""crema de whisky baileys 700ml"",""79000"",""img/licores/whisky/cremawba750.jpg"",""False"","""""
+"licores,""whisky"",""crema de whisky baileys 1000ml"",""102000"",""img/licores/whisky/cremawba1000.jpg"",""False"","""""
+"licores,""whisky"",""black and white 375ml"",""30000"",""img/licores/whisky/black375.jpg"",""False"","""""
+"licores,""whisky"",""black and white 700ml"",""54000"",""img/licores/whisky/black700.jpg"",""False"","""""
+"licores,""whisky"",""black and white 1ltrs"",""73000"",""img/licores/whisky/black1000.jpg"",""False"","""""
+"licores,""whisky"",""buchanans 12 años 375ml"",""89000"",""img/licores/whisky/bucha12a375.jpg"",""False"","""""
+"licores,""whisky"",""buchanans 12 años 750ml"",""152000"",""img/licores/whisky/bucha12a750.jpg"",""False"","""""
+"licores,""whisky"",""buchanans 12 años 1ltrs"",""193000"",""img/licores/whisky/bucha12a1000.jpg"",""False"","""""
+"licores,""whisky"",""buchanans master 750ml"",""177000"",""img/licores/whisky/buchamas750.jpg"",""False"","""""
+"licores,""whisky"",""buchanans master 1000ml"",""218000"",""img/licores/whisky/buchamas1000.jpg"",""False"","""""
+"licores,""whisky"",""buchanans two soul 750ml"",""184000"",""img/licores/whisky/buctwo750.jpg"",""False"","""""
+"licores,""whisky"",""chivas 12 años botella 700ml"",""128000"",""img/licores/whisky/chivas12700.jpg"",""False"","""""
+"licores,""whisky"",""chivas 13 años botella 700ml"",""148000"",""img/licores/whisky/chivas13700.jpg"",""False"","""""
+"licores,""whisky"",""johnnie walker red label botella 375ml"",""42000"",""img/licores/whisky/redla375.jpg"",""False"","""""
+"licores,""whisky"",""johnnie walker red label botella 700ml"",""66000"",""img/licores/whisky/redla700.jpg"",""False"","""""
+"licores,""whisky"",""something special 350ml"",""44000"",""img/licores/whisky/someth350.jpg"",""False"","""""
+"licores,""whisky"",""something special 750ml"",""66000"",""img/licores/whisky/someth750.jpg"",""False"","""""
+"licores,""whisky"",""something special 1000ml"",""85000"",""img/licores/whisky/someth1000.jpg"",""False"","""""
+"licores,""whisky"",""old pard 12 años 750ml"",""133000"",""img/licores/whisky/oldpa750.jpg"",""False"","""""
+"licores,""whisky"",""whisky grant s 700ml"",""61000"",""img/licores/whisky/grans760.jpg"",""False"","""""
+"licores,""whisky"",""whisky grant s 1000ml"",""81000"",""img/licores/whisky/grans1l.jpg"",""False"","""""
+"licores,""whisky"",""jack daniel jennnessee 375ml"",""63000"",""img/licores/whisky/jackdajen375.jpg"",""False"","""""
+"licores,""whisky"",""jack daniel jennnessee 700ml"",""115000"",""img/licores/whisky/jackjenn700.jpg"",""False"","""""
+"licores,""whisky"",""jack daniel fire 700ml"",""115000"",""img/licores/whisky/jackfire700.jpg"",""False"","""""
+"licores,""whisky"",""jack daniel honey 375ml"",""63000"",""img/licores/whisky/jackda375.jpg"",""False"","""""
+"licores,""whisky"",""jack daniel honey 700ml"",""115000"",""img/licores/whisky/jackmiel700.jpg"",""False"","""""
+"licores,""whisky"",""jack daniel apple 700ml"",""115000"",""img/licores/whisky/jackaple700.jpg"",""False"","""""
+"licores,""whisky"",""jagermeister 350ml"",""65000"",""img/licores/whisky/jager375.jpg"",""False"","""""
+"licores,""whisky"",""jagermeister 700ml"",""104000"",""img/licores/whisky/jager700.jpg"",""False"","""""
+"licores,""whisky"",""jose cuervo 375ml"",""53000"",""img/licores/whisky/tequilajocu375.jpg"",""False"","""""
+"licores,""whisky"",""jose cuervo 750ml"",""82000"",""img/licores/whisky/josecu750.jpg"",""False"","""""
+"licores,""vodka"",""smirnoff lulo 375ml"",""25000"",""img/licores/vodka/smirnlul375.jpg"",""False"","""""
+"licores,""vodka"",""smirnoff tamarindo 375ml"",""25000"",""img/licores/vodka/smirtam375.jpg"",""False"","""""
+"licores,""vodka"",""smirnoff lulo 700ml"",""45000"",""img/licores/vodka/smirnlul750.jpg"",""False"","""""
+"licores,""vodka"",""smirnoff tamarindo 700ml"",""45000"",""img/licores/vodka/smirta750.jpg"",""False"","""""
+"licores,""vodka"",""smirnoff manzana 275ml"",""6400"",""img/licores/vodka/smirman275.jpg"",""False"","""""
+"licores,""vodka"",""smirnoff ice 275ml"",""6400"",""img/licores/vodka/smiic275.jpg"",""False"","""""
+"licores,""vodka"",""bacardi limon 700ml"",""48000"",""img/licores/vodka/bacarli375.jpg"",""False"","""""
+"licores,""vodka"",""bacardi mojito 700ml"",""48000"",""img/licores/vodka/bacarmoj375.jpg"",""False"","""""
+"licores,""vinos"",""vino sanson 750ml"",""26000"",""img/licores/vinos/vinosa750.jpg"",""False"","""""
+"licores,""vinos"",""vino cariñoso manzana 750ml"",""18000"",""img/licores/vinos/cariñmanza.jpg"",""False"","""""
+"licores,""vinos"",""vino cariñoso durazno 750ml"",""18000"",""img/licores/vinos/cariñduras.jpg"",""False"","""""
+"licores,""vinos"",""champaña candiota blanca 750ml"",""13500"",""img/licores/vinos/candcha.jpg"",""False"","""""
+"licores,""four loko"",""four loko blue 473ml"",""15500"",""img/licores/fourloko/fourblue473.jpg"",""False"","""""
+"licores,""four loko"",""four loko gold 473ml"",""15500"",""img/licores/fourloko/fourgold473.jpg"",""False"","""""
+"licores,""four loko"",""four loko ponche 473ml"",""15500"",""img/licores/fourloko/fourponche473.jpg"",""False"","""""
+"licores,""four loko"",""four loko sandia 473ml"",""15500"",""img/licores/fourloko/foursandia473.jpg"",""False"","""""
+"licores,""four loko"",""four loko green 473ml"",""15500"",""img/licores/fourloko/fourfreen473.jpg"",""False"","""""
+"licores,""four loko"",""four loko lulo 473ml"",""15500"",""img/licores/fourloko/fourlulo473.jpg"",""False"","""""
+"licores,""four loko"",""four loko mora 473ml"",""15500"",""img/licores/fourloko/fourmora473.jpg"",""False"","""""
+"dulces,""aldor"",""frunas masticable bolsa x26u"",""9900"",""img/dulces/aldor/frunasmas.jpg"",""False"","""""
+"dulces,""aldor"",""frunas rellenas masticables x26u"",""8000"",""img/dulces/aldor/frunasmast.jpg"",""False"","""""
+"dulces,""aldor"",""galletas glacitas toffe x6u"",""6200"",""img/dulces/aldor/glactoffe.jpg"",""False"","""""
+"dulces,""aldor"",""galletas glacitas chocolate x6u"",""6200"",""img/dulces/aldor/glacichoco.jpg"",""False"","""""
+"dulces,""aldor"",""galletas glacitas fresa x6u"",""6200"",""img/dulces/aldor/glacifresa.jpg"",""False"","""""
+"dulces,""aldor"",""galletas glacitas limon x6u"",""6200"",""img/dulces/aldor/glaclimon.jpg"",""False"","""""
+"dulces,""aldor"",""galletas glacitas choconieve x6u"",""6200"",""img/dulces/aldor/glacichoconieve.jpg"",""False"","""""
+"dulces,""aldor"",""galleta miniglacita toffe 49gr x12u"",""23200"",""img/dulces/aldor/miniglatoffe.jpg"",""False"","""""
+"dulces,""aldor"",""galleta miniglacita chocolate 49gr x12u"",""23200"",""img/dulces/aldor/miniglachoco.jpg"",""False"","""""
+"dulces,""aldor"",""galleta muu leche x18u"",""5400"",""img/dulces/aldor/muuleche.jpg"",""False"","""""
+"dulces,""aldor"",""almendra italo 135gr x1u"",""7300"",""img/dulces/aldor/almen235g.jpg"",""False"","""""
+"dulces,""aldor"",""almendra italo 50gr x1u"",""2900"",""img/dulces/aldor/almeita50.jpg"",""False"","""""
+"dulces,""aldor"",""brownie mama mia arequipe 70gr x1u"",""2700"",""img/dulces/aldor/mamamia.jpg"",""False"","""""
+"dulces,""aldor"",""mechas locas x6u"",""19800"",""img/dulces/aldor/mechaslocas.jpg"",""False"","""""
+"dulces,""aldor"",""moritas bolsa x100u"",""7300"",""img/dulces/aldor/moritasbol.jpg"",""False"","""""
+"dulces,""aldor"",""pin pop bolsa surtida x24u"",""8000"",""img/dulces/aldor/pinpop.jpg"",""False"","""""
+"dulces,""aldor"",""pin pop polvo acido x12u"",""8600"",""img/dulces/aldor/pinpopolvoac.jpg"",""False"","""""
+"dulces,""aldor"",""pin pop polvo acido fresa x12u"",""8600"",""img/dulces/aldor/pinpopolvoafre.jpg"",""False"","""""
+"dulces,""aldor"",""sonetto chocolate x5ou"",""10500"",""img/dulces/aldor/sonetoazu.jpg"",""False"","""""
+"dulces,""aldor"",""sonetto chocolate blanco x5ou"",""10500"",""img/dulces/aldor/sonetoblan.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo limon 117gr x1u"",""3200"",""img/dulces/aldor/wafe117limon.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo chocolate 117gr x1u"",""3200"",""img/dulces/aldor/wafer117grcho.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo mora 117gr x1u"",""3200"",""img/dulces/aldor/wafer117mor.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo vainilla 117gr x1u"",""3200"",""img/dulces/aldor/wafe117vaini.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo fresa 117gr x1u"",""3200"",""img/dulces/aldor/wafer117fre.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo limon 70gr x1u"",""2300"",""img/dulces/aldor/wafital70glim.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo chocolate 70gr x1u"",""2300"",""img/dulces/aldor/waferi70grchoco.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo vainilla 70gr x1u"",""2300"",""img/dulces/aldor/waferi70gvai.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo mora 70gr x1u"",""2300"",""img/dulces/aldor/waferit70gmora.jpg"",""False"","""""
+"dulces,""aldor"",""wafers italo fresa 70gr x1u"",""2300"",""img/dulces/aldor/wafit70gfresa.jpg"",""False"","""""
+"dulces,""super"",""trululu caja maxi nanos x12u"",""32000"",""img/dulces/super/nanoscaja.jpg"",""False"","""""
+"dulces,""super"",""trululu caja maxi nanos surtida x12u"",""32000"",""img/dulces/super/nanossurt.jpg"",""False"","""""
+"dulces,""super"",""trululu caja 70gr x24u"",""48000"",""img/dulces/super/cajatrululux24.jpg"",""False"","""""
+"dulces,""super"",""trululu chocopostre 54gr x12u"",""31000"",""img/dulces/super/chocopostregomas.jpg"",""False"","""""
+"dulces,""super"",""trululu masmelos 54gr x12u"",""25000"",""img/dulces/super/trululumasm.jpg"",""False"","""""
+"dulces,""super"",""trululu chococolores x18u"",""33000"",""img/dulces/super/chococolores.jpg"",""False"","""""
+"dulces,""super"",""trululu sabores x12u"",""13000"",""img/dulces/super/trululusabo.jpg"",""False"","""""
+"dulces,""super"",""trolli xl 70gr x20u"",""30000"",""img/dulces/super/trolli70g.jpg"",""False"","""""
+"dulces,""super"",""trolli 35gr x24u"",""30000"",""img/dulces/super/trolli35gr.jpg"",""False"","""""
+"dulces,""super"",""barrilete x40u"",""10300"",""img/dulces/super/bolsabarrilete.jpg"",""False"","""""
+"dulces,""super"",""bianchi chocolate blanco x100u"",""14700"",""img/dulces/super/bianchib.jpg"",""False"","""""
+"dulces,""super"",""bianchi chocolate negro x100u"",""14700"",""img/dulces/super/bianchia.jpg"",""False"","""""
+"dulces,""super"",""chao fresa dulce bolsa x100u"",""8500"",""img/dulces/super/chaofresap.jpg"",""False"","""""
+"dulces,""super"",""chao menta dulce bolsa x100u"",""8500"",""img/dulces/super/chaomentap.jpg"",""False"","""""
+"dulces,""super"",""chao pastillas cereza x16u"",""13600"",""img/dulces/super/chaopastilla.jpg"",""False"","""""
+"dulces,""super"",""lokiño bolsa x100u"",""8500"",""img/dulces/super/lokiño.jpg"",""False"","""""
+"dulces,""super"",""mist halls bolsa x100u"",""11000"",""img/dulces/super/mistbol.jpg"",""False"","""""
+"dulces,""super"",""revolcon x50u"",""7700"",""img/dulces/super/revolconbolsa.jpg"",""False"","""""
+"dulces,""super"",""super coco x50u"",""17100"",""img/dulces/super/supercocobolsa.jpg"",""False"","""""
+"dulces,""colombina"",""bon bon bum barra masticable x40u"",""10200"",""img/dulces/colombina/barritabon.jpg"",""False"","""""
+"dulces,""colombina"",""bon bon bum rojo x24u"",""10800"",""img/dulces/colombina/bombun.jpg"",""False"","""""
+"dulces,""colombina"",""bon bon bum surtido x24u"",""10800"",""img/dulces/colombina/bombunsur.jpg"",""False"","""""
+"dulces,""colombina"",""bon bon bum tajin x12u"",""18200"",""img/dulces/colombina/bomtajin.jpg"",""False"","""""
+"dulces,""colombina"",""caramelo blando nucita x100u"",""13000"",""img/dulces/colombina/nucitacarmelob.jpg"",""False"","""""
+"dulces,""colombina"",""coffe delight caramelo blando bolsa x100u"",""13000"",""img/dulces/colombina/coffblando.jpg"",""False"","""""
+"dulces,""colombina"",""coffe delight caramelo duro bolsa x100u"",""10000"",""img/dulces/colombina/coffeduro.jpg"",""False"","""""
+"dulces,""colombina"",""coffe delight caramelo relleno bolsa x100u"",""13000"",""img/dulces/colombina/cofferelle.jpg"",""False"","""""
+"dulces,""colombina"",""choco disk candy caja x18u"",""18000"",""img/dulces/colombina/chocdiskcan.jpg"",""False"","""""
+"dulces,""colombina"",""choco disk cubierto de chocolate con mani x12u"",""15000"",""img/dulces/colombina/chocodiskmani.jpg"",""False"","""""
+"dulces,""colombina"",""chocolatina muu x24u"",""24000"",""img/dulces/colombina/chocodiskmani.jpg"",""False"","""""
+"dulces,""colombina"",""crema muu x12u"",""6000"",""img/dulces/colombina/muuderret.jpg"",""False"","""""
+"dulces,""colombina"",""chocobreak frutal x30u"",""9800"",""img/dulces/colombina/chocobrealf30.jpg"",""False"","""""
+"dulces,""colombina"",""chocobreak frutal x50u"",""15600"",""img/dulces/colombina/chocobrx50.jpg"",""False"","""""
+"dulces,""colombina"",""chocobreak cookies x30u"",""10000"",""img/dulces/colombina/chocbrecookiex30.jpg"",""False"","""""
+"dulces,""colombina"",""chocoball x50u"",""8200"",""img/dulces/colombina/chocoballbolsa.jpg"",""False"","""""
+"dulces,""colombina"",""chupeta tipitin x50u"",""9000"",""img/dulces/colombina/colombtipitin.jpg"",""False"","""""
+"dulces,""colombina"",""chupeta pirulito x12u"",""8500"",""img/dulces/colombina/pirulitobolsa.jpg"",""False"","""""
+"dulces,""colombina"",""fruticas de relleno bolsa x100u"",""11500"",""img/dulces/colombina/frutibolsa.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge chocolate x10u"",""7400"",""img/dulces/colombina/bridgechocolate.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge naranja x10u"",""7400"",""img/dulces/colombina/bridgenara.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge vainilla x10u"",""7400"",""img/dulces/colombina/bridgevain.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge fresa x10u"",""7400"",""img/dulces/colombina/bridgefresa.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge arequipe x10u"",""7400"",""img/dulces/colombina/bridgareq.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge ron con pasas x10u"",""7400"",""img/dulces/colombina/bridgeronpa.jpg"",""False"","""""
+"dulces,""colombina"",""galleta wafer bridge limon x10u"",""7400"",""img/dulces/colombina/caprilimon9.jpg"",""False"","""""
+"dulces,""colombina"",""goma grissly 72g x6u"",""12000"",""img/dulces/colombina/gomagrisly.jpg"",""False"","""""
+"dulces,""colombina"",""gomas grissly splash x100u"",""17700"",""img/dulces/colombina/cajagoma100g.jpg"",""False"","""""
+"dulces,""colombina"",""gomas bon bon bum 45gr x1u"",""1400"",""img/dulces/colombina/bonbongc.jpg"",""False"","""""
+"dulces,""colombina"",""gomitas bon bon bum x80u"",""14200"",""img/dulces/colombina/bonbongc.jpg"",""False"","""""
+"dulces,""colombina"",""nucita crema x18u"",""12000"",""img/dulces/colombina/nucitacrispy.jpg"",""False"","""""
+"dulces,""colombina"",""nucita nuges x20u"",""16600"",""img/dulces/colombina/nugesn.jpg"",""False"","""""
+"dulces,""colombina"",""nucita galleta avellana x8u"",""5500"",""img/dulces/colombina/galletawafernucitaave.jpg"",""False"","""""
+"dulces,""colombina"",""chocolatina nucita x12u"",""22200"",""img/dulces/colombina/choconucita.jpg"",""False"","""""
+"dulces,""colombina"",""nucita avellana con chocolate x8u"",""11600"",""img/dulces/colombina/galletawafernucitacubchoco.jpg"",""False"","""""
+"dulces,""colombina"",""masmelo chocmelos snack fresa 32gr x1u"",""2100"",""img/dulces/colombina/chocmelofresa.jpg"",""False"","""""
+"dulces,""colombina"",""masmelo chocmelos snack vainilla 32gr x1u"",""2100"",""img/dulces/colombina/chocmevaib.jpg"",""False"","""""
+"dulces,""colombina"",""masmelo millows bolsa x50u"",""8600"",""img/dulces/colombina/millows50u.jpg"",""False"","""""
+"dulces,""colombina"",""Masmelo millows fresas con crema,blanco  X35Gr X6U"",""9600"",""img/dulces/colombina/millowfresayvainilla.jpg"",""False"","""""
+"dulces,""colombina"",""max combi bolsa x100u"",""8500"",""img/dulces/colombina/bolsamaxcombi.jpg"",""False"","""""
+"dulces,""colombina"",""minibum surtido bolsa x100u"",""11200"",""img/dulces/colombina/minibumbo.jpg"",""False"","""""
+"dulces,""colombina"",""menta helada x100u"",""8500"",""img/dulces/colombina/mentaheladab.jpg"",""False"","""""
+"dulces,""colombina"",""piazzabarquillo jirafa chocolate x24u"",""11000"",""img/dulces/colombina/piazzacho.jpg"",""False"","""""
+"dulces,""colombina"",""piazzabarquillo jirafa chocoleche x24u"",""11000"",""img/dulces/colombina/piazzablan.jpg"",""False"","""""
+"dulces,""colombina"",""piazzabarquillo jirafa arequipe x24u"",""11000"",""img/dulces/colombina/piazzaare.jpg"",""False"","""""
+"dulces,""colombina"",""piazzabarquillo jirafa fresa salvaje x24u"",""11000"",""img/dulces/colombina/piazzafresasal.jpg"",""False"","""""
+"dulces,""colombina"",""piazza barquillo 44gr fresa x1u"",""3400"",""img/dulces/colombina/piazzafresa.jpg"",""False"","""""
+"dulces,""colombina"",""splot chicle x100u"",""9000"",""img/dulces/colombina/splotchiclebolsa.jpg"",""False"","""""
+"dulces,""colombina"",""splot chicle bomba sandia x50u"",""7800"",""img/dulces/colombina/splotchicleaci.jpg"",""False"","""""
+"dulces,""colombina"",""splot chicle acido 5 en linea x24u"",""10000"",""img/dulces/colombina/splotlineaaci.jpg"",""False"","""""
+"dulces,""colombina"",""splot chicle e tattoo x120u"",""17000"",""img/dulces/colombina/splottatto.jpg"",""False"","""""
+"dulces,""colombina"",""snowmint krash x12u"",""9800"",""img/dulces/colombina/snowmint.jpg"",""False"","""""
+"dulces,""colombina"",""xtime chicle x100u"",""14500"",""img/dulces/colombina/chiclex100c.jpg"",""False"","""""
+"dulces,""colombina"",""xtime halls surtidos x100u"",""8600"",""img/dulces/colombina/hallsxtimebolsa.jpg"",""False"","""""
+"dulces,""colombina"",""xtime chicle x200u bolsa"",""26800"",""img/dulces/colombina/chicleschixt.jpg"",""False"","""""
+"dulces,""nutresa"",""chocolate corona caja x40u"",""36800"",""img/dulces/nutresa/chococopasx40.jpg"",""False"","""""
+"dulces,""nutresa"",""festival vainilla 4x12"",""11700"",""img/dulces/nutresa/festvaix4.jpg"",""False"","""""
+"dulces,""nutresa"",""festival limon 4x12"",""11700"",""img/dulces/nutresa/fesrlimx4.jpg"",""False"","""""
+"dulces,""nutresa"",""festival fresa 4x12"",""11700"",""img/dulces/nutresa/festfrex4.jpg"",""False"","""""
+"dulces,""nutresa"",""festival chocolate 4x12"",""11700"",""img/dulces/nutresa/feschox4.jpg"",""False"","""""
+"dulces,""nutresa"",""festival recreo 6x12"",""14900"",""img/dulces/nutresa/festirecrex6.jpg"",""False"","""""
+"dulces,""nutresa"",""festival fresa 6x12"",""14900"",""img/dulces/nutresa/fetivalfresa6.jpg"",""False"","""""
+"dulces,""nutresa"",""festival chocolate 6x12"",""14900"",""img/dulces/nutresa/festchox6.jpg"",""False"","""""
+"dulces,""nutresa"",""festival limon 6x12"",""14900"",""img/dulces/nutresa/festlx6.jpg"",""False"","""""
+"dulces,""nutresa"",""festival vainilla 6x12"",""14900"",""img/dulces/nutresa/festvaix6.jpg"",""False"","""""
+"dulces,""nutresa"",""festival minichips x12u"",""17100"",""img/dulces/nutresa/minichipg.jpg"",""False"","""""
+"dulces,""nutresa"",""gol mega arequipe 52gr x8u"",""19900"",""img/dulces/nutresa/megaarequipe.jpg"",""False"","""""
+"dulces,""nutresa"",""gol caramelo mani morado 31gr x15u"",""20000"",""img/dulces/nutresa/golmorado15.jpg"",""False"","""""
+"dulces,""nutresa"",""burbujas jet x12u"",""10800"",""img/dulces/nutresa/burbujas.jpg"",""False"","""""
+"dulces,""nutresa"",""burbujas jet cookies and cream x10u"",""9000"",""img/dulces/nutresa/burbujascream.jpg"",""False"","""""
+"dulces,""nutresa"",""baloncitos x100U"",""35500"",""img/dulces/nutresa/baloncitos.jpg"",""False"","""""
+"dulces,""nutresa"",""jet mini x24u"",""17300"",""img/dulces/nutresa/jetmini24.jpg"",""False"","""""
+"dulces,""nutresa"",""jet chocolatina 11gr caja x50u"",""45100"",""img/dulces/nutresa/jet11gx50.jpg"",""False"","""""
+"dulces,""nutresa"",""jet chocolatina 11gr caja x24u"",""21700"",""img/dulces/nutresa/jet11gx24.jpg"",""False"","""""
+"dulces,""nutresa"",""jet chocolatina leche 45gr  x16u"",""71000"",""img/dulces/nutresa/jetleche45gr.jpg"",""False"","""""
+"dulces,""nutresa"",""jet cookies & cream 21gr x10u"",""34200"",""img/dulces/nutresa/cooki10g.jpg"",""False"","""""
+"dulces,""nutresa"",""jet cookies & cream 50gr x6u"",""30800"",""img/dulces/nutresa/cookies50g.jpg"",""False"","""""
+"dulces,""nutresa"",""Jet cookies & cream 24gr X18U"",""58500"",""img/dulces/nutresa/cream24gr.jpg"",""False"","""""
+"dulces,""nutresa"",""jet burbuejet cookies & cream 50gr x4u"",""20700"",""img/dulces/nutresa/burbucookies50gr.jpg"",""False"","""""
+"dulces,""nutresa"",""jet crujivainilla 50gr 50gr x6u"",""31100"",""img/dulces/nutresa/crujivainilla50g.jpg"",""False"","""""
+"dulces,""nutresa"",""jumbo mani 17gr x24u"",""32000"",""img/dulces/nutresa/jumbomani17g.jpg"",""False"","""""
+"dulces,""nutresa"",""jumbo mani 35gr x12u"",""41500"",""img/dulces/nutresa/jumbomani35g.jpg"",""False"","""""
+"dulces,""nutresa"",""jumbo mani 90gr x6u"",""45900"",""img/dulces/nutresa/jumbomani90g.jpg"",""False"","""""
+"dulces,""nutresa"",""jumbo flow blanca 48gr x12u"",""40500"",""img/dulces/nutresa/flowb.jpg"",""False"","""""
+"dulces,""nutresa"",""jumbo flow ccaramelo 48gr x12u"",""40500"",""img/dulces/nutresa/flowcafe.jpg"",""False"","""""
+"dulces,""nutresa"",""jumbo mix 60gr x12u"",""54800"",""img/dulces/nutresa/jumbomix.jpg"",""False"","""""
+"dulces,""nutresa"",""mani la especial kraks 25gr x12u"",""16000"",""img/dulces/nutresa/manikraf12.jpg"",""False"","""""
+"dulces,""nutresa"",""mani la especial de sal 35gr x12u"",""23400"",""img/dulces/nutresa/manisal12.jpg"",""False"","""""
+"dulces,""nutresa"",""mani la especial de uvas pasas 35gr x12u"",""23400"",""img/dulces/nutresa/maniuvapasa12.jpg"",""False"","""""
+"dulces,""nutresa"",""mani la especial limon y pimienta 40gr x12u"",""32000"",""img/dulces/nutresa/manipimienta12.jpg"",""False"","""""
+"dulces,""nutresa"",""mani la especial de arandanos 40gr x12u"",""35200"",""img/dulces/nutresa/manimixarandanos.jpg"",""False"","""""
+"dulces,""adams"",""bolsa de halls negra pepa x100u"",""16400"",""img/dulces/adams/bolsahallsp.jpg"",""False"","""""
+"dulces,""adams"",""bolsa de halls surtido pepa x100u"",""16400"",""img/dulces/adams/hallsssurpebol.jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12u lyptus"",""19800"",""img/dulces/adams/halssmoraba.jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12u yerbabuena"",""19800"",""img/dulces/adams/halsbver.jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12u cherry"",""19800"",""img/dulces/adams/hallsbache.jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12u menta"",""19800"",""img/dulces/adams/halsbmen.jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12unegro"",""19800"",""img/dulces/adams/halssbnegr.jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12u miellimon"",""19800"",""img/dulces/adams/hallsbarrar .jpg"",""False"","""""
+"dulces,""adams"",""halls 9sx12u cereza"",""19800"",""img/dulces/adams/hallsbarrarr.jpg"",""False"","""""
+"dulces,""adams"",""trident 1sx60u sandia"",""15300"",""img/dulces/adams/traid1ssan.jpg"",""False"","""""
+"dulces,""adams"",""trident 1sx60u menta"",""15300"",""img/dulces/adams/trident1smen.jpg"",""False"","""""
+"dulces,""adams"",""trident 1sx60u yerbabuena"",""15300"",""img/dulces/adams/triden1sver.jpg"",""False"","""""
+"dulces,""adams"",""trident 1sx60u mora"",""15300"",""img/dulces/adams/tri1smora.jpg"",""False"","""""
+"dulces,""adams"",""trident 1sx60u herbal"",""15300"",""img/dulces/adams/triden1sher.jpg"",""False"","""""
+"dulces,""adams"",""trident 3sx24u yerbabuena"",""24400"",""img/dulces/adams/tridenyerb3s.jpg"",""False"","""""
+"dulces,""adams"",""trident 3sx24u mora"",""24400"",""img/dulces/adams/trident3smora.jpg"",""False"","""""
+"dulces,""adams"",""trident 3sx24u herbal"",""24400"",""img/dulces/adams/trident3sherbal.jpg"",""False"","""""
+"dulces,""adams"",""trident 3sx24u sandia"",""24400"",""img/dulces/adams/trid3ssan.jpg"",""False"","""""
+"dulces,""adams"",""trident 3sx24u menta"",""24400"",""img/dulces/adams/trident3smenta.jpg"",""False"","""""
+"dulces,""adams"",""trident 5sx18u yerbabuena"",""27200"",""img/dulces/adams/tridentverde5s.jpg"",""False"","""""
+"dulces,""adams"",""trident 5sx18u menta"",""27200"",""img/dulces/adams/tridentazul5s.jpg"",""False"","""""
+"dulces,""adams"",""trident 5sx18u mora"",""27200"",""img/dulces/adams/tridentmora5s.jpg"",""False"","""""
+"dulces,""adams"",""trident 5sx18u herbal"",""27200"",""img/dulces/adams/herbaltri5s.jpg"",""False"","""""
+"dulces,""adams"",""trident 5sx18u sandia"",""27200"",""img/dulces/adams/tridentsan5s.jpg"",""False"","""""
+"dulces,""adams"",""Oreo  X6U"",""8700"",""img/dulces/adams/oreo6.jpg"",""False"","""""
+"dulces,""adams"",""Oreo X12U"",""7000"",""img/dulces/adams/oreo12.jpg"",""False"","""""
+"dulces,""adams"",""Oreo tubo 109Gr X1U"",""3000"",""img/dulces/adams/oreotubo.jpg"",""False"","""""
+"promociones,""promo"",""Brisa 600ml x2 Aplica solo 1 vez"",""0"",""img/promociones/promociones1.jpg"",""False"","""""
+"promociones,""promo"",""Coca cola zero 400ml x12"",""28000"",""img/promociones/promociones4.jpg"",""False"","""""
+"promociones,""promo"",""Sporade x12"",""22000"",""img/promociones/promociones2.jpg"",""False"","""""
+"promociones,""promo"",""Gaesosa 2.5 x8"",""36800"",""img/promociones/promociones3.jpg"",""False"","""""
+"Electrolic,""suero"",""Electrolic maracuya 620ml x1"",""7300"",""img/Electrolic/electrolicmaracuya.jpg"",""False"","""""
+"Electrolic,""suero"",""Electrolic Fresa-kiwi 620ml x1"",""7300"",""img/Electrolic/electrolicfresakiwi.jpg"",""False"","""""
+"Electrolic,""suero"",""Electrolic Fresa 620ml x1"",""7300"",""img/Electrolic/electrolicfresa.jpg"",""False"","""""
+"Electrolic,""suero"",""Electrolic Mora azul 620ml x1"",""7300"",""img/Electrolic/electrolicmoraazul.jpg"",""False"","""""
+"Electrolic,""suero"",""Electrolic Uva620ml x1"",""7300"",""img/Electrolic/electrolicuva.jpg"",""False"","""""
+"suerox,""suero"",""Suerox 630 sicpack surtidoa"",""27000"",""img/suerox/sueroxsixck.jpg"",""False"","""""
